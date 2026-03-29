@@ -1,0 +1,1001 @@
+Campaign_ID,Campaign_Type,Target_Audience,Channel_Used,Language,Customer_Segment,campaign_start_date,campaign_end_date,total_duration_days,impressions,clicks,leads,conversions,revenue,acquisition_cost,avg_roi,avg_engagement_score
+NY-CMP-1000,"Social Media","College Students","WhatsApp, YouTube",Hindi,"College Students",2025-04-29,2025-04-29,21,57804,6156,3616,2355,1867515,111.03,6.14,20.98
+NY-CMP-1001,"Paid Ads","Tier 2 City Customers",YouTube,Hindi,"College Students",2025-04-06,2025-04-06,18,91801,3321,1971,1357,1046247,180.83,3.26,7.24
+NY-CMP-1002,Influencer,Youth,"WhatsApp, Google, YouTube",English,"College Students",2025-01-14,2025-01-14,23,15536,2182,952,755,197055,90.6,1.88,25.03
+NY-CMP-1003,Email,"Working Women","YouTube, Facebook, Instagram",Hindi,"College Students",2025-06-04,2025-06-04,18,88114,8413,2231,947,376906,249.07,0.6,13.15
+NY-CMP-1004,"Paid Ads","College Students","Facebook, Instagram",Hindi,"Tier 2 City Customers",2024-12-29,2024-12-29,10,96871,3743,2060,1258,518296,228.6,0.8,7.29
+NY-CMP-1005,Influencer,Youth,"Email, Instagram",Hindi,"Premium Shoppers",2024-09-23,2024-09-23,26,83919,7497,2061,1555,877020,137.79,3.09,13.24
+NY-CMP-1006,"Paid Ads","College Students","YouTube, Google, WhatsApp",Tamil,Youth,2024-09-01,2024-09-01,21,82267,5534,1873,1386,633402,210.17,1.17,10.69
+NY-CMP-1007,"Social Media","Working Women","Instagram, WhatsApp, Google",Hindi,"Tier 2 City Customers",2025-05-31,2025-05-31,6,32482,2665,1488,925,326525,147.29,1.4,15.63
+NY-CMP-1008,Influencer,"Premium Shoppers","Facebook, WhatsApp, Email",Hindi,"Tier 2 City Customers",2025-03-24,2025-03-24,27,73813,8680,5031,2551,1058665,87.74,3.73,22.03
+NY-CMP-1009,"Social Media","College Students",Email,Hindi,Youth,2025-04-29,2025-04-29,11,88895,6284,1600,858,603174,269.82,1.61,9.83
+NY-CMP-1010,SEO,"Working Women","Google, Instagram",Hindi,"Working Women",2024-10-26,2024-10-26,5,59141,1556,580,221,121550,357.66,0.54,3.99
+NY-CMP-1011,SEO,Youth,"Facebook, YouTube",Hindi,"Premium Shoppers",2024-12-21,2024-12-21,7,39696,5623,1136,661,286874,163.52,1.65,18.69
+NY-CMP-1012,Email,Youth,"Email, Instagram, Facebook",Bengali,"Working Women",2024-09-30,2024-09-30,29,20080,570,258,183,128466,462.62,0.52,5.03
+NY-CMP-1013,SEO,Youth,Email,Tamil,"Premium Shoppers",2024-10-29,2024-10-29,14,96303,3749,1785,940,441800,282.05,0.67,6.72
+NY-CMP-1014,"Paid Ads","Premium Shoppers",Instagram,Bengali,"College Students",2024-07-06,2024-07-06,5,38072,2591,1542,769,240697,369.75,-0.15,12.88
+NY-CMP-1015,"Paid Ads","Working Women","Facebook, Instagram, Email",Hindi,"Premium Shoppers",2024-10-06,2024-10-06,23,28714,1511,441,158,33654,1648.61,-0.87,7.35
+NY-CMP-1016,SEO,"College Students",WhatsApp,English,"College Students",2024-12-18,2024-12-18,27,73474,4886,2344,1055,263750,272.28,-0.08,11.28
+NY-CMP-1017,"Paid Ads","Premium Shoppers","Google, YouTube, Instagram",Hindi,"Premium Shoppers",2025-04-19,2025-04-19,28,57060,1659,928,346,187186,448.86,0.21,5.14
+NY-CMP-1018,SEO,"Tier 2 City Customers",WhatsApp,Tamil,"Working Women",2025-01-18,2025-01-18,7,49784,1510,594,440,261800,115.42,4.16,5.11
+NY-CMP-1019,"Paid Ads","College Students",Instagram,English,"Tier 2 City Customers",2025-02-16,2025-02-16,21,55317,7847,1736,1079,715377,174.65,2.8,19.27
+NY-CMP-1020,"Paid Ads","Premium Shoppers","Google, YouTube",Bengali,Youth,2024-08-27,2024-08-27,27,10678,1217,524,163,111981,1124.19,-0.39,17.83
+NY-CMP-1021,SEO,"Working Women","Instagram, YouTube, Google",Hindi,Youth,2025-01-30,2025-01-30,22,27990,3508,761,385,155540,516.25,-0.22,16.63
+NY-CMP-1022,Email,"Working Women","WhatsApp, YouTube",Bengali,"Premium Shoppers",2025-02-03,2025-02-03,9,74423,3139,1622,1149,629652,89.52,5.12,7.94
+NY-CMP-1023,SEO,"Working Women","Google, Email, WhatsApp",Bengali,"Tier 2 City Customers",2025-05-07,2025-05-07,9,77708,4985,1363,916,632040,120.36,4.73,9.35
+NY-CMP-1024,SEO,"Working Women","YouTube, Facebook",English,"Working Women",2025-03-10,2025-03-10,21,89970,10679,4140,3003,1537536,69.87,6.33,19.81
+NY-CMP-1025,SEO,"Working Women","Google, Facebook",Hindi,"Tier 2 City Customers",2024-11-17,2024-11-17,25,96295,8911,2116,872,441232,148.17,2.41,12.36
+NY-CMP-1026,Influencer,"Working Women","Google, Instagram, WhatsApp",Tamil,"College Students",2024-10-16,2024-10-16,29,59234,4994,1531,892,226568,270.76,-0.06,12.52
+NY-CMP-1027,"Social Media","Working Women",YouTube,Tamil,"Premium Shoppers",2025-02-10,2025-02-10,15,74702,10110,5298,2481,1220652,49.62,8.91,23.95
+NY-CMP-1028,"Paid Ads",Youth,"Instagram, Google, YouTube",Tamil,"College Students",2025-03-30,2025-03-30,15,26353,3943,1879,746,458044,214.56,1.86,24.92
+NY-CMP-1029,Email,Youth,"WhatsApp, Instagram, Email",English,Youth,2024-07-24,2024-07-24,26,16978,1079,372,164,56908,1784.37,-0.81,9.51
+NY-CMP-1030,SEO,"College Students",YouTube,English,Youth,2025-03-17,2025-03-17,18,92924,9525,4340,2242,652422,27.28,9.67,17.33
+NY-CMP-1031,SEO,"Working Women","Email, Facebook, WhatsApp",Hindi,"Premium Shoppers",2025-06-04,2025-06-04,7,96549,13114,3791,1202,366610,74.34,3.1,18.75
+NY-CMP-1032,"Social Media","Premium Shoppers","Instagram, WhatsApp, Facebook",Tamil,"Premium Shoppers",2025-05-09,2025-05-09,17,72628,6488,1923,1181,243286,231.17,-0.11,13.21
+NY-CMP-1033,"Social Media",Youth,"WhatsApp, Google, YouTube",English,Youth,2024-12-31,2024-12-31,19,61270,3309,1588,582,346872,320.86,0.86,8.94
+NY-CMP-1034,SEO,"College Students","Email, Facebook, YouTube",Tamil,"Working Women",2024-07-05,2024-07-05,22,29199,1719,704,274,101928,727.09,-0.49,9.24
+NY-CMP-1035,"Paid Ads","College Students","Google, Facebook, WhatsApp",Tamil,"Tier 2 City Customers",2024-10-12,2024-10-12,11,19637,478,236,173,108471,498.5,0.26,4.52
+NY-CMP-1036,Influencer,"Premium Shoppers","Facebook, Instagram, Email",Hindi,"Tier 2 City Customers",2024-12-07,2024-12-07,19,23746,1503,747,458,101218,229.15,-0.04,11.4
+NY-CMP-1037,"Paid Ads","Tier 2 City Customers","Facebook, YouTube, Email",Bengali,Youth,2024-10-18,2024-10-18,6,53926,7219,1902,1105,339235,221.64,0.39,18.96
+NY-CMP-1038,Influencer,"Premium Shoppers",Email,English,Youth,2025-03-22,2025-03-22,6,35806,2631,999,365,198925,362.79,0.5,11.16
+NY-CMP-1039,Email,"Premium Shoppers","Facebook, YouTube, Instagram",Bengali,Youth,2024-10-21,2024-10-21,6,31729,2418,773,403,207142,400.55,0.28,11.33
+NY-CMP-1040,Influencer,"Premium Shoppers",Email,English,"Tier 2 City Customers",2024-09-15,2024-09-15,29,10338,864,412,299,127075,438.17,-0.03,15.24
+NY-CMP-1041,"Paid Ads","Tier 2 City Customers","Instagram, WhatsApp, Facebook",Bengali,"College Students",2025-03-23,2025-03-23,7,96095,12738,6327,2845,631590,56.36,2.94,22.8
+NY-CMP-1042,Influencer,"Premium Shoppers","WhatsApp, YouTube, Instagram",Hindi,"Working Women",2024-08-31,2024-08-31,7,96219,11237,5367,3599,910547,68.47,2.69,21
+NY-CMP-1043,Influencer,"Premium Shoppers",YouTube,Tamil,"College Students",2025-05-29,2025-05-29,30,37002,2753,979,780,371280,123.02,2.87,12.19
+NY-CMP-1044,SEO,"College Students","Google, Instagram",Bengali,"Tier 2 City Customers",2025-04-26,2025-04-26,29,65776,4977,1606,901,370311,74.44,4.52,11.38
+NY-CMP-1045,"Social Media","Tier 2 City Customers",WhatsApp,English,"Premium Shoppers",2024-08-24,2024-08-24,12,57520,3932,2101,1431,1027458,128.93,4.57,12.98
+NY-CMP-1046,Email,"Working Women","Facebook, WhatsApp, Google",Bengali,Youth,2024-08-05,2024-08-05,24,52752,5831,3299,2095,509085,139.77,0.74,21.28
+NY-CMP-1047,"Social Media","College Students",YouTube,Hindi,"Working Women",2025-04-02,2025-04-02,5,14944,1268,482,318,104304,319.84,0.03,13.84
+NY-CMP-1048,Email,Youth,Instagram,Tamil,"Working Women",2024-08-22,2024-08-22,22,53290,3905,1034,535,344540,131.77,3.89,10.27
+NY-CMP-1049,SEO,"Working Women",Google,English,"Working Women",2025-03-04,2025-03-04,14,41687,2215,911,568,358408,277.67,1.27,8.86
+NY-CMP-1050,"Paid Ads","Working Women","WhatsApp, Facebook",English,"Working Women",2024-11-04,2024-11-04,30,67932,9449,5194,3230,839800,33.28,6.81,26.31
+NY-CMP-1051,Email,"Tier 2 City Customers","Google, YouTube",Hindi,"Premium Shoppers",2025-04-16,2025-04-16,16,78991,6551,3460,2657,810385,49.89,5.11,16.04
+NY-CMP-1052,"Social Media","Working Women","Facebook, Instagram, WhatsApp",Bengali,"Premium Shoppers",2024-11-15,2024-11-15,12,97822,5691,2022,1271,579576,210.15,1.17,9.18
+NY-CMP-1053,Email,"Tier 2 City Customers","YouTube, Facebook, Email",English,"Premium Shoppers",2024-08-07,2024-08-07,14,77985,6461,3033,1379,995638,180.5,3,13.94
+NY-CMP-1054,"Paid Ads","Working Women","Google, YouTube, Instagram",Tamil,"College Students",2025-06-13,2025-06-13,12,82079,2124,1057,472,232224,620.82,-0.21,4.45
+NY-CMP-1055,"Paid Ads","Tier 2 City Customers",Instagram,Bengali,"Premium Shoppers",2025-03-18,2025-03-18,16,66781,8932,3662,1790,721370,150.42,1.68,21.54
+NY-CMP-1056,Influencer,"Working Women","Email, Facebook",English,"Tier 2 City Customers",2024-07-27,2024-07-27,11,72001,8840,2425,1271,846486,54.74,11.17,17.41
+NY-CMP-1057,Email,Youth,"WhatsApp, YouTube",Hindi,"Tier 2 City Customers",2024-12-03,2024-12-03,27,43454,5590,1836,1046,343088,182.35,0.8,19.5
+NY-CMP-1058,Influencer,"College Students","Instagram, Google",Tamil,"Tier 2 City Customers",2025-02-13,2025-02-13,28,24558,1700,671,326,235698,189.39,2.82,10.98
+NY-CMP-1059,Email,"Tier 2 City Customers","Instagram, Email, YouTube",Bengali,"Tier 2 City Customers",2025-03-11,2025-03-11,12,51784,3169,1762,1042,803382,141.09,4.46,11.53
+NY-CMP-1060,SEO,"Tier 2 City Customers","YouTube, Facebook, Google",Bengali,"College Students",2025-01-10,2025-01-10,12,61841,6086,2165,1542,1201218,38.2,19.39,15.84
+NY-CMP-1061,SEO,Youth,Email,Bengali,Youth,2025-04-30,2025-04-30,5,80683,2154,985,786,248376,244.18,0.29,4.86
+NY-CMP-1062,Email,"Premium Shoppers","Facebook, Instagram",Bengali,"Tier 2 City Customers",2024-09-01,2024-09-01,20,82701,4194,1345,869,323268,230.37,0.61,7.75
+NY-CMP-1063,SEO,Youth,WhatsApp,Hindi,"College Students",2025-02-24,2025-02-24,8,80457,9646,2336,1659,643692,125.03,2.1,16.95
+NY-CMP-1064,SEO,"College Students","YouTube, WhatsApp",Hindi,Youth,2025-05-28,2025-05-28,13,34565,819,304,211,137150,1099.71,-0.41,3.86
+NY-CMP-1065,Email,"Working Women","YouTube, Facebook, Google",Tamil,"Tier 2 City Customers",2025-04-29,2025-04-29,25,41740,1039,561,322,154882,328.9,0.46,4.6
+NY-CMP-1066,"Social Media","College Students","Instagram, Google",Tamil,"Tier 2 City Customers",2024-08-17,2024-08-17,29,28052,1240,513,377,166634,221.3,1,7.59
+NY-CMP-1067,"Social Media",Youth,"WhatsApp, Facebook, YouTube",Tamil,"Premium Shoppers",2025-02-06,2025-02-06,6,36769,2948,797,370,237170,576.24,0.11,11.19
+NY-CMP-1068,Email,"College Students",WhatsApp,English,"Working Women",2025-03-25,2025-03-25,26,59910,3712,1431,951,427950,303.73,0.48,10.17
+NY-CMP-1069,"Social Media","Working Women","Google, WhatsApp",English,"Premium Shoppers",2024-07-12,2024-07-12,20,51907,1717,484,275,137225,316.3,0.58,4.77
+NY-CMP-1070,Email,"Working Women","Email, Instagram",English,"Tier 2 City Customers",2025-03-26,2025-03-26,21,54847,7764,3946,1326,502554,50.86,6.45,23.77
+NY-CMP-1071,"Social Media","Working Women",Google,Hindi,"Tier 2 City Customers",2024-12-23,2024-12-23,11,68542,8178,3828,1207,280024,179.89,0.29,19.28
+NY-CMP-1072,Influencer,"College Students","Google, YouTube",Tamil,"College Students",2024-12-27,2024-12-27,17,73165,5735,2225,1582,1170680,143.08,4.17,13.04
+NY-CMP-1073,Email,"Working Women","Instagram, YouTube",Hindi,"College Students",2024-09-15,2024-09-15,17,26416,1545,401,226,68478,395.28,-0.23,8.22
+NY-CMP-1074,Email,"Tier 2 City Customers","WhatsApp, Email, Google",Bengali,"Working Women",2024-08-29,2024-08-29,11,97611,7838,2476,1741,541451,164.53,0.89,12.35
+NY-CMP-1075,Email,"Premium Shoppers",YouTube,Bengali,"Working Women",2024-11-14,2024-11-14,29,48871,6658,3972,2058,1636110,133.98,4.93,25.96
+NY-CMP-1076,Influencer,"Tier 2 City Customers","Google, Facebook, Instagram",English,Youth,2024-07-07,2024-07-07,24,74794,6057,1939,1470,799680,100.41,4.42,12.66
+NY-CMP-1077,"Social Media","Premium Shoppers","Instagram, YouTube, WhatsApp",English,"Working Women",2025-02-23,2025-02-23,13,37745,1091,361,114,45030,1000.73,-0.61,4.15
+NY-CMP-1078,Email,"Working Women","Instagram, Facebook, Google",Bengali,"Premium Shoppers",2024-07-20,2024-07-20,26,41410,905,449,156,75504,1252.69,-0.61,3.65
+NY-CMP-1079,"Paid Ads","Premium Shoppers","Instagram, Email, YouTube",Bengali,"Premium Shoppers",2024-08-28,2024-08-28,17,30448,4531,1041,767,546871,315.83,1.26,20.82
+NY-CMP-1080,Email,"Working Women","Email, Google",Bengali,Youth,2025-03-09,2025-03-09,6,79031,7614,1912,1166,719422,87.2,6.08,13.53
+NY-CMP-1081,"Social Media",Youth,"Email, Instagram, WhatsApp",Hindi,"Working Women",2025-01-15,2025-01-15,12,69794,3864,1627,923,318435,271.48,0.27,9.19
+NY-CMP-1082,"Social Media","Tier 2 City Customers",Google,Hindi,"Working Women",2025-05-09,2025-05-09,11,10613,1093,468,344,73272,693.71,-0.69,17.95
+NY-CMP-1083,SEO,Youth,"WhatsApp, Facebook, Google",Hindi,"Premium Shoppers",2025-06-11,2025-06-11,9,14824,1848,713,229,111294,542.97,-0.1,18.82
+NY-CMP-1084,Influencer,"Tier 2 City Customers",WhatsApp,Tamil,"College Students",2024-11-06,2024-11-06,22,38900,4362,1416,1056,291456,212.22,0.3,17.57
+NY-CMP-1085,"Paid Ads",Youth,"Email, WhatsApp, Facebook",Hindi,"Premium Shoppers",2025-06-07,2025-06-07,10,27040,1352,274,153,42075,460.92,-0.4,6.58
+NY-CMP-1086,Influencer,"College Students","Facebook, Instagram",Bengali,Youth,2024-09-29,2024-09-29,16,45406,2768,1052,747,511695,321.69,1.13,10.06
+NY-CMP-1087,"Social Media","College Students","Instagram, Google",English,"College Students",2025-06-20,2025-06-20,5,48041,2478,1229,553,311892,511.7,0.1,8.87
+NY-CMP-1088,"Social Media","Working Women","Instagram, Facebook, Email",Bengali,"Working Women",2024-10-29,2024-10-29,30,84207,6175,1941,1352,461032,214.63,0.59,11.24
+NY-CMP-1089,"Social Media",Youth,"Google, WhatsApp",Hindi,"Tier 2 City Customers",2024-08-27,2024-08-27,16,77548,1844,706,226,72772,1072.32,-0.7,3.58
+NY-CMP-1090,Email,"Premium Shoppers","Instagram, Email",Tamil,"Tier 2 City Customers",2024-11-05,2024-11-05,13,76619,7278,3935,1746,790938,152.82,1.96,16.91
+NY-CMP-1091,SEO,"Tier 2 City Customers",YouTube,English,"Premium Shoppers",2025-04-10,2025-04-10,21,37600,2906,1624,1006,690116,253.33,1.71,14.72
+NY-CMP-1092,"Social Media","College Students","WhatsApp, Instagram, Google",Hindi,"Tier 2 City Customers",2025-04-12,2025-04-12,7,32302,1239,367,156,124800,1295.52,-0.38,5.45
+NY-CMP-1093,Email,"Premium Shoppers","Email, YouTube, WhatsApp",Hindi,"Working Women",2025-01-25,2025-01-25,9,11042,459,189,96,60960,2660.53,-0.76,6.74
+NY-CMP-1094,Influencer,"College Students",Google,Hindi,"Working Women",2024-08-05,2024-08-05,18,12916,1058,269,84,23352,725.46,-0.62,10.92
+NY-CMP-1095,"Paid Ads","Working Women","Google, Facebook, Instagram",English,Youth,2024-08-11,2024-08-11,29,73403,7231,1683,766,311762,337.92,0.2,13.19
+NY-CMP-1096,"Paid Ads","Premium Shoppers",Instagram,Tamil,Youth,2024-09-10,2024-09-10,18,71114,1814,870,350,232750,827.25,-0.2,4.27
+NY-CMP-1097,Email,"Working Women","Email, WhatsApp",Hindi,"Working Women",2024-11-23,2024-11-23,21,96478,3700,1111,711,366876,282.59,0.83,5.72
+NY-CMP-1098,SEO,"Working Women",Email,English,"Working Women",2024-11-19,2024-11-19,21,96239,3852,2172,1568,460992,110.5,1.66,7.89
+NY-CMP-1099,"Paid Ads","Working Women","Instagram, WhatsApp, Google",English,"Premium Shoppers",2025-03-24,2025-03-24,22,15712,2049,698,518,161616,185.06,0.69,20.78
+NY-CMP-1100,SEO,"Tier 2 City Customers","Email, Google, Facebook",Bengali,"Tier 2 City Customers",2025-01-08,2025-01-08,5,65961,3729,1011,805,642390,117.32,5.8,8.41
+NY-CMP-1101,Influencer,"Working Women","Google, Facebook",Hindi,Youth,2025-01-07,2025-01-07,24,91963,9000,4091,1250,507500,150.39,1.7,15.59
+NY-CMP-1102,"Social Media","Tier 2 City Customers","Email, Instagram, Facebook",Tamil,"Premium Shoppers",2024-10-20,2024-10-20,10,41454,6034,2744,1271,441037,64.77,4.36,24.24
+NY-CMP-1103,"Paid Ads","Premium Shoppers","Google, YouTube, WhatsApp",Bengali,"Working Women",2025-03-21,2025-03-21,27,62808,3704,743,431,286615,207.69,2.2,7.77
+NY-CMP-1104,"Social Media","College Students",WhatsApp,Hindi,"College Students",2025-05-31,2025-05-31,16,44568,5722,2794,2033,742045,119.14,2.06,23.67
+NY-CMP-1105,SEO,"Premium Shoppers","Email, WhatsApp",Bengali,"Working Women",2024-08-23,2024-08-23,23,78393,10859,4614,2346,1381794,48.99,11.02,22.73
+NY-CMP-1106,SEO,Youth,Google,Hindi,"Tier 2 City Customers",2024-11-05,2024-11-05,16,36778,2873,976,338,240656,547.44,0.3,11.38
+NY-CMP-1107,Influencer,Youth,Email,Tamil,"Tier 2 City Customers",2025-01-27,2025-01-27,19,29254,3754,1868,942,399408,296.39,0.43,22.44
+NY-CMP-1108,SEO,Youth,"Facebook, Instagram, YouTube",Hindi,Youth,2024-11-20,2024-11-20,13,16762,1911,519,285,180405,1018.44,-0.38,16.2
+NY-CMP-1109,Influencer,"College Students",Facebook,Bengali,"Premium Shoppers",2024-12-23,2024-12-23,8,30349,1590,535,416,143104,130.39,1.64,8.37
+NY-CMP-1110,"Paid Ads","Working Women","WhatsApp, Instagram, Google",Bengali,"College Students",2025-04-29,2025-04-29,6,93228,5488,2887,1070,739370,249.36,1.77,10.13
+NY-CMP-1111,Influencer,"College Students",Google,Bengali,"Premium Shoppers",2025-05-27,2025-05-27,16,32725,917,353,262,133096,277.31,0.83,4.68
+NY-CMP-1112,"Social Media","Tier 2 City Customers","Facebook, Google",Bengali,"Working Women",2025-06-19,2025-06-19,6,37912,2193,1175,779,555427,69.68,9.23,10.94
+NY-CMP-1113,Influencer,Youth,"WhatsApp, Facebook, Instagram",English,"Working Women",2024-09-13,2024-09-13,28,84684,6830,3006,2183,1403669,37.23,16.27,14.19
+NY-CMP-1114,"Social Media","Tier 2 City Customers","Facebook, Instagram, YouTube",Hindi,"College Students",2024-09-26,2024-09-26,27,51006,7110,2461,769,432178,298.91,0.88,20.27
+NY-CMP-1115,Influencer,"Working Women","WhatsApp, Facebook",Bengali,"Working Women",2025-05-10,2025-05-10,10,71767,10510,5442,3276,1539720,60.15,6.81,26.79
+NY-CMP-1116,"Paid Ads","College Students","WhatsApp, Facebook, YouTube",English,"Working Women",2024-08-23,2024-08-23,17,92095,9825,4595,2248,1717472,34.81,20.95,18.1
+NY-CMP-1117,"Paid Ads",Youth,Facebook,Hindi,"College Students",2024-12-15,2024-12-15,20,74063,6065,1600,687,324951,297.63,0.59,11.28
+NY-CMP-1118,"Social Media","Working Women","Instagram, YouTube, Google",English,"Premium Shoppers",2024-10-18,2024-10-18,13,36974,3888,2249,752,407584,182.75,1.97,18.63
+NY-CMP-1119,Email,"Premium Shoppers",YouTube,Tamil,Youth,2025-06-13,2025-06-13,15,46818,3423,2031,1219,884994,154.12,3.71,14.25
+NY-CMP-1120,Influencer,"Premium Shoppers",YouTube,English,"Tier 2 City Customers",2024-11-17,2024-11-17,26,80082,10026,2337,1352,913952,80.25,7.42,17.13
+NY-CMP-1121,Email,"Working Women","Instagram, Facebook",Bengali,"Premium Shoppers",2025-01-09,2025-01-09,11,18334,2001,1096,868,402752,165.01,1.81,21.63
+NY-CMP-1122,Influencer,"Working Women",Facebook,Hindi,"Premium Shoppers",2025-01-24,2025-01-24,21,74764,8071,3586,1901,885866,155.84,1.99,18.13
+NY-CMP-1123,"Social Media","Tier 2 City Customers","Instagram, Email",Hindi,"Premium Shoppers",2025-04-02,2025-04-02,29,74129,2626,1462,1163,623368,141.12,2.8,7.08
+NY-CMP-1124,Influencer,"Tier 2 City Customers",Facebook,Hindi,"Working Women",2025-05-19,2025-05-19,29,27923,2989,1452,817,625822,359.28,1.13,18.83
+NY-CMP-1125,"Paid Ads","College Students","Instagram, Facebook, Email",English,"Premium Shoppers",2024-12-15,2024-12-15,28,19354,637,246,74,33522,1025.97,-0.56,4.94
+NY-CMP-1126,"Social Media","Tier 2 City Customers","Instagram, Google",Bengali,"Tier 2 City Customers",2024-11-26,2024-11-26,8,25188,1025,472,187,118558,480.96,0.32,6.69
+NY-CMP-1127,Influencer,"Premium Shoppers",WhatsApp,Tamil,"College Students",2025-01-20,2025-01-20,18,29617,2372,865,538,368530,168.8,3.06,12.75
+NY-CMP-1128,SEO,"Premium Shoppers","Email, Instagram",Hindi,"Working Women",2024-12-04,2024-12-04,27,25041,3511,991,379,223231,598.76,-0.02,19.49
+NY-CMP-1129,"Social Media","Working Women","Email, Google",Hindi,Youth,2025-05-21,2025-05-21,11,78990,2360,1125,732,453840,347.66,0.78,5.34
+NY-CMP-1130,Email,Youth,Facebook,Hindi,Youth,2025-05-01,2025-05-01,30,88461,2327,999,358,100956,410.1,-0.31,4.16
+NY-CMP-1131,SEO,"Tier 2 City Customers",Email,Tamil,"Premium Shoppers",2025-06-04,2025-06-04,16,16853,656,378,287,80073,1039.27,-0.73,7.84
+NY-CMP-1132,SEO,"Working Women","WhatsApp, Google",Tamil,Youth,2025-04-29,2025-04-29,20,83484,6219,2837,1554,536130,69.08,3.99,12.71
+NY-CMP-1133,"Paid Ads","Premium Shoppers",Facebook,Tamil,"Working Women",2024-11-24,2024-11-24,18,79948,1641,630,499,279440,465.08,0.2,3.46
+NY-CMP-1134,SEO,"College Students","Email, Facebook",Tamil,"Premium Shoppers",2025-06-10,2025-06-10,10,83836,9077,3824,1553,851044,106.54,4.14,17.24
+NY-CMP-1135,"Paid Ads",Youth,"WhatsApp, Google",Bengali,"Tier 2 City Customers",2024-12-17,2024-12-17,6,82314,11125,4379,1588,1056020,82.69,7.04,20.76
+NY-CMP-1136,Email,Youth,"Instagram, YouTube, Google",Bengali,Youth,2024-12-17,2024-12-17,13,15809,2154,449,305,195200,491.68,0.3,18.39
+NY-CMP-1137,Influencer,"Working Women","Instagram, Facebook",Tamil,"Premium Shoppers",2025-01-22,2025-01-22,21,23866,1157,471,295,98530,542.93,-0.38,8.06
+NY-CMP-1138,SEO,"Premium Shoppers","WhatsApp, Google",English,"Tier 2 City Customers",2024-08-01,2024-08-01,19,73044,3187,1759,569,385782,184.41,2.68,7.55
+NY-CMP-1139,"Social Media","Tier 2 City Customers",Facebook,Hindi,"Premium Shoppers",2025-02-24,2025-02-24,23,26385,2511,940,434,199640,653.94,-0.3,14.72
+NY-CMP-1140,Email,"Premium Shoppers","Email, YouTube, Facebook",Tamil,"Tier 2 City Customers",2025-05-30,2025-05-30,5,68710,8506,4996,3472,2249856,38.16,15.98,24.7
+NY-CMP-1141,Email,"Premium Shoppers","Google, WhatsApp",Tamil,"College Students",2025-05-30,2025-05-30,17,66210,5609,2776,1529,518331,101.69,2.33,14.97
+NY-CMP-1142,SEO,"College Students","WhatsApp, Google, Email",English,"College Students",2025-04-07,2025-04-07,10,29278,3293,1504,1073,716764,254.52,1.62,20.05
+NY-CMP-1143,Email,"Premium Shoppers","WhatsApp, Instagram, YouTube",Bengali,Youth,2025-04-12,2025-04-12,30,35430,4351,1006,682,403062,165.63,2.57,17.04
+NY-CMP-1144,SEO,"College Students",Facebook,Hindi,"College Students",2024-09-03,2024-09-03,14,13214,530,213,156,118872,1568.28,-0.51,6.8
+NY-CMP-1145,Influencer,Youth,Instagram,Hindi,Youth,2025-01-12,2025-01-12,20,54685,5423,2255,1052,724828,279.17,1.47,15.96
+NY-CMP-1146,"Paid Ads","Premium Shoppers",Facebook,Hindi,"College Students",2024-11-19,2024-11-19,15,40445,2689,1201,814,351648,75.35,4.73,11.63
+NY-CMP-1147,Influencer,"Premium Shoppers","Email, Google",Bengali,"Premium Shoppers",2024-12-06,2024-12-06,18,45821,2552,965,733,433936,245.74,1.41,9.28
+NY-CMP-1148,Influencer,Youth,Instagram,English,"Premium Shoppers",2025-05-01,2025-05-01,9,51791,2432,1287,638,304326,421.13,0.13,8.41
+NY-CMP-1149,Influencer,"Tier 2 City Customers","Facebook, Email, YouTube",Hindi,"College Students",2025-02-17,2025-02-17,20,82365,9920,2972,2086,1410136,43.11,14.68,18.18
+NY-CMP-1150,SEO,"Premium Shoppers","Email, YouTube, Facebook",Tamil,"Working Women",2024-07-27,2024-07-27,7,68867,5342,2966,1331,806586,174.47,2.47,14
+NY-CMP-1151,Influencer,"College Students",Email,English,"Premium Shoppers",2025-03-30,2025-03-30,13,28582,2086,630,411,286467,590.9,0.18,10.94
+NY-CMP-1152,"Social Media","Tier 2 City Customers","Facebook, Instagram, WhatsApp",English,"Tier 2 City Customers",2024-12-11,2024-12-11,5,51059,4666,1088,708,489228,175.27,2.94,12.66
+NY-CMP-1153,Email,"College Students",Google,English,Youth,2024-12-19,2024-12-19,24,45295,1953,473,282,126618,1037.53,-0.57,5.98
+NY-CMP-1154,Email,"Premium Shoppers",Email,Bengali,"College Students",2025-01-14,2025-01-14,18,17721,1182,499,348,244644,562.61,0.25,11.45
+NY-CMP-1155,"Social Media","Working Women",Email,Tamil,"Premium Shoppers",2024-10-17,2024-10-17,19,69264,4578,2686,1713,426537,68.25,2.65,12.96
+NY-CMP-1156,Influencer,Youth,WhatsApp,Tamil,Youth,2025-03-11,2025-03-11,20,59293,3248,1030,375,159375,543.29,-0.22,7.85
+NY-CMP-1157,"Social Media","Working Women","Email, Instagram",Hindi,"Premium Shoppers",2025-03-18,2025-03-18,21,95024,4526,2403,1110,698190,208.42,2.02,8.46
+NY-CMP-1158,"Social Media","Premium Shoppers",Instagram,Bengali,"College Students",2025-04-11,2025-04-11,9,90608,4315,1453,798,454860,278.28,1.05,7.25
+NY-CMP-1159,Influencer,Youth,"YouTube, Email, WhatsApp",Hindi,"College Students",2025-02-28,2025-02-28,23,82580,4262,1550,640,503040,111.02,6.08,7.81
+NY-CMP-1160,"Paid Ads","Tier 2 City Customers","YouTube, Instagram, Email",Bengali,"Working Women",2024-07-30,2024-07-30,30,63757,7705,2853,2135,1505175,121.85,4.79,19.91
+NY-CMP-1161,"Social Media","Working Women","Email, Facebook, Instagram",Tamil,"College Students",2025-04-15,2025-04-15,30,11624,517,212,107,24182,602.61,-0.62,7.19
+NY-CMP-1162,Influencer,"College Students","Instagram, YouTube",Hindi,"Working Women",2024-12-08,2024-12-08,14,80088,8372,4336,1362,659208,164.45,1.94,17.57
+NY-CMP-1163,Email,"Tier 2 City Customers",Google,Tamil,"Working Women",2025-06-06,2025-06-06,22,19512,1861,467,154,69454,749.47,-0.4,12.72
+NY-CMP-1164,SEO,Youth,Email,Hindi,"Working Women",2025-03-31,2025-03-31,17,88983,3681,1549,1150,326600,259.94,0.09,7.17
+NY-CMP-1165,"Social Media","College Students","Facebook, Google, WhatsApp",Tamil,"Working Women",2024-07-17,2024-07-17,7,17111,1661,476,293,221801,926.14,-0.18,14.2
+NY-CMP-1166,SEO,"College Students","Email, YouTube, Facebook",English,"College Students",2025-04-21,2025-04-21,24,34872,2630,1328,742,389550,288.64,0.82,13.48
+NY-CMP-1167,"Paid Ads","Tier 2 City Customers",Email,Bengali,"Premium Shoppers",2025-03-19,2025-03-19,10,25223,1517,427,205,151495,1092.03,-0.32,8.52
+NY-CMP-1168,"Social Media","College Students","Instagram, Google",English,"Tier 2 City Customers",2024-08-23,2024-08-23,24,48451,4172,1639,744,575856,194.41,2.98,13.53
+NY-CMP-1169,Influencer,"College Students",WhatsApp,Tamil,Youth,2025-03-30,2025-03-30,8,65218,3095,1207,605,203280,157.55,1.13,7.52
+NY-CMP-1170,SEO,Youth,"Instagram, YouTube, WhatsApp",English,"Premium Shoppers",2025-04-13,2025-04-13,14,67143,6270,1563,996,367524,172.55,1.14,13.15
+NY-CMP-1171,"Paid Ads","College Students","Email, YouTube, Google",Bengali,"Tier 2 City Customers",2025-06-14,2025-06-14,15,52106,6537,3340,2149,530803,87.02,1.84,23.08
+NY-CMP-1172,SEO,"Premium Shoppers","Google, WhatsApp, YouTube",English,"Working Women",2024-09-05,2024-09-05,16,47178,5999,1619,787,208555,108.26,1.45,17.82
+NY-CMP-1173,"Social Media","College Students","WhatsApp, Instagram",English,"Premium Shoppers",2024-10-30,2024-10-30,20,36818,4147,1962,821,605077,285.43,1.58,18.82
+NY-CMP-1174,Influencer,"Tier 2 City Customers","Email, Instagram, Facebook",Hindi,"Premium Shoppers",2024-08-10,2024-08-10,29,43779,6115,2546,830,486380,147.54,2.97,21.68
+NY-CMP-1175,Email,"Premium Shoppers","Google, Email",Bengali,"Working Women",2025-01-06,2025-01-06,24,86278,8468,2627,894,313794,209.55,0.68,13.9
+NY-CMP-1176,"Social Media","Premium Shoppers","YouTube, WhatsApp",Tamil,Youth,2025-05-27,2025-05-27,21,76182,5221,1153,369,255717,457.74,0.51,8.85
+NY-CMP-1177,SEO,"Working Women","WhatsApp, Instagram, Email",English,"Tier 2 City Customers",2025-05-31,2025-05-31,6,19321,2135,842,668,315296,288.51,0.64,18.87
+NY-CMP-1178,"Social Media","Tier 2 City Customers",Instagram,Tamil,Youth,2025-02-03,2025-02-03,11,84073,8987,2501,1391,299065,200.36,0.07,15.32
+NY-CMP-1179,"Paid Ads","College Students",WhatsApp,Bengali,"Working Women",2024-11-14,2024-11-14,12,65938,3288,787,503,308842,584.84,0.05,6.94
+NY-CMP-1180,Email,"Working Women","Email, Instagram",Hindi,"Premium Shoppers",2025-03-05,2025-03-05,15,74125,2515,789,398,280988,169.17,3.17,4.99
+NY-CMP-1181,SEO,"College Students","YouTube, Facebook, WhatsApp",Hindi,"Working Women",2024-08-11,2024-08-11,14,25506,1598,642,445,208260,621.85,-0.25,10.53
+NY-CMP-1182,Email,"Tier 2 City Customers","Email, Facebook, WhatsApp",Tamil,"College Students",2025-04-07,2025-04-07,9,10381,1025,243,165,96690,1097.96,-0.47,13.8
+NY-CMP-1183,Email,"Premium Shoppers",WhatsApp,Hindi,"Working Women",2024-12-31,2024-12-31,6,90785,7279,3900,2596,1056572,43.42,8.37,15.17
+NY-CMP-1184,Email,Youth,"Facebook, YouTube, Email",Tamil,Youth,2025-02-27,2025-02-27,25,60728,6390,3134,1810,1134870,110.2,4.69,18.66
+NY-CMP-1185,"Social Media","Working Women",Instagram,Tamil,"Premium Shoppers",2025-06-12,2025-06-12,7,16698,556,128,57,42123,3507.65,-0.79,4.44
+NY-CMP-1186,Email,"Premium Shoppers","Email, YouTube",Bengali,"Premium Shoppers",2024-09-20,2024-09-20,20,97242,14022,3371,2067,824733,26.59,14,20.01
+NY-CMP-1187,SEO,"Premium Shoppers","Email, Google",English,"Tier 2 City Customers",2025-02-03,2025-02-03,24,90982,3250,1622,1245,750735,142.18,3.24,6.72
+NY-CMP-1188,"Paid Ads","Working Women","Google, YouTube, Facebook",Tamil,"Tier 2 City Customers",2024-11-29,2024-11-29,26,32842,4033,1838,1444,1121988,191.29,3.06,22.27
+NY-CMP-1189,"Social Media",Youth,"Google, Email, YouTube",Tamil,"Premium Shoppers",2025-05-05,2025-05-05,28,32021,3377,1323,474,179172,395.56,-0.04,16.16
+NY-CMP-1190,SEO,Youth,YouTube,English,"College Students",2024-11-16,2024-11-16,15,36796,1581,774,302,89392,638.87,-0.54,7.22
+NY-CMP-1191,Email,"College Students","Google, WhatsApp",Bengali,"Tier 2 City Customers",2025-06-07,2025-06-07,9,12688,1029,579,357,234906,684.03,-0.04,15.49
+NY-CMP-1192,"Social Media","Working Women",Email,Tamil,Youth,2025-05-17,2025-05-17,21,84359,11028,3084,1901,1186224,40.64,14.35,18.98
+NY-CMP-1193,"Social Media","Working Women","WhatsApp, YouTube, Facebook",Bengali,"College Students",2025-04-18,2025-04-18,9,52151,4951,1155,718,464546,255.1,1.54,13.09
+NY-CMP-1194,Influencer,"Premium Shoppers","Email, Instagram",English,"Premium Shoppers",2025-05-27,2025-05-27,7,99006,13901,5326,2649,1491387,22.58,23.93,22.1
+NY-CMP-1195,Influencer,"College Students",Google,Tamil,"Tier 2 City Customers",2025-02-22,2025-02-22,9,16548,1532,717,505,111100,231.54,-0.05,16.64
+NY-CMP-1196,SEO,"College Students",Facebook,English,"Tier 2 City Customers",2025-05-30,2025-05-30,16,82471,5797,3251,1940,1369640,101.63,5.95,13.32
+NY-CMP-1197,"Social Media","Premium Shoppers","Email, Google, WhatsApp",English,Youth,2024-08-29,2024-08-29,13,74621,4124,1052,353,110489,414.62,-0.25,7.41
+NY-CMP-1198,"Paid Ads","Premium Shoppers","Google, Instagram",Tamil,Youth,2025-03-16,2025-03-16,12,60166,7720,3135,1375,723250,184.29,1.85,20.33
+NY-CMP-1199,Influencer,"Working Women",Instagram,Tamil,"Working Women",2025-05-11,2025-05-11,14,23232,1381,498,269,101413,931.68,-0.6,9.25
+NY-CMP-1200,Influencer,Youth,"YouTube, Email",English,Youth,2025-02-28,2025-02-28,14,61590,3296,700,331,241299,606.17,0.2,7.03
+NY-CMP-1201,SEO,"Tier 2 City Customers",Instagram,Tamil,"Tier 2 City Customers",2024-08-01,2024-08-01,25,45557,3992,1691,995,584065,291.77,1.01,14.66
+NY-CMP-1202,Influencer,Youth,Google,Hindi,"Working Women",2025-03-09,2025-03-09,20,75362,2209,1054,805,509565,355.08,0.78,5.4
+NY-CMP-1203,"Paid Ads","Premium Shoppers",Instagram,English,"Working Women",2024-07-29,2024-07-29,5,18060,1179,300,113,23504,2337.42,-0.91,8.82
+NY-CMP-1204,SEO,"College Students","Instagram, Email",Hindi,"College Students",2024-08-24,2024-08-24,26,64756,8778,2316,1252,373096,85.43,2.49,19.07
+NY-CMP-1205,"Paid Ads","Premium Shoppers","YouTube, Email, Instagram",English,"Premium Shoppers",2025-01-21,2025-01-21,7,80324,5248,2799,1801,506081,35.88,6.83,12.26
+NY-CMP-1206,SEO,Youth,WhatsApp,Hindi,"Premium Shoppers",2025-04-14,2025-04-14,25,87064,3404,1029,342,144666,375.62,0.13,5.48
+NY-CMP-1207,"Social Media","College Students",Facebook,Tamil,Youth,2024-10-31,2024-10-31,27,83040,4982,1900,1479,535398,130.18,1.78,10.07
+NY-CMP-1208,"Paid Ads","Working Women","Instagram, WhatsApp, Google",Bengali,Youth,2024-09-06,2024-09-06,30,43489,1996,1016,587,142641,379.31,-0.36,8.28
+NY-CMP-1209,Influencer,"Tier 2 City Customers","YouTube, WhatsApp, Instagram",Tamil,"Working Women",2025-04-26,2025-04-26,14,63461,1321,748,494,186732,499.56,-0.24,4.04
+NY-CMP-1210,"Paid Ads","Working Women","Email, Facebook, Instagram",Bengali,"Tier 2 City Customers",2025-02-24,2025-02-24,21,98384,13210,3339,1900,1003200,147.05,2.59,18.75
+NY-CMP-1211,"Paid Ads","College Students",Google,Tamil,Youth,2024-09-09,2024-09-09,13,73082,2876,1648,1153,726390,142.95,3.41,7.77
+NY-CMP-1212,"Social Media","Premium Shoppers",WhatsApp,Bengali,"Tier 2 City Customers",2025-04-13,2025-04-13,17,17785,1035,373,284,59072,258.37,-0.19,9.51
+NY-CMP-1213,"Paid Ads",Youth,"Facebook, Instagram",Bengali,"Premium Shoppers",2024-07-29,2024-07-29,19,58685,7497,3204,1036,384356,171.2,1.17,20
+NY-CMP-1214,"Social Media","College Students","Facebook, Email",Hindi,"Tier 2 City Customers",2024-07-24,2024-07-24,23,69000,7302,2144,1012,713460,216.59,2.25,15.16
+NY-CMP-1215,"Paid Ads","Tier 2 City Customers",Google,Bengali,"Premium Shoppers",2024-11-01,2024-11-01,9,99825,11114,2938,1557,326970,119.84,0.75,15.64
+NY-CMP-1216,"Social Media","Working Women",Google,Bengali,"Premium Shoppers",2025-02-08,2025-02-08,8,71554,1805,579,460,315100,448.44,0.53,3.97
+NY-CMP-1217,"Social Media","Premium Shoppers","Instagram, YouTube",Hindi,"Working Women",2025-01-15,2025-01-15,16,51553,1928,775,394,171390,672.55,-0.35,6.01
+NY-CMP-1218,Email,"College Students",Facebook,English,"Working Women",2024-09-27,2024-09-27,16,33617,715,218,140,82600,521.24,0.13,3.19
+NY-CMP-1219,"Paid Ads","Premium Shoppers",Instagram,Bengali,"Premium Shoppers",2024-09-15,2024-09-15,12,58254,7884,2976,2182,1228466,61.71,8.12,22.39
+NY-CMP-1220,SEO,"Premium Shoppers",Email,Bengali,"Working Women",2024-10-19,2024-10-19,14,12744,682,143,74,41292,1510.23,-0.63,7.05
+NY-CMP-1221,Influencer,"Tier 2 City Customers","YouTube, Email, Google",Bengali,Youth,2025-02-25,2025-02-25,24,28660,1539,351,120,40200,1644.33,-0.8,7.01
+NY-CMP-1222,Email,"Tier 2 City Customers","Facebook, Instagram, Google",English,Youth,2024-07-22,2024-07-22,29,59513,2927,1025,382,245244,352.34,0.82,7.28
+NY-CMP-1223,"Paid Ads","Tier 2 City Customers","Email, Instagram",Tamil,"Premium Shoppers",2025-05-17,2025-05-17,18,17469,1027,357,193,119081,845.55,-0.27,9.03
+NY-CMP-1224,Influencer,"Tier 2 City Customers","Facebook, Google, WhatsApp",Bengali,"Premium Shoppers",2024-09-15,2024-09-15,13,44442,5786,1313,784,164640,87.93,1.39,17.74
+NY-CMP-1225,SEO,"Tier 2 City Customers","Email, YouTube",Hindi,"Working Women",2024-09-27,2024-09-27,11,73140,4538,1670,1298,447810,89.19,2.87,10.26
+NY-CMP-1226,Influencer,"Working Women","Facebook, Instagram, YouTube",Bengali,"Premium Shoppers",2024-07-17,2024-07-17,14,76252,10884,3263,1005,454260,195.78,1.31,19.87
+NY-CMP-1227,SEO,"Tier 2 City Customers","Email, WhatsApp, Facebook",English,"College Students",2024-10-17,2024-10-17,30,99718,14868,8876,4926,2827524,12.27,45.77,28.75
+NY-CMP-1228,"Social Media","Working Women","Google, Instagram, Email",Bengali,Youth,2024-11-13,2024-11-13,22,37252,796,167,129,69531,1806.61,-0.7,2.93
+NY-CMP-1229,Influencer,"College Students",Google,Hindi,"Working Women",2025-05-22,2025-05-22,18,51202,3810,1914,709,220499,378.23,-0.18,12.56
+NY-CMP-1230,Influencer,Youth,"WhatsApp, Facebook, YouTube",Tamil,Youth,2024-08-09,2024-08-09,24,48529,6866,3599,2478,666582,60.44,3.45,26.67
+NY-CMP-1231,"Social Media",Youth,WhatsApp,English,"College Students",2024-08-14,2024-08-14,13,19531,2269,982,371,285670,216.17,2.56,18.54
+NY-CMP-1232,"Paid Ads","College Students","Facebook, Google, Email",English,Youth,2024-12-19,2024-12-19,29,99935,3194,788,424,114056,309.29,-0.13,4.41
+NY-CMP-1233,"Social Media","College Students",Email,Hindi,"Premium Shoppers",2024-09-04,2024-09-04,9,94001,12169,3150,967,703009,123.04,4.91,17.33
+NY-CMP-1234,Influencer,Youth,"WhatsApp, Email",English,"Working Women",2024-07-18,2024-07-18,28,24636,2511,1460,1064,677768,278.38,1.29,20.44
+NY-CMP-1235,Influencer,"Working Women","Instagram, Facebook, Google",Tamil,Youth,2025-02-15,2025-02-15,6,55021,6860,3744,1344,1024128,124.11,5.14,21.72
+NY-CMP-1236,Influencer,"College Students","Email, Facebook, YouTube",Bengali,"Premium Shoppers",2024-11-03,2024-11-03,8,61797,7760,3214,1122,866184,160.33,3.82,19.57
+NY-CMP-1237,"Paid Ads","Working Women","Google, Instagram",Tamil,"College Students",2025-02-17,2025-02-17,26,37899,2425,595,227,140740,802.49,-0.23,8.57
+NY-CMP-1238,"Social Media","Premium Shoppers","WhatsApp, Email, Google",English,"College Students",2025-06-03,2025-06-03,5,84881,8195,3269,1135,676460,145.98,3.08,14.84
+NY-CMP-1239,"Paid Ads","College Students","Facebook, WhatsApp",English,"Working Women",2024-07-22,2024-07-22,21,64992,6273,2897,1523,388365,86.54,1.95,16.45
+NY-CMP-1240,"Paid Ads",Youth,"Facebook, Google",Tamil,"Working Women",2025-05-18,2025-05-18,25,84708,3733,1601,1059,321936,55.26,4.5,7.55
+NY-CMP-1241,"Social Media","College Students",Google,Tamil,"Working Women",2024-12-05,2024-12-05,30,28592,3655,1453,842,261020,293.65,0.06,20.81
+NY-CMP-1242,"Paid Ads","Working Women",Email,Tamil,"Premium Shoppers",2024-11-17,2024-11-17,20,56474,1315,761,475,162450,350.97,-0.03,4.52
+NY-CMP-1243,"Social Media","Premium Shoppers","Google, Facebook, Instagram",Tamil,"College Students",2025-02-10,2025-02-10,7,70498,8059,3823,2157,832602,68.68,4.62,19.91
+NY-CMP-1244,Email,"College Students","Instagram, WhatsApp",Tamil,"Tier 2 City Customers",2024-08-21,2024-08-21,19,14170,1123,228,100,52200,1278.38,-0.59,10.24
+NY-CMP-1245,"Social Media","Premium Shoppers","YouTube, Instagram",Bengali,"Premium Shoppers",2025-01-06,2025-01-06,30,35819,2513,1247,544,111520,324.24,-0.37,12.02
+NY-CMP-1246,"Paid Ads","Working Women","WhatsApp, Instagram",Tamil,Youth,2024-08-03,2024-08-03,12,44138,5531,1679,562,159046,399.45,-0.29,17.61
+NY-CMP-1247,"Paid Ads","Working Women","WhatsApp, YouTube, Instagram",Hindi,"College Students",2025-02-19,2025-02-19,11,60321,2514,527,339,213231,279.59,1.25,5.6
+NY-CMP-1248,"Paid Ads","Tier 2 City Customers","YouTube, Instagram, WhatsApp",Tamil,"Premium Shoppers",2024-09-23,2024-09-23,6,51089,2937,1760,1348,624124,94.97,3.88,11.83
+NY-CMP-1249,Influencer,"Premium Shoppers",Email,Bengali,"Premium Shoppers",2025-02-12,2025-02-12,6,74805,9095,2883,1924,463684,50.52,3.77,18.58
+NY-CMP-1250,Influencer,Youth,"WhatsApp, Facebook",Tamil,"Working Women",2025-06-07,2025-06-07,18,35779,5225,2594,856,259368,194.53,0.56,24.25
+NY-CMP-1251,Influencer,Youth,"Email, Instagram",English,"Premium Shoppers",2024-09-23,2024-09-23,23,17685,1263,539,409,116974,280.19,0.02,12.5
+NY-CMP-1252,Influencer,"Working Women",WhatsApp,English,"College Students",2025-04-04,2025-04-04,25,33664,2820,1491,1113,459669,57.37,6.2,16.11
+NY-CMP-1253,Email,"Tier 2 City Customers",Google,Bengali,Youth,2024-07-23,2024-07-23,6,49634,1540,351,122,93818,2180.83,-0.65,4.06
+NY-CMP-1254,"Paid Ads","College Students","Facebook, YouTube, Instagram",English,"Tier 2 City Customers",2025-03-27,2025-03-27,21,48777,2423,1387,912,694032,159.35,3.78,9.68
+NY-CMP-1255,"Paid Ads","Premium Shoppers",YouTube,Bengali,"Tier 2 City Customers",2025-03-21,2025-03-21,7,20894,477,193,141,42441,492.89,-0.39,3.88
+NY-CMP-1256,Influencer,"Tier 2 City Customers",Google,Tamil,"Working Women",2024-10-05,2024-10-05,6,53119,6159,2300,1204,255248,213.16,-0.01,18.19
+NY-CMP-1257,"Social Media","Premium Shoppers",Instagram,Tamil,"Working Women",2025-02-19,2025-02-19,6,92447,4234,1240,974,319472,270.14,0.21,6.97
+NY-CMP-1258,SEO,"College Students","Facebook, WhatsApp",Tamil,"Working Women",2025-03-24,2025-03-24,11,49248,1949,1026,499,286925,387.99,0.48,7.05
+NY-CMP-1259,Influencer,"Premium Shoppers","WhatsApp, YouTube, Google",English,"Working Women",2024-12-14,2024-12-14,7,94671,9175,4410,2499,1766793,52.78,12.4,16.99
+NY-CMP-1260,Influencer,"Working Women","Google, YouTube, Facebook",Tamil,Youth,2024-10-27,2024-10-27,21,89990,3505,1793,1074,751800,259.5,1.7,7.08
+NY-CMP-1261,Influencer,"Premium Shoppers","Google, Facebook",Bengali,"Working Women",2024-10-13,2024-10-13,8,92236,6138,1396,633,446898,417.98,0.69,8.85
+NY-CMP-1262,Email,"College Students","WhatsApp, Google, Instagram",Bengali,Youth,2024-10-14,2024-10-14,10,85818,2392,1112,590,340430,328.28,0.76,4.77
+NY-CMP-1263,"Paid Ads",Youth,"WhatsApp, Google",English,"Premium Shoppers",2024-10-09,2024-10-09,13,91560,10243,2457,1139,271082,236.57,0.01,15.11
+NY-CMP-1264,Email,"Premium Shoppers",WhatsApp,English,"Tier 2 City Customers",2025-02-25,2025-02-25,8,56231,3442,1021,492,297168,499.85,0.21,8.81
+NY-CMP-1265,Influencer,"Working Women","Google, YouTube, WhatsApp",Hindi,"Tier 2 City Customers",2024-07-27,2024-07-27,9,48559,2682,766,326,149634,401.57,0.14,7.77
+NY-CMP-1266,"Social Media","Tier 2 City Customers","Email, Facebook, YouTube",English,"Working Women",2025-02-23,2025-02-23,11,39008,1024,417,282,170610,208.64,1.9,4.42
+NY-CMP-1267,Email,"Tier 2 City Customers","Instagram, Facebook",Tamil,"Premium Shoppers",2024-09-19,2024-09-19,16,85319,5490,3051,1666,982940,35.63,15.56,11.96
+NY-CMP-1268,"Paid Ads","Premium Shoppers","Facebook, WhatsApp",English,"Working Women",2025-04-09,2025-04-09,16,83312,7037,3321,2489,569981,37.95,5.03,15.42
+NY-CMP-1269,Email,"College Students","WhatsApp, Facebook",Hindi,Youth,2025-02-15,2025-02-15,22,67078,4522,1999,1516,591240,122.57,2.18,11.98
+NY-CMP-1270,Email,Youth,YouTube,English,"Premium Shoppers",2024-09-25,2024-09-25,14,60317,2337,924,356,86152,607.23,-0.6,6
+NY-CMP-1271,SEO,Youth,"WhatsApp, YouTube, Facebook",Bengali,"Working Women",2025-04-15,2025-04-15,10,20630,2351,767,456,153216,237.83,0.41,17.32
+NY-CMP-1272,"Paid Ads","College Students","WhatsApp, Instagram, Email",Hindi,"College Students",2025-02-23,2025-02-23,19,20872,2627,716,430,178450,578.21,-0.28,18.08
+NY-CMP-1273,SEO,Youth,"Email, WhatsApp, Facebook",English,"College Students",2024-08-08,2024-08-08,24,98542,13381,4936,1982,1393346,48.07,13.62,20.6
+NY-CMP-1274,"Paid Ads","Tier 2 City Customers",WhatsApp,English,"Working Women",2025-04-17,2025-04-17,13,52848,3450,1531,1131,230724,123.84,0.65,11.57
+NY-CMP-1275,Influencer,"Working Women","Google, YouTube",Tamil,"Premium Shoppers",2024-08-19,2024-08-19,13,46658,3641,1972,952,482664,112.75,3.5,14.07
+NY-CMP-1276,Influencer,"Tier 2 City Customers","Instagram, WhatsApp, YouTube",English,Youth,2024-09-05,2024-09-05,19,46123,1253,514,336,206976,474.07,0.3,4.56
+NY-CMP-1277,Email,"Working Women","WhatsApp, Instagram",Bengali,"College Students",2024-07-08,2024-07-08,29,64268,8323,2092,854,533750,211.58,1.95,17.53
+NY-CMP-1278,"Paid Ads",Youth,"WhatsApp, Instagram, Email",English,"College Students",2024-07-27,2024-07-27,9,57787,6946,3076,1897,1475866,113.15,5.88,20.63
+NY-CMP-1279,"Social Media","Tier 2 City Customers",YouTube,Bengali,Youth,2024-10-12,2024-10-12,12,29025,3970,1528,715,536965,165.11,3.55,21.41
+NY-CMP-1280,Influencer,"Working Women","Facebook, WhatsApp, YouTube",English,"College Students",2024-09-21,2024-09-21,10,30927,3232,1551,621,170775,428.9,-0.36,17.47
+NY-CMP-1281,"Paid Ads","College Students",WhatsApp,Hindi,"Tier 2 City Customers",2024-09-06,2024-09-06,20,93254,13029,4712,2576,1463168,42.52,12.36,21.79
+NY-CMP-1282,Email,"College Students","WhatsApp, Instagram",Bengali,"College Students",2024-12-07,2024-12-07,25,56016,3091,1486,1135,500535,201.94,1.18,10.2
+NY-CMP-1283,Email,"Tier 2 City Customers","YouTube, Instagram, Facebook",Tamil,"Tier 2 City Customers",2024-11-05,2024-11-05,13,19220,1653,651,282,112518,859.57,-0.54,13.45
+NY-CMP-1284,Influencer,"College Students","Google, Facebook, WhatsApp",Hindi,"Premium Shoppers",2024-09-01,2024-09-01,24,35278,3716,1618,730,182500,85.94,1.91,17.19
+NY-CMP-1285,"Paid Ads","College Students","Google, YouTube",English,"Premium Shoppers",2024-11-01,2024-11-01,27,34854,3390,1406,686,216776,266.54,0.19,15.73
+NY-CMP-1286,Email,"Working Women","Facebook, Google",Bengali,Youth,2024-08-27,2024-08-27,11,35580,5336,2493,814,280830,239.72,0.44,24.29
+NY-CMP-1287,SEO,"Premium Shoppers","Instagram, YouTube, Google",Bengali,"Premium Shoppers",2025-01-28,2025-01-28,22,91042,10498,4250,2279,1620369,48.41,13.69,18.7
+NY-CMP-1288,"Paid Ads","College Students","YouTube, WhatsApp, Facebook",English,"College Students",2025-02-20,2025-02-20,17,61525,6343,1928,1119,447600,105.67,2.79,15.26
+NY-CMP-1289,"Paid Ads","Tier 2 City Customers",Email,Bengali,"Tier 2 City Customers",2024-11-16,2024-11-16,27,74488,4731,2727,1189,439930,126.21,1.93,11.61
+NY-CMP-1290,"Social Media","Tier 2 City Customers","Google, WhatsApp",Bengali,"College Students",2025-01-15,2025-01-15,23,25159,2909,877,580,240120,91.6,3.52,17.35
+NY-CMP-1291,"Paid Ads","Tier 2 City Customers",Email,Tamil,"Premium Shoppers",2024-11-09,2024-11-09,11,46772,6386,2227,700,298200,99.18,3.3,19.91
+NY-CMP-1292,"Social Media","Working Women","WhatsApp, Google, YouTube",English,Youth,2025-01-12,2025-01-12,22,28876,1886,1050,417,126351,274.12,0.11,11.61
+NY-CMP-1293,"Paid Ads",Youth,"Google, Instagram",English,"Premium Shoppers",2025-05-16,2025-05-16,16,83531,6629,2949,1207,743512,56.39,9.92,12.91
+NY-CMP-1294,"Social Media","Tier 2 City Customers","Facebook, Google",Tamil,"Premium Shoppers",2025-05-29,2025-05-29,15,85396,9341,4162,2304,737280,120.88,1.65,18.51
+NY-CMP-1295,SEO,"Working Women","Instagram, WhatsApp",Tamil,"College Students",2025-01-13,2025-01-13,9,27477,4033,1486,875,322000,167.57,1.2,23.27
+NY-CMP-1296,Email,"College Students",Facebook,Hindi,"Working Women",2025-01-17,2025-01-17,13,80276,2108,784,377,195286,285.85,0.81,4.07
+NY-CMP-1297,"Social Media","Working Women","Facebook, Email, Instagram",English,Youth,2024-11-08,2024-11-08,28,11775,678,333,151,72782,1900.84,-0.75,9.87
+NY-CMP-1298,Email,"Premium Shoppers",Google,Tamil,"Premium Shoppers",2024-07-11,2024-07-11,14,94198,11282,6768,4987,3520822,53.98,12.08,24.46
+NY-CMP-1299,Email,Youth,"Facebook, YouTube",Bengali,"Premium Shoppers",2025-02-10,2025-02-10,30,40717,1371,766,320,80320,408.68,-0.39,6.03
+NY-CMP-1300,"Social Media",Youth,"Facebook, Instagram",English,"Working Women",2024-12-06,2024-12-06,6,36090,3443,1378,1052,727984,119.82,4.78,16.27
+NY-CMP-1301,Email,Youth,"Email, YouTube",Bengali,"College Students",2025-01-07,2025-01-07,14,67894,5119,1395,1097,482680,272.11,0.62,11.21
+NY-CMP-1302,Influencer,"Working Women",YouTube,Hindi,"Tier 2 City Customers",2024-12-01,2024-12-01,5,11933,247,67,24,16944,9469.83,-0.93,2.83
+NY-CMP-1303,SEO,"Tier 2 City Customers","Email, Google, Facebook",Bengali,"College Students",2025-01-20,2025-01-20,12,57286,3832,1225,694,525358,144.47,4.24,10.04
+NY-CMP-1304,"Paid Ads",Youth,"Email, Facebook",Tamil,"Premium Shoppers",2025-02-08,2025-02-08,8,20748,1524,890,672,321216,210.07,1.28,14.87
+NY-CMP-1305,SEO,"Tier 2 City Customers",WhatsApp,English,"Working Women",2024-11-03,2024-11-03,10,33973,1434,825,387,182664,464.13,0.02,7.79
+NY-CMP-1306,"Paid Ads","College Students",Facebook,English,"Tier 2 City Customers",2025-03-15,2025-03-15,30,85229,3739,888,406,312214,646.45,0.19,5.91
+NY-CMP-1307,"Paid Ads","College Students","Instagram, Google",Hindi,"College Students",2025-03-23,2025-03-23,28,55784,1715,552,401,119097,702.72,-0.58,4.78
+NY-CMP-1308,"Social Media","Tier 2 City Customers","YouTube, Facebook",Hindi,"College Students",2024-12-13,2024-12-13,17,93707,6645,1491,901,220745,224.2,0.09,9.64
+NY-CMP-1309,Influencer,Youth,"Google, YouTube, Email",Hindi,Youth,2025-01-03,2025-01-03,26,18590,913,242,164,118408,1813.02,-0.6,7.1
+NY-CMP-1310,Influencer,Youth,"Facebook, YouTube",Hindi,"Premium Shoppers",2024-10-30,2024-10-30,15,65165,8972,4626,2168,936576,28.7,14.05,24.19
+NY-CMP-1311,Email,Youth,"Facebook, WhatsApp, Google",Hindi,"College Students",2024-09-20,2024-09-20,22,19401,2469,596,368,263856,424.18,0.69,17.69
+NY-CMP-1312,Email,"Tier 2 City Customers","Google, WhatsApp, Instagram",English,Youth,2024-10-05,2024-10-05,17,15248,2184,933,315,217665,809.37,-0.15,22.51
+NY-CMP-1313,Influencer,"Premium Shoppers","YouTube, Email, Google",Tamil,"Premium Shoppers",2025-03-07,2025-03-07,11,14003,1008,524,324,244296,654.25,0.15,13.25
+NY-CMP-1314,Influencer,"Premium Shoppers",WhatsApp,Tamil,"Working Women",2025-04-17,2025-04-17,13,51751,7300,4116,1982,903792,33.99,12.42,25.89
+NY-CMP-1315,Influencer,"College Students","YouTube, Instagram, Email",Hindi,"Premium Shoppers",2024-10-07,2024-10-07,5,83712,6057,3113,1943,823832,37.41,10.33,13.28
+NY-CMP-1316,SEO,Youth,"Instagram, YouTube",Hindi,"Tier 2 City Customers",2025-05-25,2025-05-25,18,75593,11146,6267,3681,1825776,20.14,23.63,27.9
+NY-CMP-1317,"Paid Ads","Tier 2 City Customers",Google,Bengali,"Working Women",2024-10-30,2024-10-30,27,80323,6530,1735,921,396951,263.31,0.64,11.44
+NY-CMP-1318,Influencer,"Tier 2 City Customers",WhatsApp,English,"Premium Shoppers",2025-03-05,2025-03-05,12,54342,6000,2550,820,510040,107.33,4.79,17.24
+NY-CMP-1319,SEO,"Tier 2 City Customers",WhatsApp,Tamil,"Premium Shoppers",2025-03-07,2025-03-07,23,21102,638,320,226,131306,1040.97,-0.44,5.61
+NY-CMP-1320,Email,"Tier 2 City Customers","YouTube, WhatsApp, Google",Bengali,"College Students",2025-02-08,2025-02-08,8,17656,2463,1226,546,232596,373.75,0.14,23.99
+NY-CMP-1321,"Paid Ads","Tier 2 City Customers",Email,Tamil,"Premium Shoppers",2024-08-11,2024-08-11,6,86679,11858,2874,1209,869271,186.38,2.86,18.39
+NY-CMP-1322,"Social Media","Premium Shoppers",WhatsApp,Bengali,"Tier 2 City Customers",2025-01-16,2025-01-16,21,34224,2701,865,307,113590,571.56,-0.35,11.32
+NY-CMP-1323,"Paid Ads","Premium Shoppers","YouTube, Facebook",Hindi,"College Students",2025-01-17,2025-01-17,16,31178,3122,683,241,52056,267.9,-0.19,12.98
+NY-CMP-1324,"Paid Ads","College Students",Instagram,Bengali,"College Students",2024-10-31,2024-10-31,13,48495,2914,1509,959,261807,59.01,3.63,11.1
+NY-CMP-1325,"Social Media","Working Women",Email,English,"Premium Shoppers",2025-05-01,2025-05-01,6,57738,6835,3804,1267,918575,113.24,5.4,20.62
+NY-CMP-1326,Email,Youth,Instagram,Tamil,Youth,2024-08-25,2024-08-25,26,45538,6239,3142,2456,1151864,99.88,3.7,25.99
+NY-CMP-1327,Email,"Working Women","Facebook, YouTube",Tamil,Youth,2024-10-02,2024-10-02,12,90104,10352,5900,3134,1855328,74.69,6.93,21.52
+NY-CMP-1328,Email,"Working Women","Instagram, YouTube, Email",Tamil,"Working Women",2024-10-06,2024-10-06,7,56019,3589,1992,1272,643632,220.46,1.3,12.23
+NY-CMP-1329,"Paid Ads","Tier 2 City Customers","WhatsApp, Google",Hindi,"Premium Shoppers",2024-10-02,2024-10-02,25,70317,9147,5169,2677,1595492,20.58,27.96,24.17
+NY-CMP-1330,Email,Youth,"WhatsApp, Google",Tamil,"Working Women",2025-05-31,2025-05-31,13,89786,3987,1097,333,146187,570.86,-0.23,6.03
+NY-CMP-1331,"Paid Ads","Premium Shoppers","WhatsApp, Facebook",Tamil,"Working Women",2024-09-13,2024-09-13,17,99499,2514,591,191,94163,1349.16,-0.63,3.31
+NY-CMP-1332,"Social Media","Working Women","YouTube, Google",Bengali,"Working Women",2024-11-23,2024-11-23,30,65455,2458,879,267,126024,1113.49,-0.58,5.51
+NY-CMP-1333,Email,"Tier 2 City Customers","Google, Email, Instagram",English,"Tier 2 City Customers",2024-12-03,2024-12-03,9,28471,3379,1357,955,666590,184.92,2.77,19.99
+NY-CMP-1334,Influencer,"Tier 2 City Customers",Email,Bengali,"Premium Shoppers",2025-02-12,2025-02-12,19,52970,7740,3310,2063,596207,50.84,4.68,24.76
+NY-CMP-1335,"Social Media","Premium Shoppers",Google,English,"College Students",2025-05-02,2025-05-02,5,12068,354,165,90,43920,2582.4,-0.81,5.05
+NY-CMP-1336,SEO,Youth,WhatsApp,Hindi,Youth,2025-05-02,2025-05-02,10,20256,1915,880,534,110538,347.2,-0.4,16.43
+NY-CMP-1337,"Social Media","Premium Shoppers","Google, Facebook",English,"Working Women",2025-03-01,2025-03-01,21,13954,447,91,63,15750,1662.97,-0.85,4.31
+NY-CMP-1338,Email,"Working Women","WhatsApp, YouTube, Facebook",Bengali,"College Students",2024-12-16,2024-12-16,30,21325,1026,284,115,91540,2469.12,-0.68,6.68
+NY-CMP-1339,"Social Media",Youth,Facebook,English,Youth,2024-10-15,2024-10-15,25,45650,6063,2292,1153,258272,117.65,0.9,20.83
+NY-CMP-1340,Email,"Tier 2 City Customers",Facebook,English,"Working Women",2025-03-30,2025-03-30,21,63424,8697,1851,689,192231,291.06,-0.04,17.72
+NY-CMP-1341,Influencer,"Working Women",YouTube,Tamil,"Premium Shoppers",2025-01-27,2025-01-27,19,83020,6018,3480,2162,1707980,69.94,10.3,14.04
+NY-CMP-1342,SEO,"College Students","YouTube, Facebook",Bengali,"Working Women",2025-03-21,2025-03-21,16,63695,9058,2500,1307,863927,201.57,2.28,20.2
+NY-CMP-1343,Influencer,Youth,"YouTube, WhatsApp, Facebook",Bengali,"College Students",2024-08-02,2024-08-02,19,91520,5684,2303,1544,500256,60.13,4.39,10.41
+NY-CMP-1344,Email,"Tier 2 City Customers","Email, YouTube, Google",Tamil,"Premium Shoppers",2024-11-25,2024-11-25,23,62049,4002,1003,377,167388,506.82,-0.12,8.67
+NY-CMP-1345,"Social Media","College Students",Facebook,English,"Working Women",2025-01-05,2025-01-05,10,87478,8575,2515,1754,577066,53.05,5.2,14.68
+NY-CMP-1346,Influencer,"Premium Shoppers","YouTube, Google",Bengali,"Working Women",2025-04-25,2025-04-25,12,29681,4145,1448,602,175182,363.63,-0.2,20.87
+NY-CMP-1347,"Paid Ads","Working Women","Instagram, WhatsApp, Email",Bengali,"Tier 2 City Customers",2024-08-25,2024-08-25,11,41265,4858,2623,1928,1422864,121.7,5.06,22.8
+NY-CMP-1348,"Paid Ads","College Students","Instagram, Email",Tamil,Youth,2025-01-18,2025-01-18,28,65427,7787,1966,1364,688820,159.14,2.17,16.99
+NY-CMP-1349,"Social Media","College Students","Google, Facebook",Bengali,"College Students",2024-07-11,2024-07-11,5,95791,9536,3824,1970,525990,70.57,2.78,16
+NY-CMP-1350,"Paid Ads","Working Women","WhatsApp, Email",Tamil,"College Students",2024-09-08,2024-09-08,7,73991,6096,1885,1199,416053,59.64,4.82,12.41
+NY-CMP-1351,"Social Media","Working Women",Email,English,"Tier 2 City Customers",2025-06-11,2025-06-11,8,79210,9451,2672,1389,297246,165.27,0.29,17.06
+NY-CMP-1352,SEO,"Premium Shoppers","Google, YouTube",English,Youth,2024-10-25,2024-10-25,26,25236,778,180,130,103480,422.23,0.89,4.31
+NY-CMP-1353,"Paid Ads",Youth,"WhatsApp, YouTube",Tamil,"Premium Shoppers",2025-03-14,2025-03-14,19,20457,2340,1138,813,249591,300.21,0.02,20.98
+NY-CMP-1354,Email,Youth,"Email, Facebook",Tamil,"Working Women",2024-07-28,2024-07-28,9,23359,2798,1612,695,159850,338.9,-0.32,21.85
+NY-CMP-1355,Influencer,"College Students","Google, Email",Bengali,"Working Women",2025-04-03,2025-04-03,27,51530,2906,759,376,140248,621.99,-0.4,7.84
+NY-CMP-1356,Influencer,"Premium Shoppers","Facebook, YouTube, Instagram",Hindi,"Working Women",2025-02-22,2025-02-22,5,59738,3387,1195,566,234324,337.67,0.23,8.62
+NY-CMP-1357,"Paid Ads","Tier 2 City Customers","WhatsApp, Instagram, Email",Tamil,"College Students",2024-12-16,2024-12-16,27,89300,8946,2457,1044,230724,264.1,-0.16,13.94
+NY-CMP-1358,SEO,"Tier 2 City Customers","WhatsApp, Email, YouTube",English,"Premium Shoppers",2024-08-17,2024-08-17,17,18772,1477,411,147,100695,756.82,-0.09,10.84
+NY-CMP-1359,SEO,"College Students",Facebook,English,"College Students",2024-12-20,2024-12-20,7,85537,11279,6580,3661,2544395,30.7,21.64,25.16
+NY-CMP-1360,"Social Media","College Students",Instagram,English,"Working Women",2025-03-20,2025-03-20,11,93900,4401,1986,1063,347601,182.18,0.79,7.93
+NY-CMP-1361,"Social Media","Tier 2 City Customers",Instagram,English,"Tier 2 City Customers",2025-03-12,2025-03-12,8,56921,5636,3157,2448,984096,30.98,11.98,19.75
+NY-CMP-1362,SEO,"Premium Shoppers","Instagram, Google",English,"Tier 2 City Customers",2025-04-07,2025-04-07,8,58026,1684,851,631,200658,204.34,0.56,5.46
+NY-CMP-1363,Email,"Premium Shoppers","YouTube, Email",English,"Working Women",2025-05-05,2025-05-05,21,17271,1656,418,172,106296,1010.06,-0.39,13
+NY-CMP-1364,Email,Youth,"Instagram, Google, WhatsApp",Bengali,"Tier 2 City Customers",2024-08-29,2024-08-29,12,75894,2271,1003,665,340480,196.4,1.61,5.19
+NY-CMP-1365,Influencer,Youth,WhatsApp,English,Youth,2025-03-07,2025-03-07,8,91994,11715,2552,1098,653310,223.09,1.67,16.7
+NY-CMP-1366,"Social Media","Working Women","Instagram, WhatsApp",Hindi,Youth,2025-01-27,2025-01-27,23,59138,1212,404,299,159666,547.11,-0.02,3.24
+NY-CMP-1367,"Paid Ads","College Students","WhatsApp, Email",Tamil,"Premium Shoppers",2024-07-02,2024-07-02,12,48778,5643,2666,1826,628144,30.85,10.15,20.78
+NY-CMP-1368,"Social Media",Youth,Instagram,English,"Premium Shoppers",2024-09-04,2024-09-04,26,16704,1131,347,184,144440,430.27,0.82,9.95
+NY-CMP-1369,SEO,Youth,Google,Bengali,"Tier 2 City Customers",2024-09-01,2024-09-01,9,42657,1411,521,210,68040,860.95,-0.62,5.02
+NY-CMP-1370,Email,"Working Women",Instagram,Tamil,"Premium Shoppers",2025-04-25,2025-04-25,17,80288,9840,3087,1579,484753,148.37,1.07,18.07
+NY-CMP-1371,Influencer,Youth,Facebook,English,"Tier 2 City Customers",2024-08-10,2024-08-10,20,21611,1891,719,531,146556,268.72,0.03,14.53
+NY-CMP-1372,"Paid Ads","Tier 2 City Customers",Email,Tamil,"College Students",2024-07-12,2024-07-12,12,73755,10119,5943,4200,924000,62.89,2.5,27.47
+NY-CMP-1373,SEO,"College Students",Facebook,Tamil,"Tier 2 City Customers",2024-08-29,2024-08-29,22,52734,2586,1001,448,250432,630.36,-0.11,7.65
+NY-CMP-1374,"Paid Ads","Tier 2 City Customers","WhatsApp, Facebook, Email",Hindi,"College Students",2025-05-12,2025-05-12,22,67943,7148,2106,762,240792,182.2,0.73,14.74
+NY-CMP-1375,"Social Media",Youth,Google,Tamil,"Working Women",2025-01-08,2025-01-08,16,28248,3144,1753,1370,432920,169.94,0.86,22.19
+NY-CMP-1376,"Social Media","Working Women","YouTube, Email",Hindi,"Premium Shoppers",2024-08-26,2024-08-26,25,52545,7824,3318,1265,915860,206,2.51,23.61
+NY-CMP-1377,Email,"College Students","Google, YouTube, Facebook",English,"Working Women",2024-10-31,2024-10-31,20,33707,769,312,169,37349,1758.21,-0.87,3.71
+NY-CMP-1378,Email,"Working Women","Email, Google",Tamil,"Working Women",2024-08-24,2024-08-24,9,72194,3949,835,504,228816,566.51,-0.2,7.32
+NY-CMP-1379,SEO,Youth,Facebook,English,"Tier 2 City Customers",2025-05-27,2025-05-27,29,29126,1390,827,496,171120,436,-0.21,9.31
+NY-CMP-1380,Email,"College Students","Instagram, Google, Facebook",English,"Working Women",2025-04-07,2025-04-07,12,86192,2654,1375,633,128499,219.74,-0.08,5.41
+NY-CMP-1381,SEO,"College Students","YouTube, Facebook",Tamil,Youth,2024-10-23,2024-10-23,15,48114,2735,907,655,145410,371.31,-0.4,8.93
+NY-CMP-1382,"Social Media","Premium Shoppers",Google,Hindi,Youth,2025-04-02,2025-04-02,21,33986,3970,868,624,229008,250.07,0.47,16.07
+NY-CMP-1383,Influencer,"College Students","Instagram, YouTube, Email",Tamil,"Premium Shoppers",2024-08-04,2024-08-04,19,34922,5140,2616,1936,1391984,120.61,4.96,27.75
+NY-CMP-1384,"Paid Ads","Tier 2 City Customers","Facebook, Google",English,"Working Women",2025-04-02,2025-04-02,12,13130,1509,337,123,44034,1809.8,-0.8,15
+NY-CMP-1385,Email,Youth,"Google, Instagram, Email",Hindi,"Premium Shoppers",2024-11-21,2024-11-21,6,23913,3344,1678,504,402192,278.61,1.86,23.11
+NY-CMP-1386,Email,"Premium Shoppers",YouTube,Bengali,"College Students",2025-06-01,2025-06-01,17,70235,2922,814,537,402750,525.54,0.43,6.08
+NY-CMP-1387,Influencer,"Working Women","Email, Google",English,"Premium Shoppers",2024-08-27,2024-08-27,30,74461,10162,5778,2650,744650,42.13,5.67,24.97
+NY-CMP-1388,Email,Youth,Instagram,Hindi,Youth,2024-07-13,2024-07-13,11,12332,1374,555,324,171720,825.27,-0.36,18.27
+NY-CMP-1389,"Paid Ads","Premium Shoppers","Email, Google, Instagram",English,"Tier 2 City Customers",2024-11-02,2024-11-02,16,89327,10315,5580,3928,2564984,39.8,15.41,22.19
+NY-CMP-1390,"Social Media","Tier 2 City Customers","YouTube, Email, Google",Bengali,Youth,2025-05-08,2025-05-08,29,96704,3230,1644,620,422220,320.25,1.13,5.68
+NY-CMP-1391,Influencer,"Tier 2 City Customers","Email, Instagram",Bengali,"Tier 2 City Customers",2025-03-16,2025-03-16,24,65974,5648,1902,1375,1080750,177.9,3.42,13.53
+NY-CMP-1392,SEO,"Premium Shoppers","Email, Facebook",Tamil,"Working Women",2024-12-15,2024-12-15,22,44574,3188,1399,1032,605784,158.25,2.71,12.61
+NY-CMP-1393,SEO,"Working Women",WhatsApp,Hindi,"Tier 2 City Customers",2025-03-26,2025-03-26,11,45691,3129,688,245,140140,545.65,0.05,8.89
+NY-CMP-1394,SEO,Youth,Instagram,Bengali,"Tier 2 City Customers",2024-10-20,2024-10-20,16,65707,8903,4462,2592,1106784,112.54,2.79,24.29
+NY-CMP-1395,"Social Media",Youth,Facebook,Bengali,"College Students",2025-03-15,2025-03-15,30,20062,754,285,126,62496,890.46,-0.44,5.81
+NY-CMP-1396,"Paid Ads","College Students","WhatsApp, YouTube",Hindi,Youth,2024-11-11,2024-11-11,13,90160,3455,726,553,425257,371.17,1.07,5.25
+NY-CMP-1397,Influencer,"College Students",Email,Bengali,"Tier 2 City Customers",2025-01-30,2025-01-30,24,65781,6523,2651,1787,1406369,73.97,9.64,16.66
+NY-CMP-1398,"Paid Ads","Premium Shoppers",Instagram,Hindi,"College Students",2025-05-13,2025-05-13,27,83508,2887,1658,1254,423852,187.7,0.8,6.94
+NY-CMP-1399,"Paid Ads","College Students",YouTube,Hindi,"Premium Shoppers",2025-05-23,2025-05-23,21,55171,3549,1636,679,354438,367.93,0.42,10.63
+NY-CMP-1400,Email,"Tier 2 City Customers","Google, YouTube",Bengali,Youth,2025-01-11,2025-01-11,30,53469,7952,4293,2420,513040,117.86,0.8,27.43
+NY-CMP-1401,Influencer,"College Students","WhatsApp, Google",English,"Tier 2 City Customers",2024-11-26,2024-11-26,8,32614,2971,1153,905,429875,103.59,3.59,15.42
+NY-CMP-1402,Influencer,"Working Women",WhatsApp,Tamil,Youth,2024-12-19,2024-12-19,14,90706,12246,4517,1532,978948,186.13,2.43,20.17
+NY-CMP-1403,Email,"Premium Shoppers","YouTube, Google, Facebook",English,"College Students",2025-03-29,2025-03-29,6,93981,3391,734,220,167420,1273.49,-0.4,4.62
+NY-CMP-1404,Email,Youth,Facebook,Hindi,"Premium Shoppers",2025-03-02,2025-03-02,6,23696,2153,431,286,117832,771.45,-0.47,12.11
+NY-CMP-1405,Influencer,"College Students",YouTube,Bengali,"Working Women",2024-08-17,2024-08-17,27,18639,2793,1046,328,104960,574.48,-0.44,22.36
+NY-CMP-1406,Influencer,"College Students",Google,Tamil,"Working Women",2025-03-01,2025-03-01,13,72563,6363,2663,1793,883949,93.98,4.25,14.91
+NY-CMP-1407,Influencer,"College Students","Instagram, YouTube",Tamil,"Working Women",2025-02-01,2025-02-01,10,89562,9186,5437,1687,1003765,92.7,5.42,18.21
+NY-CMP-1408,SEO,"College Students","Google, YouTube, Email",Bengali,"Premium Shoppers",2025-01-20,2025-01-20,7,58567,6039,2629,1494,1154862,61.85,11.5,17.35
+NY-CMP-1409,"Paid Ads","Working Women",YouTube,English,"Tier 2 City Customers",2024-08-22,2024-08-22,19,31120,842,416,234,119574,256.5,0.99,4.79
+NY-CMP-1410,SEO,"Tier 2 City Customers","YouTube, Facebook",Tamil,Youth,2025-01-04,2025-01-04,24,79473,5680,1196,456,132240,339.79,-0.15,9.23
+NY-CMP-1411,"Paid Ads",Youth,"Facebook, Google, WhatsApp",English,"Working Women",2025-06-13,2025-06-13,12,74331,10130,5104,2574,620334,103.67,1.32,23.96
+NY-CMP-1412,"Social Media","Working Women","Facebook, WhatsApp",English,"Tier 2 City Customers",2024-09-07,2024-09-07,15,34420,2100,1022,623,237986,166.82,1.29,10.88
+NY-CMP-1413,"Paid Ads","College Students",Facebook,English,"College Students",2024-07-30,2024-07-30,24,67618,5854,3431,1329,675132,185.33,1.74,15.7
+NY-CMP-1414,Email,"College Students","YouTube, Google, WhatsApp",Hindi,Youth,2025-04-25,2025-04-25,13,95861,6343,2048,755,282370,217.03,0.72,9.54
+NY-CMP-1415,SEO,"Tier 2 City Customers",Google,English,"College Students",2025-04-08,2025-04-08,21,67485,6205,2643,1287,504504,191.62,1.05,15.02
+NY-CMP-1416,Influencer,"Working Women",Email,English,"Premium Shoppers",2024-10-18,2024-10-18,26,30146,2995,649,424,238288,544.83,0.03,13.49
+NY-CMP-1417,Influencer,"Tier 2 City Customers","Google, YouTube, Instagram",Bengali,"Working Women",2025-01-24,2025-01-24,19,17577,2054,603,379,271743,566.28,0.27,17.27
+NY-CMP-1418,SEO,Youth,Email,Bengali,"College Students",2024-12-13,2024-12-13,26,17728,1914,597,301,236285,433.32,0.81,15.86
+NY-CMP-1419,"Social Media","Premium Shoppers","Google, Email, YouTube",Bengali,"Working Women",2024-10-07,2024-10-07,9,35537,5207,1283,736,429088,375.92,0.55,20.33
+NY-CMP-1420,"Social Media",Youth,"YouTube, Instagram",English,"Working Women",2025-05-06,2025-05-06,8,74670,8990,3078,1110,814740,194.21,2.78,17.65
+NY-CMP-1421,"Social Media","Tier 2 City Customers","WhatsApp, Email, Instagram",Tamil,"Tier 2 City Customers",2024-12-27,2024-12-27,6,36915,1294,459,185,90095,641.31,-0.24,5.25
+NY-CMP-1422,SEO,"Premium Shoppers","WhatsApp, Google",Bengali,"Tier 2 City Customers",2025-01-28,2025-01-28,26,73236,5181,2964,2196,531432,91.2,1.65,14.12
+NY-CMP-1423,"Social Media",Youth,Facebook,Tamil,Youth,2025-03-20,2025-03-20,23,50087,2197,481,293,211546,1013.95,-0.29,5.93
+NY-CMP-1424,SEO,"College Students","Google, Facebook",Tamil,"College Students",2024-07-11,2024-07-11,17,25485,1757,966,714,157080,309.51,-0.29,13.49
+NY-CMP-1425,"Social Media","College Students",WhatsApp,Hindi,"Working Women",2025-02-12,2025-02-12,13,54734,6239,2317,856,393760,178.28,1.58,17.2
+NY-CMP-1426,Email,"Premium Shoppers","WhatsApp, Instagram, Facebook",Bengali,"Working Women",2024-12-14,2024-12-14,24,42150,2103,621,399,223440,144.45,2.88,7.41
+NY-CMP-1427,SEO,Youth,YouTube,Bengali,"College Students",2024-07-18,2024-07-18,28,88680,10868,5988,3497,2031757,74.77,6.77,22.95
+NY-CMP-1428,SEO,Youth,"YouTube, Google",Tamil,"Working Women",2024-10-25,2024-10-25,20,89850,8418,1798,644,483000,387.47,0.94,12.09
+NY-CMP-1429,SEO,"College Students","Instagram, WhatsApp, Facebook",English,"College Students",2025-02-13,2025-02-13,18,66228,4227,1820,592,439856,378.33,0.96,10.02
+NY-CMP-1430,Email,"Tier 2 City Customers",Instagram,Hindi,"College Students",2024-10-15,2024-10-15,16,98317,5518,2432,1022,754236,75.06,8.83,9.13
+NY-CMP-1431,Email,Youth,"WhatsApp, Facebook",Bengali,"Premium Shoppers",2025-04-04,2025-04-04,14,35182,1150,496,319,107503,201.44,0.67,5.59
+NY-CMP-1432,"Social Media","Premium Shoppers","Instagram, Email, Google",Hindi,"College Students",2025-05-07,2025-05-07,25,65106,5206,1299,1032,646032,259.87,1.41,11.58
+NY-CMP-1433,Influencer,"Premium Shoppers","WhatsApp, Facebook",Hindi,"Working Women",2025-01-01,2025-01-01,8,48654,1895,988,652,150612,244.89,-0.06,7.27
+NY-CMP-1434,SEO,"Premium Shoppers",YouTube,English,"Tier 2 City Customers",2024-09-12,2024-09-12,19,75413,7682,3846,1968,545136,102.4,1.71,17.9
+NY-CMP-1435,SEO,Youth,"Facebook, Instagram",Bengali,Youth,2024-11-19,2024-11-19,8,99608,9218,2461,1686,959334,149.38,2.81,13.42
+NY-CMP-1436,Influencer,"Working Women","Email, Facebook",English,"Tier 2 City Customers",2025-02-08,2025-02-08,14,77494,6410,3377,2123,458568,111.57,0.94,15.37
+NY-CMP-1437,Email,"College Students","Instagram, WhatsApp",Hindi,"Tier 2 City Customers",2025-02-18,2025-02-18,6,44616,1267,390,218,150420,717.17,-0.04,4.2
+NY-CMP-1438,"Social Media","Tier 2 City Customers","YouTube, Facebook",Bengali,Youth,2024-07-06,2024-07-06,26,47743,3255,659,345,82455,740.84,-0.68,8.92
+NY-CMP-1439,Influencer,"Tier 2 City Customers","YouTube, Facebook, Email",English,Youth,2024-11-29,2024-11-29,15,59911,5866,3132,1516,371420,114.62,1.14,17.55
+NY-CMP-1440,Email,"Tier 2 City Customers","YouTube, Instagram",Hindi,"Working Women",2024-10-03,2024-10-03,12,43827,3031,1557,1108,823244,167.29,3.44,13
+NY-CMP-1441,Email,"Working Women",Instagram,Hindi,"Tier 2 City Customers",2024-07-17,2024-07-17,27,62317,7992,2027,665,289940,429.68,0.01,17.14
+NY-CMP-1442,Email,"Tier 2 City Customers","Email, Facebook",Hindi,"College Students",2025-02-20,2025-02-20,26,97630,10499,4274,2459,1168025,71.48,5.65,17.65
+NY-CMP-1443,Influencer,"College Students",Google,English,"Tier 2 City Customers",2025-02-19,2025-02-19,11,33281,987,492,244,111996,634.62,-0.28,5.18
+NY-CMP-1444,Email,Youth,Instagram,English,Youth,2024-12-13,2024-12-13,26,55074,3297,870,455,358995,371.42,1.12,8.39
+NY-CMP-1445,Influencer,"Tier 2 City Customers","Instagram, YouTube, Facebook",Bengali,"Tier 2 City Customers",2024-10-11,2024-10-11,16,13451,510,107,41,30299,1889.8,-0.61,4.89
+NY-CMP-1446,"Social Media","Tier 2 City Customers","Instagram, WhatsApp",English,"Premium Shoppers",2025-03-15,2025-03-15,14,38029,4555,1850,693,257796,200.74,0.85,18.66
+NY-CMP-1447,Influencer,"Tier 2 City Customers","Email, WhatsApp",English,"Premium Shoppers",2024-09-14,2024-09-14,22,43133,3981,2317,1608,765408,134.62,2.54,18.33
+NY-CMP-1448,SEO,"College Students","Instagram, Facebook",English,"Working Women",2025-06-16,2025-06-16,7,91656,11465,3839,2490,639930,44.05,4.83,19.41
+NY-CMP-1449,"Social Media","Premium Shoppers","Google, YouTube, Facebook",Bengali,"Tier 2 City Customers",2024-12-30,2024-12-30,20,63539,5015,2021,1030,268830,177.09,0.47,12.69
+NY-CMP-1450,Email,"College Students",Facebook,Tamil,"College Students",2024-09-21,2024-09-21,11,56743,3871,1209,684,422712,284.8,1.17,10.16
+NY-CMP-1451,Email,"Premium Shoppers","Google, Facebook, Email",Tamil,"Tier 2 City Customers",2025-02-20,2025-02-20,16,55061,4238,1985,1216,262656,166.59,0.3,13.51
+NY-CMP-1452,Email,"Premium Shoppers","Facebook, WhatsApp",Hindi,"Premium Shoppers",2025-06-03,2025-06-03,10,86016,4359,2170,1442,695044,69.96,5.89,9.27
+NY-CMP-1453,"Social Media","Working Women",WhatsApp,Bengali,Youth,2024-08-05,2024-08-05,20,77949,10177,2873,2249,521768,114.5,1.03,19.63
+NY-CMP-1454,"Social Media","College Students",Instagram,Bengali,"Premium Shoppers",2025-02-27,2025-02-27,29,51566,2421,1115,823,502030,185.78,2.28,8.45
+NY-CMP-1455,SEO,Youth,"WhatsApp, Facebook",Tamil,"Premium Shoppers",2024-11-04,2024-11-04,13,87411,2847,688,546,288834,500.49,0.06,4.67
+NY-CMP-1456,Influencer,"Working Women","Instagram, WhatsApp",Hindi,Youth,2025-04-09,2025-04-09,30,84959,2279,775,522,138852,277.89,-0.04,4.21
+NY-CMP-1457,Influencer,Youth,"Facebook, Email",Bengali,"Premium Shoppers",2025-03-09,2025-03-09,19,57286,5419,2536,1403,719739,122.31,3.19,16.34
+NY-CMP-1458,"Paid Ads","Premium Shoppers","Google, WhatsApp, YouTube",English,Youth,2025-02-05,2025-02-05,15,57462,5755,2231,865,217115,326.18,-0.23,15.4
+NY-CMP-1459,SEO,"Premium Shoppers",YouTube,English,"Working Women",2024-09-12,2024-09-12,15,60314,5613,3074,1302,580692,70.35,5.34,16.56
+NY-CMP-1460,"Social Media",Youth,"Facebook, Google",English,"Working Women",2025-03-27,2025-03-27,13,49013,1536,738,297,79299,966.79,-0.72,5.25
+NY-CMP-1461,"Social Media","Tier 2 City Customers","Google, Email",Tamil,"Premium Shoppers",2024-10-27,2024-10-27,15,55826,7738,4204,1407,848421,196.37,2.07,23.91
+NY-CMP-1462,"Paid Ads","College Students","WhatsApp, Facebook, Google",Bengali,Youth,2024-10-28,2024-10-28,20,54700,3084,1411,796,253924,224.61,0.42,9.67
+NY-CMP-1463,SEO,"Working Women","YouTube, Instagram",Tamil,Youth,2024-07-18,2024-07-18,15,18866,2497,802,241,151348,294.83,1.13,18.76
+NY-CMP-1464,"Social Media","Working Women",WhatsApp,Hindi,Youth,2024-11-26,2024-11-26,5,83424,12059,2555,1699,773045,79.18,4.75,19.55
+NY-CMP-1465,SEO,"College Students",Email,English,"College Students",2024-09-23,2024-09-23,6,34396,2987,1473,1011,316443,232.16,0.35,15.91
+NY-CMP-1466,Influencer,"Premium Shoppers",Facebook,Tamil,Youth,2025-01-11,2025-01-11,14,10438,1443,456,191,67805,747.9,-0.53,20.02
+NY-CMP-1467,"Paid Ads","Tier 2 City Customers",Facebook,Bengali,Youth,2024-12-21,2024-12-21,23,35959,4867,2551,1653,1320747,110.5,6.23,25.23
+NY-CMP-1468,"Paid Ads","College Students","Google, YouTube, Email",Hindi,"Working Women",2025-05-01,2025-05-01,29,84127,9388,5198,2595,2050050,35.25,21.41,20.42
+NY-CMP-1469,"Social Media","Tier 2 City Customers","Facebook, YouTube",English,"Working Women",2025-01-05,2025-01-05,10,33209,706,143,59,18172,3272.37,-0.91,2.73
+NY-CMP-1470,Influencer,"Premium Shoppers","Facebook, Instagram, WhatsApp",Bengali,Youth,2024-07-04,2024-07-04,21,84823,5531,2706,2044,1105804,109.87,3.92,12.12
+NY-CMP-1471,Email,Youth,"Instagram, YouTube, Email",English,"College Students",2025-02-16,2025-02-16,7,35839,1933,857,332,253648,635.76,0.2,8.71
+NY-CMP-1472,Email,"Premium Shoppers",Facebook,Hindi,"Tier 2 City Customers",2024-11-17,2024-11-17,20,79003,3956,2169,1245,728325,237.64,1.46,9.33
+NY-CMP-1473,Email,"Tier 2 City Customers","WhatsApp, YouTube, Google",Tamil,"Tier 2 City Customers",2024-07-18,2024-07-18,23,90331,3525,711,450,260100,510.46,0.13,5.19
+NY-CMP-1474,"Social Media","Working Women",WhatsApp,English,"College Students",2024-10-10,2024-10-10,13,59563,6264,2158,1489,999119,173.1,2.88,16.64
+NY-CMP-1475,SEO,"College Students",Google,English,"Tier 2 City Customers",2024-08-26,2024-08-26,17,70403,8732,2769,1288,696808,51.73,9.46,18.17
+NY-CMP-1476,Influencer,"Tier 2 City Customers",Facebook,English,"Tier 2 City Customers",2024-08-30,2024-08-30,14,59289,5210,1973,974,537648,303.3,0.82,13.76
+NY-CMP-1477,Influencer,"Working Women","WhatsApp, Google",Tamil,"Tier 2 City Customers",2024-08-31,2024-08-31,6,46331,5310,2151,665,331835,220.85,1.26,17.54
+NY-CMP-1478,Email,Youth,YouTube,Bengali,Youth,2025-01-26,2025-01-26,21,83897,11402,4086,2019,1205343,98.93,5.03,20.87
+NY-CMP-1479,"Social Media","College Students","Facebook, Google",English,"College Students",2024-11-02,2024-11-02,30,55425,8082,3374,2630,810040,79.4,2.88,25.41
+NY-CMP-1480,Influencer,"Tier 2 City Customers",Email,Bengali,"Tier 2 City Customers",2024-10-30,2024-10-30,12,56093,2914,1393,959,658833,170.15,3.04,9.39
+NY-CMP-1481,Email,Youth,"Facebook, Email, Google",Hindi,"College Students",2025-01-17,2025-01-17,16,16573,667,309,159,65826,957.37,-0.57,6.85
+NY-CMP-1482,Influencer,"Tier 2 City Customers","YouTube, Facebook",English,"Premium Shoppers",2024-12-21,2024-12-21,16,84901,9507,4952,3318,1244250,63.59,4.9,20.94
+NY-CMP-1483,SEO,"College Students","Instagram, WhatsApp, Google",Tamil,"Premium Shoppers",2024-11-19,2024-11-19,12,10277,1341,696,403,276055,300.38,1.28,23.74
+NY-CMP-1484,"Social Media","Tier 2 City Customers","YouTube, Google, WhatsApp",Tamil,"Premium Shoppers",2025-05-15,2025-05-15,22,65909,1695,437,221,49946,702.58,-0.68,3.57
+NY-CMP-1485,"Social Media","College Students",Facebook,Tamil,Youth,2024-08-30,2024-08-30,16,56834,1488,573,314,242722,606.38,0.27,4.18
+NY-CMP-1486,SEO,"Tier 2 City Customers",Facebook,English,"Tier 2 City Customers",2024-12-06,2024-12-06,29,77535,1912,1065,363,172425,646.84,-0.27,4.31
+NY-CMP-1487,"Paid Ads",Youth,"YouTube, Facebook",Bengali,"Premium Shoppers",2024-07-09,2024-07-09,8,48800,6107,2598,2044,1340864,53.9,11.17,22.03
+NY-CMP-1488,"Social Media","Working Women","Instagram, WhatsApp, Email",English,"Working Women",2024-10-09,2024-10-09,24,53017,5349,2159,1377,765612,46.11,11.06,16.76
+NY-CMP-1489,Influencer,"Premium Shoppers","Instagram, Email, WhatsApp",Hindi,"Premium Shoppers",2025-05-28,2025-05-28,26,55033,7427,3218,2395,1276535,102.65,4.19,23.69
+NY-CMP-1490,"Paid Ads","Premium Shoppers",YouTube,English,"College Students",2024-08-15,2024-08-15,8,14262,828,417,209,92587,763.8,-0.42,10.19
+NY-CMP-1491,"Paid Ads","Tier 2 City Customers","Email, Facebook, YouTube",English,"Premium Shoppers",2024-12-23,2024-12-23,16,77344,2577,1126,878,530312,291.78,1.07,5.92
+NY-CMP-1492,Influencer,"Tier 2 City Customers",Google,English,Youth,2024-12-26,2024-12-26,11,13159,963,289,199,64277,1288.47,-0.75,11.03
+NY-CMP-1493,SEO,"College Students","YouTube, Instagram",Hindi,"Premium Shoppers",2024-09-25,2024-09-25,9,18548,1272,652,347,242553,810.7,-0.14,12.24
+NY-CMP-1494,"Paid Ads","Tier 2 City Customers","YouTube, WhatsApp",Bengali,"Tier 2 City Customers",2024-09-27,2024-09-27,5,62883,1397,689,207,140967,1333.25,-0.49,3.65
+NY-CMP-1495,Email,"Working Women","Google, Instagram",English,"Working Women",2025-02-04,2025-02-04,23,36034,4612,1234,757,436789,355.82,0.62,18.32
+NY-CMP-1496,Influencer,"Tier 2 City Customers","Facebook, YouTube",Hindi,"Working Women",2024-08-25,2024-08-25,30,10686,1001,570,373,105559,455.99,-0.38,18.19
+NY-CMP-1497,"Social Media","Working Women","Instagram, Google",Bengali,Youth,2024-12-22,2024-12-22,9,45106,5228,1269,628,496120,382.33,1.07,15.8
+NY-CMP-1498,Influencer,"Tier 2 City Customers",YouTube,English,"Premium Shoppers",2025-02-06,2025-02-06,8,78751,8255,4369,1366,939808,163.17,3.22,17.76
+NY-CMP-1499,SEO,"Premium Shoppers",YouTube,English,Youth,2024-12-06,2024-12-06,25,76612,7253,2644,1281,787815,165.2,2.72,14.59
+NY-CMP-1500,"Social Media","College Students",YouTube,English,"College Students",2025-02-01,2025-02-01,25,38552,2281,811,297,203445,918.9,-0.25,8.79
+NY-CMP-1501,"Paid Ads","Premium Shoppers",Email,Bengali,Youth,2025-01-11,2025-01-11,16,62315,6675,1697,793,270413,184.66,0.85,14.71
+NY-CMP-1502,Email,"College Students","Facebook, Email",Bengali,Youth,2024-07-24,2024-07-24,16,58636,7234,4177,1925,490875,125.62,1.03,22.74
+NY-CMP-1503,"Paid Ads","Premium Shoppers","Email, WhatsApp, Google",Bengali,"Working Women",2024-12-08,2024-12-08,19,91862,8677,1999,864,282528,70.72,3.62,12.56
+NY-CMP-1504,"Paid Ads","Tier 2 City Customers","Instagram, YouTube, WhatsApp",Hindi,"Tier 2 City Customers",2025-05-03,2025-05-03,11,41112,4064,2221,846,651420,144.28,4.34,17.35
+NY-CMP-1505,Influencer,"Tier 2 City Customers","WhatsApp, Google",English,"Tier 2 City Customers",2024-08-12,2024-08-12,26,69910,6290,2067,1167,529818,147.8,2.07,13.62
+NY-CMP-1506,Influencer,Youth,Google,Bengali,"Working Women",2025-02-02,2025-02-02,25,85304,6988,4106,1996,786424,44.22,7.91,15.35
+NY-CMP-1507,"Social Media","Tier 2 City Customers","Facebook, Email",English,"Working Women",2025-05-09,2025-05-09,5,88871,10815,4016,1562,838794,43.06,11.47,18.45
+NY-CMP-1508,Email,"College Students","WhatsApp, Email",English,"Premium Shoppers",2024-08-11,2024-08-11,18,79759,9019,3322,2177,546427,65.12,2.85,18.2
+NY-CMP-1509,Email,"College Students","WhatsApp, Facebook, Email",English,"Working Women",2025-05-12,2025-05-12,24,91498,9350,2665,1131,838071,185.84,2.99,14.37
+NY-CMP-1510,Influencer,"Premium Shoppers",WhatsApp,Hindi,"Working Women",2024-11-03,2024-11-03,19,67510,6637,2477,1166,348634,198.61,0.51,15.23
+NY-CMP-1511,"Paid Ads","Premium Shoppers","Instagram, YouTube",Bengali,Youth,2025-05-29,2025-05-29,21,13085,1024,247,135,86940,1567.93,-0.59,10.75
+NY-CMP-1512,"Paid Ads","Working Women","WhatsApp, Email",Tamil,"College Students",2025-03-08,2025-03-08,19,23295,2139,735,409,176279,437.59,-0.02,14.09
+NY-CMP-1513,Influencer,"Premium Shoppers",YouTube,Bengali,"Premium Shoppers",2025-02-06,2025-02-06,14,23047,2143,579,401,317191,132.11,4.99,13.55
+NY-CMP-1514,SEO,"Working Women","WhatsApp, Google",English,"Premium Shoppers",2024-08-19,2024-08-19,17,23767,1176,677,420,190680,468.25,-0.03,9.56
+NY-CMP-1515,"Paid Ads","College Students","Email, Google, Facebook",English,"Tier 2 City Customers",2024-09-23,2024-09-23,20,44113,1686,978,325,177775,645.42,-0.15,6.78
+NY-CMP-1516,Email,Youth,"WhatsApp, Instagram, Email",Hindi,"Working Women",2025-05-03,2025-05-03,29,18646,1102,646,474,298146,205.32,2.06,11.92
+NY-CMP-1517,SEO,"College Students","Instagram, Email",Bengali,Youth,2024-12-02,2024-12-02,30,66817,6442,2521,1233,810081,42.3,14.53,15.26
+NY-CMP-1518,"Social Media","Premium Shoppers","Instagram, Google",English,"Tier 2 City Customers",2025-04-09,2025-04-09,11,50992,7006,2690,1547,550732,101.06,2.52,22.05
+NY-CMP-1519,Email,"Working Women","Instagram, YouTube, WhatsApp",Tamil,"College Students",2025-02-21,2025-02-21,21,13334,1484,680,509,312017,495.57,0.24,20.05
+NY-CMP-1520,Email,"College Students",Instagram,English,"College Students",2025-06-02,2025-06-02,7,64053,4410,1507,494,138320,395.62,-0.29,10.01
+NY-CMP-1521,SEO,"Working Women","WhatsApp, Facebook",Hindi,"Tier 2 City Customers",2025-06-10,2025-06-10,8,23588,3455,1470,1134,825552,84,7.67,25.69
+NY-CMP-1522,"Paid Ads","Working Women",Facebook,Bengali,"Tier 2 City Customers",2025-02-25,2025-02-25,30,64241,4786,1674,855,520695,346.6,0.76,11.39
+NY-CMP-1523,"Paid Ads","Tier 2 City Customers","Email, WhatsApp",Bengali,Youth,2025-04-10,2025-04-10,8,28776,843,296,91,71890,1461.27,-0.46,4.27
+NY-CMP-1524,Email,"College Students","YouTube, Facebook, Instagram",Hindi,"Premium Shoppers",2025-02-12,2025-02-12,28,27043,682,285,205,88560,1436.24,-0.7,4.33
+NY-CMP-1525,"Paid Ads",Youth,"Instagram, YouTube, Email",English,"Tier 2 City Customers",2024-10-14,2024-10-14,7,99902,7729,2601,1472,1093696,100.07,6.42,11.81
+NY-CMP-1526,Email,"Tier 2 City Customers",Email,English,Youth,2025-03-19,2025-03-19,26,62552,8535,3324,1526,862190,104.55,4.4,21.4
+NY-CMP-1527,"Paid Ads","Tier 2 City Customers","WhatsApp, YouTube, Email",Tamil,Youth,2025-03-23,2025-03-23,11,22932,3165,887,500,322500,275.59,1.34,19.85
+NY-CMP-1528,"Social Media","College Students","Facebook, Google, Instagram",Tamil,"Working Women",2024-09-10,2024-09-10,30,80131,8481,2695,2039,1578186,134.68,4.75,16.49
+NY-CMP-1529,Influencer,Youth,"Google, Email",Bengali,Youth,2024-07-03,2024-07-03,13,27515,2074,927,387,224073,491.09,0.18,12.31
+NY-CMP-1530,"Paid Ads","College Students","Google, Email",Tamil,"Premium Shoppers",2024-12-19,2024-12-19,16,72177,5889,3318,1138,326606,231.55,0.24,14.33
+NY-CMP-1531,SEO,"Premium Shoppers","Email, Facebook",Tamil,"Premium Shoppers",2025-04-30,2025-04-30,14,49359,5231,2497,1585,698985,102.33,3.31,18.87
+NY-CMP-1532,"Social Media","Tier 2 City Customers","Facebook, Email, WhatsApp",Hindi,"Tier 2 City Customers",2025-02-07,2025-02-07,8,36264,1232,617,307,171920,814.61,-0.31,5.95
+NY-CMP-1533,Influencer,Youth,"Facebook, Instagram, WhatsApp",Hindi,"Working Women",2024-08-18,2024-08-18,8,75756,8106,4666,2859,1032099,91.14,2.96,20.63
+NY-CMP-1534,"Paid Ads","Tier 2 City Customers","YouTube, Facebook",Bengali,"College Students",2025-06-14,2025-06-14,13,66723,6284,1466,758,339584,219.06,1.05,12.75
+NY-CMP-1535,"Paid Ads","Tier 2 City Customers","Google, Facebook, Email",Bengali,"Tier 2 City Customers",2025-04-05,2025-04-05,28,26904,3794,1431,981,595467,69.16,7.78,23.07
+NY-CMP-1536,Email,"Tier 2 City Customers",WhatsApp,English,"Tier 2 City Customers",2024-09-02,2024-09-02,12,14136,941,436,253,93863,976.89,-0.62,11.53
+NY-CMP-1537,"Social Media",Youth,"Facebook, Instagram",Tamil,"Premium Shoppers",2025-02-11,2025-02-11,25,67236,1455,316,118,27494,2229.88,-0.9,2.81
+NY-CMP-1538,"Paid Ads",Youth,Instagram,Hindi,"Premium Shoppers",2024-11-21,2024-11-21,22,89989,12191,7228,3410,2557500,77.97,8.62,25.37
+NY-CMP-1539,"Social Media","Premium Shoppers",Google,English,"College Students",2025-05-16,2025-05-16,30,20485,1933,986,568,294224,439.57,0.18,17.02
+NY-CMP-1540,"Paid Ads","Premium Shoppers","Email, WhatsApp",Hindi,"Premium Shoppers",2025-01-30,2025-01-30,9,76374,5429,2101,1129,462890,115.33,2.56,11.34
+NY-CMP-1541,"Social Media","Tier 2 City Customers","Instagram, Email",English,"College Students",2024-10-10,2024-10-10,27,44746,3058,954,322,74060,486.3,-0.53,9.69
+NY-CMP-1542,"Social Media","College Students","Instagram, Google, Email",English,"Tier 2 City Customers",2024-09-28,2024-09-28,25,92675,11345,5576,3741,1866759,23.75,20.01,22.3
+NY-CMP-1543,SEO,Youth,Instagram,Tamil,"Tier 2 City Customers",2025-04-04,2025-04-04,17,77138,5782,2843,2168,1723560,61.01,12.03,13.99
+NY-CMP-1544,"Paid Ads",Youth,Facebook,English,"Working Women",2024-10-31,2024-10-31,20,38242,4621,1786,941,551426,270.55,1.17,19.21
+NY-CMP-1545,Email,"Premium Shoppers","WhatsApp, Facebook, Google",Bengali,Youth,2024-12-08,2024-12-08,28,84181,11704,5912,3869,1717836,56.09,6.92,25.52
+NY-CMP-1546,"Social Media","Working Women",Google,English,Youth,2025-01-27,2025-01-27,25,58196,6729,1746,695,244640,74.91,3.7,15.76
+NY-CMP-1547,Influencer,"College Students","Instagram, WhatsApp, Facebook",English,"Working Women",2025-04-29,2025-04-29,17,62402,3778,1907,1333,1047738,47.26,15.63,11.25
+NY-CMP-1548,"Social Media","Tier 2 City Customers","WhatsApp, Google, Facebook",Tamil,"Tier 2 City Customers",2025-04-03,2025-04-03,12,90033,8177,1670,535,224700,369.04,0.14,11.53
+NY-CMP-1549,"Social Media",Youth,"Email, Facebook, Google",Bengali,"Working Women",2024-12-26,2024-12-26,19,20283,857,431,237,102147,1097.75,-0.61,7.52
+NY-CMP-1550,"Social Media","Tier 2 City Customers",Instagram,English,"Working Women",2025-04-22,2025-04-22,15,74761,4170,1180,398,113032,315.5,-0.1,7.69
+NY-CMP-1551,Influencer,"College Students","Facebook, WhatsApp, Email",Tamil,"College Students",2025-02-09,2025-02-09,5,12307,1001,520,402,209442,369.93,0.41,15.63
+NY-CMP-1552,"Social Media",Youth,"Google, YouTube, WhatsApp",Tamil,"Tier 2 City Customers",2025-01-28,2025-01-28,16,91281,7431,4043,1516,422964,83.62,2.34,14.23
+NY-CMP-1553,Influencer,"College Students","Google, Instagram, Email",Tamil,"College Students",2025-05-11,2025-05-11,11,13120,960,486,190,59850,1407.93,-0.78,12.47
+NY-CMP-1554,Email,"College Students",Google,Tamil,"Tier 2 City Customers",2024-10-23,2024-10-23,16,86056,6329,1300,684,508896,146.14,4.09,9.66
+NY-CMP-1555,SEO,"Tier 2 City Customers",Facebook,Tamil,"Premium Shoppers",2025-03-15,2025-03-15,18,67155,8772,4070,2839,1493314,18.47,27.48,23.35
+NY-CMP-1556,"Paid Ads","College Students","Facebook, Email",Bengali,"Tier 2 City Customers",2024-07-07,2024-07-07,22,40686,4308,2146,744,248496,367.27,-0.09,17.69
+NY-CMP-1557,"Paid Ads",Youth,"Google, WhatsApp",English,"Working Women",2025-02-27,2025-02-27,24,38003,5637,1820,644,180320,85.7,2.27,21.32
+NY-CMP-1558,Influencer,"Working Women",Email,Bengali,"Working Women",2025-05-09,2025-05-09,9,18838,1199,622,231,181335,970.11,-0.19,10.89
+NY-CMP-1559,SEO,"Tier 2 City Customers",Instagram,Hindi,"Premium Shoppers",2024-12-06,2024-12-06,18,99786,6470,2836,1527,833742,53.69,9.17,10.86
+NY-CMP-1560,"Paid Ads","Premium Shoppers",Instagram,Tamil,"Premium Shoppers",2025-04-24,2025-04-24,20,54653,6191,1322,893,390241,281.85,0.55,15.38
+NY-CMP-1561,Email,"Tier 2 City Customers","Instagram, Facebook, WhatsApp",Hindi,"Tier 2 City Customers",2024-11-13,2024-11-13,13,46810,2463,932,390,234000,707.52,-0.15,8.09
+NY-CMP-1562,Email,"Working Women","Google, WhatsApp",English,"Premium Shoppers",2025-05-14,2025-05-14,13,23081,715,245,179,97197,355.68,0.53,4.93
+NY-CMP-1563,Influencer,"Premium Shoppers",Instagram,Bengali,Youth,2025-06-10,2025-06-10,9,81227,4092,1364,882,455994,225.45,1.29,7.8
+NY-CMP-1564,"Social Media","College Students","YouTube, Email, WhatsApp",Bengali,"Premium Shoppers",2025-03-30,2025-03-30,30,73049,8024,3561,1099,231889,183.84,0.15,17.36
+NY-CMP-1565,"Paid Ads","Working Women","WhatsApp, Google",English,"Premium Shoppers",2024-08-28,2024-08-28,30,95418,2414,675,241,143877,333.14,0.79,3.49
+NY-CMP-1566,Email,Youth,"YouTube, Email",Bengali,"Premium Shoppers",2025-04-27,2025-04-27,16,12408,1131,666,225,65475,1261.18,-0.77,16.3
+NY-CMP-1567,"Paid Ads",Youth,Email,Tamil,"Tier 2 City Customers",2024-07-19,2024-07-19,30,68517,5282,2254,1364,1068012,82.95,8.44,12.99
+NY-CMP-1568,"Paid Ads","Tier 2 City Customers","YouTube, Google, Facebook",English,"Tier 2 City Customers",2024-09-06,2024-09-06,25,33673,2583,953,561,437019,474.66,0.64,12.17
+NY-CMP-1569,Influencer,"Premium Shoppers",Instagram,English,"Tier 2 City Customers",2025-01-30,2025-01-30,28,57159,8510,4235,2413,1498473,38.26,15.23,26.52
+NY-CMP-1570,Email,"College Students","WhatsApp, Google",Hindi,Youth,2025-02-01,2025-02-01,21,49927,6339,1846,833,495635,359.88,0.65,18.06
+NY-CMP-1571,"Paid Ads","College Students","WhatsApp, Facebook",English,Youth,2024-12-11,2024-12-11,13,39327,5389,2425,1791,612522,67,4.1,24.42
+NY-CMP-1572,"Social Media","College Students","WhatsApp, Instagram, YouTube",Bengali,"College Students",2024-10-15,2024-10-15,16,48822,5085,1915,704,368896,106.07,3.94,15.78
+NY-CMP-1573,Email,"Working Women","Instagram, WhatsApp, Google",English,"College Students",2024-10-06,2024-10-06,25,49394,1334,796,249,112299,1085.71,-0.58,4.82
+NY-CMP-1574,"Social Media","Tier 2 City Customers",Instagram,Tamil,"Premium Shoppers",2024-09-14,2024-09-14,27,18187,2014,425,315,172620,624.46,-0.12,15.14
+NY-CMP-1575,"Social Media",Youth,"YouTube, Instagram, WhatsApp",Tamil,"Premium Shoppers",2024-10-24,2024-10-24,21,66984,7265,1925,881,526838,167.79,2.56,15.03
+NY-CMP-1576,"Paid Ads","Working Women",YouTube,Hindi,"Tier 2 City Customers",2024-07-07,2024-07-07,5,67967,2051,499,261,71253,1086.35,-0.75,4.14
+NY-CMP-1577,Influencer,"College Students","Instagram, YouTube, Facebook",Tamil,"Working Women",2024-11-25,2024-11-25,22,75430,6805,1555,937,476933,118.18,3.31,12.33
+NY-CMP-1578,Email,"Tier 2 City Customers",WhatsApp,Hindi,"Working Women",2025-06-17,2025-06-17,8,87567,5885,2970,1255,340105,182.97,0.48,11.55
+NY-CMP-1579,SEO,"College Students","YouTube, Instagram, Google",Bengali,"Premium Shoppers",2024-12-16,2024-12-16,23,18301,2304,978,496,155248,156.44,1,20.64
+NY-CMP-1580,"Social Media","Tier 2 City Customers","YouTube, Facebook",Bengali,"College Students",2025-04-01,2025-04-01,13,71103,6162,2703,1826,381634,61.88,2.38,15.04
+NY-CMP-1581,SEO,"Working Women","Email, Google",Hindi,"College Students",2025-05-12,2025-05-12,20,93876,7120,2417,841,374245,101.24,3.4,11.06
+NY-CMP-1582,Influencer,"Tier 2 City Customers",Google,English,Youth,2024-11-24,2024-11-24,23,36680,3456,1074,668,363392,314.95,0.73,14.17
+NY-CMP-1583,Influencer,Youth,"Facebook, Email",Hindi,"Premium Shoppers",2025-03-04,2025-03-04,13,56090,6965,2529,1823,616174,41.69,7.11,20.18
+NY-CMP-1584,"Social Media","Premium Shoppers",YouTube,Tamil,Youth,2025-04-18,2025-04-18,6,45661,2686,1215,427,286944,670.88,0,9.48
+NY-CMP-1585,Email,"Premium Shoppers","Google, WhatsApp",Bengali,"College Students",2025-03-20,2025-03-20,21,73006,2614,1454,448,129024,289.5,-0.01,6.19
+NY-CMP-1586,Influencer,"Premium Shoppers",YouTube,English,"College Students",2025-03-27,2025-03-27,11,55924,4009,1866,1383,358197,157.51,0.64,12.98
+NY-CMP-1587,SEO,"College Students",YouTube,Bengali,Youth,2025-01-23,2025-01-23,14,63107,7782,4510,2867,903105,24.43,11.89,24.02
+NY-CMP-1588,Email,Youth,"Email, YouTube, Google",Bengali,"Premium Shoppers",2025-01-06,2025-01-06,20,40028,2124,799,525,139125,402.61,-0.34,8.61
+NY-CMP-1589,"Social Media",Youth,Google,Hindi,"Tier 2 City Customers",2025-02-18,2025-02-18,12,50174,4443,982,309,119274,259.6,0.49,11.43
+NY-CMP-1590,SEO,Youth,"WhatsApp, YouTube",Tamil,"Premium Shoppers",2024-11-15,2024-11-15,20,93799,8426,2398,1558,1182522,104.6,6.26,13.2
+NY-CMP-1591,"Social Media",Youth,"Facebook, Email",Bengali,"Working Women",2024-12-27,2024-12-27,14,42077,2578,637,385,93170,594.77,-0.59,8.56
+NY-CMP-1592,SEO,"College Students",Google,English,"College Students",2025-04-13,2025-04-13,13,18041,2685,1271,484,352836,426.56,0.71,24.61
+NY-CMP-1593,"Paid Ads","Premium Shoppers","Google, Facebook, Instagram",Hindi,"College Students",2024-08-02,2024-08-02,14,90179,6790,2735,889,640080,294.29,1.45,11.55
+NY-CMP-1594,"Social Media","Premium Shoppers","YouTube, Google",Bengali,"College Students",2024-12-13,2024-12-13,15,56466,6515,1793,1329,611340,122.9,2.74,17.07
+NY-CMP-1595,SEO,Youth,Email,Hindi,"Working Women",2024-07-24,2024-07-24,27,30918,3999,1289,914,521894,252.63,1.26,20.06
+NY-CMP-1596,"Social Media","College Students","Instagram, Email",Hindi,Youth,2024-07-10,2024-07-10,7,19521,1077,264,193,64269,311.68,0.07,7.86
+NY-CMP-1597,"Paid Ads","Tier 2 City Customers",WhatsApp,Bengali,"Working Women",2024-12-05,2024-12-05,30,68661,7281,2943,1269,378162,228.49,0.3,16.74
+NY-CMP-1598,"Social Media","Premium Shoppers",Google,Bengali,"Tier 2 City Customers",2024-11-12,2024-11-12,23,30351,2333,1371,965,416880,234.82,0.84,15.38
+NY-CMP-1599,Influencer,Youth,YouTube,Tamil,"Working Women",2024-07-14,2024-07-14,24,58535,6405,1542,1078,527142,68.17,6.17,15.42
+NY-CMP-1600,Influencer,"Tier 2 City Customers",Instagram,English,"College Students",2025-03-18,2025-03-18,29,80933,7272,2170,1343,589577,205.53,1.14,13.33
+NY-CMP-1601,SEO,"Premium Shoppers","Facebook, Email, YouTube",Hindi,Youth,2024-10-09,2024-10-09,20,10156,1063,366,135,77085,986.93,-0.42,15.4
+NY-CMP-1602,SEO,"Working Women","Email, Google",Hindi,"College Students",2024-12-07,2024-12-07,6,49801,4739,2658,2077,1634599,73.87,9.65,19.02
+NY-CMP-1603,"Paid Ads","Working Women","Email, Instagram, Google",Tamil,"College Students",2025-02-10,2025-02-10,22,75807,7530,2753,861,543291,110.79,4.7,14.7
+NY-CMP-1604,"Social Media",Youth,"YouTube, Google",Hindi,"Tier 2 City Customers",2024-07-31,2024-07-31,21,68993,8964,1867,644,206724,187.4,0.71,16.63
+NY-CMP-1605,"Paid Ads","Premium Shoppers","WhatsApp, Email, YouTube",Tamil,"College Students",2025-05-16,2025-05-16,28,29349,2702,626,447,140358,647.65,-0.52,12.86
+NY-CMP-1606,Influencer,"Premium Shoppers",Instagram,English,"Tier 2 City Customers",2024-09-23,2024-09-23,13,21703,2104,1000,735,521850,318.87,1.23,17.69
+NY-CMP-1607,Email,Youth,"YouTube, Google, Instagram",English,"Working Women",2025-05-27,2025-05-27,13,32464,1151,248,127,101473,1072.4,-0.25,4.7
+NY-CMP-1608,"Social Media","Tier 2 City Customers","YouTube, Google",Hindi,"College Students",2024-07-28,2024-07-28,11,97381,11785,5850,3898,865356,18.2,11.2,22.11
+NY-CMP-1609,SEO,"Tier 2 City Customers","YouTube, Facebook, Instagram",English,"Tier 2 City Customers",2025-01-04,2025-01-04,22,18542,1212,270,146,113004,1405.86,-0.45,8.78
+NY-CMP-1610,Influencer,"Tier 2 City Customers","WhatsApp, Email, YouTube",Tamil,"Working Women",2025-04-10,2025-04-10,23,60556,4939,2529,1055,704740,222.49,2,14.07
+NY-CMP-1611,"Social Media","Tier 2 City Customers",YouTube,Hindi,Youth,2025-06-01,2025-06-01,21,51489,3383,1396,556,363068,144.92,3.51,10.36
+NY-CMP-1612,Influencer,"Tier 2 City Customers","YouTube, Facebook, Instagram",Tamil,"Premium Shoppers",2024-10-31,2024-10-31,27,81702,11902,4609,1890,1357020,37.17,18.31,22.52
+NY-CMP-1613,Influencer,Youth,"Facebook, WhatsApp, YouTube",English,"Tier 2 City Customers",2025-05-22,2025-05-22,29,93208,3010,1450,929,544394,219.74,1.67,5.78
+NY-CMP-1614,Email,"Tier 2 City Customers","WhatsApp, Facebook, Email",Bengali,"Premium Shoppers",2025-01-27,2025-01-27,9,52100,4531,2559,1318,728854,178.34,2.1,16.14
+NY-CMP-1615,"Social Media",Youth,"WhatsApp, Google, YouTube",Hindi,"Tier 2 City Customers",2024-07-22,2024-07-22,12,78994,2075,428,337,189394,414.45,0.36,3.6
+NY-CMP-1616,Influencer,"Tier 2 City Customers","Google, Facebook",Hindi,Youth,2025-02-19,2025-02-19,18,18542,1091,620,296,61568,691.12,-0.7,10.82
+NY-CMP-1617,Influencer,"College Students","Facebook, Google, Email",Hindi,Youth,2025-01-25,2025-01-25,8,14943,2137,820,383,275377,264.83,1.71,22.35
+NY-CMP-1618,"Paid Ads","Premium Shoppers","Email, Instagram",Tamil,Youth,2024-09-10,2024-09-10,27,38344,3288,835,318,98898,218.25,0.43,11.58
+NY-CMP-1619,SEO,"College Students","WhatsApp, Instagram, Facebook",Hindi,"Tier 2 City Customers",2025-06-18,2025-06-18,5,15352,437,110,83,58598,2435.64,-0.71,4.1
+NY-CMP-1620,SEO,"Premium Shoppers","Facebook, WhatsApp, Google",Tamil,"Working Women",2024-10-23,2024-10-23,24,85695,8615,2294,1431,781326,168.06,2.25,14.4
+NY-CMP-1621,Email,"College Students","Facebook, Google, WhatsApp",Bengali,"Tier 2 City Customers",2024-10-20,2024-10-20,22,48413,1449,737,563,216192,530.53,-0.28,5.68
+NY-CMP-1622,SEO,"College Students","Google, Instagram, Email",Hindi,Youth,2025-02-17,2025-02-17,20,48751,1616,958,400,124400,689.3,-0.55,6.1
+NY-CMP-1623,Email,"Tier 2 City Customers","Instagram, WhatsApp",Bengali,"Tier 2 City Customers",2025-01-31,2025-01-31,24,62190,3493,1037,478,141966,508.98,-0.42,8.05
+NY-CMP-1624,"Paid Ads","Working Women",WhatsApp,Bengali,"College Students",2024-07-20,2024-07-20,8,26992,3409,1450,1063,835518,133.32,4.9,21.94
+NY-CMP-1625,Email,"Working Women",Email,Tamil,"Premium Shoppers",2025-03-25,2025-03-25,30,52230,7402,3153,1848,992376,92.87,4.78,23.75
+NY-CMP-1626,SEO,"Tier 2 City Customers",Google,Tamil,Youth,2025-05-20,2025-05-20,29,95258,5510,1424,919,477880,202.32,1.57,8.24
+NY-CMP-1627,SEO,"College Students","Google, YouTube, Instagram",Bengali,Youth,2024-07-16,2024-07-16,14,69728,3647,1821,573,377607,438.13,0.5,8.66
+NY-CMP-1628,Email,"Premium Shoppers","YouTube, WhatsApp, Email",English,Youth,2025-02-26,2025-02-26,6,75400,3232,1293,466,298706,493.82,0.3,6.62
+NY-CMP-1629,Email,"Premium Shoppers","Email, YouTube",Hindi,"College Students",2024-07-25,2024-07-25,20,22650,3381,1566,1193,496288,140.37,1.96,27.11
+NY-CMP-1630,"Paid Ads",Youth,"WhatsApp, YouTube",English,"College Students",2024-10-20,2024-10-20,21,68355,8407,2973,1837,657646,100.34,2.57,19.34
+NY-CMP-1631,Influencer,"Tier 2 City Customers",WhatsApp,Hindi,"Working Women",2024-08-04,2024-08-04,28,93185,8635,1901,1156,618460,155.71,2.44,12.55
+NY-CMP-1632,Email,"Premium Shoppers",Email,Bengali,"Premium Shoppers",2025-02-18,2025-02-18,10,24909,3533,913,726,204006,337.71,-0.17,20.76
+NY-CMP-1633,Influencer,"Premium Shoppers","Email, Google, Facebook",Tamil,Youth,2024-08-20,2024-08-20,9,93072,9536,1941,1456,719264,127.59,2.87,13.9
+NY-CMP-1634,"Social Media","Working Women","Instagram, WhatsApp",Hindi,"College Students",2025-04-08,2025-04-08,17,26755,1654,800,409,107976,587.06,-0.55,10.7
+NY-CMP-1635,"Paid Ads","Premium Shoppers","Instagram, YouTube, WhatsApp",English,"Working Women",2024-12-13,2024-12-13,18,62809,3960,2113,1416,1076160,206.91,2.67,11.92
+NY-CMP-1636,"Paid Ads",Youth,Google,English,Youth,2024-10-22,2024-10-22,7,23966,3015,1345,775,432450,299.12,0.87,21.43
+NY-CMP-1637,Influencer,"Working Women",Facebook,Hindi,"College Students",2024-08-21,2024-08-21,12,72688,8132,4806,3211,1637610,17.97,27.37,22.22
+NY-CMP-1638,Influencer,"Premium Shoppers","Email, Facebook",Hindi,Youth,2024-08-20,2024-08-20,18,69579,7074,2694,1614,784404,80.13,5.06,16.36
+NY-CMP-1639,Influencer,"College Students","Email, Facebook, WhatsApp",English,"College Students",2024-10-28,2024-10-28,16,93673,6392,3535,1929,426309,91.74,1.41,12.66
+NY-CMP-1640,"Social Media","Premium Shoppers","Email, WhatsApp, Facebook",English,"Premium Shoppers",2024-07-23,2024-07-23,28,99580,7664,3967,3015,1139670,47.72,6.92,14.71
+NY-CMP-1641,Influencer,"Premium Shoppers",Instagram,Tamil,"College Students",2025-01-03,2025-01-03,25,84581,6796,3664,2023,671636,92.85,2.58,14.76
+NY-CMP-1642,"Social Media","College Students","Google, Instagram",Tamil,"College Students",2024-08-20,2024-08-20,8,70390,2797,1409,1050,221550,282.28,-0.25,7.47
+NY-CMP-1643,"Paid Ads","Premium Shoppers","Facebook, Instagram",English,"Tier 2 City Customers",2025-02-09,2025-02-09,9,29865,716,178,81,58563,794.33,-0.09,3.26
+NY-CMP-1644,SEO,"Working Women","WhatsApp, Email",English,"College Students",2024-12-13,2024-12-13,15,30664,2825,1368,731,250002,72.71,3.7,16.06
+NY-CMP-1645,Email,"Premium Shoppers",Instagram,Tamil,"Tier 2 City Customers",2025-04-08,2025-04-08,16,86464,5105,1301,651,322245,365.09,0.36,8.16
+NY-CMP-1646,SEO,"Premium Shoppers","YouTube, Google, WhatsApp",English,Youth,2025-03-11,2025-03-11,22,33156,1367,814,307,243144,680.18,0.16,7.5
+NY-CMP-1647,SEO,"Tier 2 City Customers","Instagram, Google",Tamil,Youth,2024-11-20,2024-11-20,18,10213,612,217,144,93600,584.17,0.11,9.53
+NY-CMP-1648,"Paid Ads","Premium Shoppers",Google,Tamil,"Tier 2 City Customers",2024-11-25,2024-11-25,22,53691,5317,1117,869,589182,275.09,1.46,13.6
+NY-CMP-1649,SEO,"Premium Shoppers",Instagram,Bengali,"Premium Shoppers",2025-01-02,2025-01-02,18,85903,5184,2315,1159,264252,248.8,-0.08,10.08
+NY-CMP-1650,Influencer,"Working Women","WhatsApp, Email, Google",Tamil,"College Students",2025-05-25,2025-05-25,11,37018,1810,521,294,88494,196.4,0.53,7.09
+NY-CMP-1651,Influencer,"College Students",Email,Tamil,Youth,2025-04-13,2025-04-13,17,19856,2467,1227,815,585170,141.63,4.07,22.71
+NY-CMP-1652,SEO,"College Students",Facebook,English,Youth,2024-09-09,2024-09-09,14,69234,8233,4643,1852,446332,82.83,1.91,21.27
+NY-CMP-1653,Email,"College Students",Google,English,"Premium Shoppers",2025-04-28,2025-04-28,5,96560,8514,3764,2112,1385472,128.66,4.1,14.9
+NY-CMP-1654,"Paid Ads","Working Women",Facebook,Hindi,"College Students",2024-12-09,2024-12-09,16,59618,2772,1208,607,271329,268.78,0.66,7.69
+NY-CMP-1655,"Social Media","Working Women","Facebook, Instagram",English,"Tier 2 City Customers",2025-03-13,2025-03-13,13,26781,1979,957,539,349811,228.8,1.84,12.98
+NY-CMP-1656,SEO,"College Students","Instagram, Google",English,"Tier 2 City Customers",2025-03-27,2025-03-27,13,40053,5960,3158,2110,1601490,89.38,7.49,28.03
+NY-CMP-1657,Influencer,"Premium Shoppers","Email, WhatsApp",Tamil,Youth,2025-05-21,2025-05-21,12,26243,3624,894,548,429084,474.42,0.65,19.3
+NY-CMP-1658,Email,"Premium Shoppers","Google, Instagram",Tamil,"Working Women",2025-04-25,2025-04-25,29,38906,4455,2164,977,341950,109.21,2.2,19.52
+NY-CMP-1659,"Paid Ads","Premium Shoppers","Google, Email, WhatsApp",Tamil,"Working Women",2025-03-13,2025-03-13,15,41701,1469,760,438,168192,360.46,0.07,6.4
+NY-CMP-1660,Email,"Working Women","Email, Google",Tamil,"Tier 2 City Customers",2024-10-24,2024-10-24,16,69994,4481,2541,926,353732,299.62,0.27,11.36
+NY-CMP-1661,SEO,Youth,"WhatsApp, YouTube",Hindi,"College Students",2025-06-08,2025-06-08,12,70470,4309,869,672,238560,380.11,-0.07,8.3
+NY-CMP-1662,Influencer,"Tier 2 City Customers",YouTube,Tamil,"Working Women",2024-08-30,2024-08-30,29,63497,2757,918,430,183180,408.18,0.04,6.46
+NY-CMP-1663,Email,"College Students",Email,Bengali,"Working Women",2024-08-30,2024-08-30,21,64330,6471,3303,1045,545490,188.21,1.77,16.82
+NY-CMP-1664,"Paid Ads","Tier 2 City Customers","Instagram, Facebook, YouTube",Tamil,"College Students",2024-08-26,2024-08-26,27,37348,2813,1103,514,340268,197.01,2.36,11.86
+NY-CMP-1665,Influencer,"Working Women",WhatsApp,Hindi,"Premium Shoppers",2025-05-28,2025-05-28,16,18583,951,535,337,188046,832.73,-0.33,9.81
+NY-CMP-1666,Email,"Premium Shoppers","Email, Facebook, WhatsApp",English,"College Students",2025-06-01,2025-06-01,20,86179,12842,3031,1326,778362,198.63,1.96,19.96
+NY-CMP-1667,Influencer,"College Students","Email, Facebook, WhatsApp",Hindi,"Tier 2 City Customers",2025-02-17,2025-02-17,24,38068,2331,492,359,119547,784.31,-0.58,8.36
+NY-CMP-1668,Influencer,Youth,Instagram,English,"College Students",2024-11-26,2024-11-26,24,76236,10039,5296,2427,512097,25.13,7.39,23.3
+NY-CMP-1669,SEO,Youth,Facebook,English,"Premium Shoppers",2024-08-31,2024-08-31,27,74335,1597,321,187,131835,1510.64,-0.53,2.83
+NY-CMP-1670,"Paid Ads","Tier 2 City Customers","Google, WhatsApp, YouTube",Hindi,"College Students",2025-05-20,2025-05-20,16,68040,5368,2435,1220,893040,158.97,3.6,13.26
+NY-CMP-1671,"Paid Ads","College Students","Email, Instagram, WhatsApp",English,"Working Women",2024-10-09,2024-10-09,23,64032,8938,1977,1259,859897,134.54,4.08,19.01
+NY-CMP-1672,"Paid Ads","Premium Shoppers","Email, WhatsApp",Hindi,"Premium Shoppers",2025-05-03,2025-05-03,20,58893,2884,1597,1229,818514,188.08,2.54,9.7
+NY-CMP-1673,Email,"College Students","Email, Facebook, Google",Bengali,"Tier 2 City Customers",2025-01-17,2025-01-17,17,62139,5242,2221,1647,1189134,181.5,2.98,14.66
+NY-CMP-1674,SEO,"Tier 2 City Customers","WhatsApp, Google",Hindi,"Tier 2 City Customers",2025-04-06,2025-04-06,30,23460,3448,1865,860,546100,205,2.1,26.31
+NY-CMP-1675,Email,"Working Women",Facebook,Hindi,Youth,2025-03-22,2025-03-22,11,58988,3614,917,628,211636,211.6,0.59,8.75
+NY-CMP-1676,Influencer,"Premium Shoppers","Instagram, Facebook",Bengali,Youth,2025-05-15,2025-05-15,5,57324,7205,3395,1336,404808,77.69,2.9,20.82
+NY-CMP-1677,"Social Media",Youth,"Instagram, Email, Facebook",Bengali,"Tier 2 City Customers",2025-01-07,2025-01-07,23,39301,2732,1061,630,131670,289.34,-0.28,11.25
+NY-CMP-1678,"Paid Ads","Working Women","Google, Instagram, YouTube",Hindi,"Premium Shoppers",2025-05-23,2025-05-23,12,70440,9843,3494,2280,984960,123.35,2.5,22.17
+NY-CMP-1679,"Paid Ads","College Students","Instagram, Google, Facebook",English,"College Students",2024-08-08,2024-08-08,7,88689,12594,2797,1283,955835,89.11,7.36,18.8
+NY-CMP-1680,"Social Media","Working Women","YouTube, Google, Instagram",English,"College Students",2025-02-25,2025-02-25,21,18520,1103,256,131,72050,1363.01,-0.6,8.05
+NY-CMP-1681,Influencer,Youth,"Email, YouTube, Instagram",Hindi,"Tier 2 City Customers",2025-04-05,2025-04-05,18,13263,1878,459,247,134121,312.19,0.74,19.48
+NY-CMP-1682,SEO,Youth,"Email, YouTube, Facebook",Bengali,Youth,2025-05-28,2025-05-28,15,74723,7704,4000,2340,1062360,59.78,6.59,18.79
+NY-CMP-1683,SEO,"Working Women","Facebook, WhatsApp, Instagram",English,"Tier 2 City Customers",2025-01-09,2025-01-09,23,73824,6889,4036,1438,849858,184.13,2.21,16.75
+NY-CMP-1684,"Paid Ads","Working Women","Email, Facebook",English,"Tier 2 City Customers",2025-01-26,2025-01-26,21,68880,3286,950,337,175240,857.44,-0.39,6.64
+NY-CMP-1685,"Paid Ads","Premium Shoppers","Google, WhatsApp",Bengali,"College Students",2025-04-02,2025-04-02,16,92052,2420,1013,549,434259,206.53,2.83,4.33
+NY-CMP-1686,"Social Media","Working Women",YouTube,Bengali,Youth,2025-03-31,2025-03-31,22,88749,10861,5599,3805,856125,78.03,1.88,22.83
+NY-CMP-1687,Influencer,"Working Women","Email, Instagram",English,"College Students",2024-09-07,2024-09-07,30,75473,3128,1096,505,372690,270.99,1.72,6.27
+NY-CMP-1688,"Paid Ads","Working Women",Email,Bengali,"Working Women",2024-09-18,2024-09-18,30,57520,3633,815,541,234794,455.37,-0.05,8.67
+NY-CMP-1689,"Paid Ads","Working Women",Instagram,Hindi,"Premium Shoppers",2025-02-20,2025-02-20,6,30651,3088,1346,623,183785,103.62,1.85,16.5
+NY-CMP-1690,Email,"Tier 2 City Customers",Instagram,Bengali,"College Students",2025-03-29,2025-03-29,16,27849,800,329,254,178816,1180.11,-0.4,4.97
+NY-CMP-1691,Email,"Working Women","YouTube, WhatsApp",Tamil,"College Students",2025-02-08,2025-02-08,22,32607,4200,1669,897,566904,186.14,2.4,20.75
+NY-CMP-1692,Email,"Premium Shoppers","Email, Google, Instagram",Hindi,"Working Women",2025-06-15,2025-06-15,10,45944,6214,2213,1609,683825,64.32,5.61,21.84
+NY-CMP-1693,"Paid Ads","Premium Shoppers",WhatsApp,Bengali,"Working Women",2024-12-11,2024-12-11,26,50912,3034,1414,1074,737838,48.07,13.29,10.85
+NY-CMP-1694,"Social Media",Youth,"WhatsApp, Email",Bengali,Youth,2024-07-19,2024-07-19,23,93166,2018,980,509,267734,267.31,0.97,3.76
+NY-CMP-1695,SEO,"Tier 2 City Customers","YouTube, Email",Hindi,Youth,2025-03-04,2025-03-04,30,57374,1532,337,219,112347,1016.48,-0.5,3.64
+NY-CMP-1696,Email,Youth,Email,Tamil,"College Students",2024-12-04,2024-12-04,7,40665,2480,615,255,59160,606.97,-0.62,8.24
+NY-CMP-1697,Email,"Tier 2 City Customers","WhatsApp, YouTube",Hindi,"College Students",2024-12-17,2024-12-17,24,41505,5415,2839,1184,610944,190.23,1.71,22.74
+NY-CMP-1698,"Social Media",Youth,"YouTube, Email, Facebook",Tamil,"Working Women",2024-07-30,2024-07-30,8,99834,3395,1506,954,725994,223.3,2.41,5.86
+NY-CMP-1699,Email,"Tier 2 City Customers","YouTube, Email, WhatsApp",English,"Working Women",2025-04-19,2025-04-19,28,28130,969,302,201,134871,802.89,-0.16,5.23
+NY-CMP-1700,"Social Media","College Students","Google, YouTube",Tamil,"Premium Shoppers",2024-10-02,2024-10-02,30,11872,1182,578,266,69692,1005.95,-0.74,17.07
+NY-CMP-1701,Influencer,"College Students",Instagram,English,"Working Women",2025-02-17,2025-02-17,6,96419,2866,1442,536,147936,449.59,-0.39,5.02
+NY-CMP-1702,"Social Media",Youth,"YouTube, Google, Instagram",Hindi,"Working Women",2024-08-22,2024-08-22,20,28199,1804,839,512,259584,111.53,3.55,11.19
+NY-CMP-1703,"Social Media","Working Women","YouTube, WhatsApp, Email",Tamil,Youth,2024-12-29,2024-12-29,17,95025,6375,3482,1175,796650,212.81,2.19,11.61
+NY-CMP-1704,"Paid Ads","Premium Shoppers","WhatsApp, Facebook",Bengali,"College Students",2024-09-03,2024-09-03,30,83836,4532,1580,600,244800,261.38,0.56,8.01
+NY-CMP-1705,Influencer,"College Students","YouTube, Instagram, Email",Hindi,"Working Women",2024-08-13,2024-08-13,25,38961,5841,2641,832,433472,185.01,1.82,23.91
+NY-CMP-1706,Email,"Tier 2 City Customers","Google, YouTube",Hindi,"Working Women",2024-08-22,2024-08-22,23,81008,8639,3199,1891,1431487,75.76,8.99,16.95
+NY-CMP-1707,Email,"College Students",Email,Bengali,"Premium Shoppers",2024-09-10,2024-09-10,20,55391,3228,793,385,81620,666.26,-0.68,7.95
+NY-CMP-1708,"Paid Ads","Tier 2 City Customers","Email, Facebook",English,"Working Women",2024-11-22,2024-11-22,16,19339,2136,1210,709,365135,261.11,0.97,20.97
+NY-CMP-1709,SEO,"Tier 2 City Customers","Facebook, YouTube, Google",Tamil,"College Students",2024-09-21,2024-09-21,27,47764,1008,366,127,98044,1716.16,-0.55,3.14
+NY-CMP-1710,"Social Media","Premium Shoppers","Email, Facebook, Google",Bengali,Youth,2025-02-13,2025-02-13,26,91495,2253,843,646,273258,267.41,0.58,4.09
+NY-CMP-1711,Influencer,"College Students","WhatsApp, YouTube, Instagram",English,"Premium Shoppers",2024-10-12,2024-10-12,12,53169,4490,2268,861,344400,324.67,0.23,14.33
+NY-CMP-1712,SEO,"Working Women","Google, Instagram, Email",Hindi,"College Students",2024-08-19,2024-08-19,30,75916,10438,3420,1572,971496,74.37,7.31,20.33
+NY-CMP-1713,"Paid Ads","Tier 2 City Customers",Email,Tamil,"Premium Shoppers",2025-04-17,2025-04-17,11,69786,4680,1324,663,262548,184.49,1.15,9.55
+NY-CMP-1714,Email,"Working Women",Email,Tamil,Youth,2024-08-26,2024-08-26,17,70446,3231,970,601,214557,371.2,-0.04,6.82
+NY-CMP-1715,Influencer,"Working Women",Instagram,English,"Working Women",2024-08-11,2024-08-11,26,65800,8996,4071,2307,1434954,123.45,4.04,23.36
+NY-CMP-1716,"Social Media",Youth,Facebook,Bengali,"Premium Shoppers",2024-11-27,2024-11-27,21,70302,8041,1964,995,299495,95.49,2.15,15.65
+NY-CMP-1717,SEO,Youth,YouTube,Bengali,"College Students",2024-07-06,2024-07-06,8,61671,5873,1514,886,649438,236.91,2.09,13.41
+NY-CMP-1718,SEO,"College Students","Email, WhatsApp",Bengali,Youth,2024-12-30,2024-12-30,25,17031,815,459,242,143022,537.58,0.1,8.9
+NY-CMP-1719,Influencer,"Premium Shoppers","WhatsApp, Email, YouTube",Bengali,"Working Women",2024-07-05,2024-07-05,17,77081,1552,813,440,316360,215.71,2.33,3.64
+NY-CMP-1720,Influencer,"Premium Shoppers","YouTube, Facebook",Bengali,"Working Women",2024-07-07,2024-07-07,24,34765,1986,429,321,202230,465.86,0.35,7.87
+NY-CMP-1721,Email,"Tier 2 City Customers","WhatsApp, Instagram, Email",English,"College Students",2025-02-20,2025-02-20,27,43130,882,238,114,40470,1954.66,-0.82,2.86
+NY-CMP-1722,SEO,"College Students",Email,Bengali,"College Students",2025-03-14,2025-03-14,20,57458,4599,2493,1227,669942,101.03,4.4,14.48
+NY-CMP-1723,Influencer,"Working Women","Facebook, Google",Bengali,"Working Women",2024-12-09,2024-12-09,19,68640,6606,1701,1344,956928,87.76,7.11,14.06
+NY-CMP-1724,"Paid Ads","Working Women",WhatsApp,English,Youth,2025-04-21,2025-04-21,13,56785,8244,4046,2055,427440,85.47,1.43,25.26
+NY-CMP-1725,"Social Media","Premium Shoppers","Facebook, Email, Google",Tamil,Youth,2024-09-04,2024-09-04,9,29056,3781,2177,727,509627,89.58,6.83,23.01
+NY-CMP-1726,"Paid Ads","College Students","WhatsApp, Instagram, Google",Hindi,"Tier 2 City Customers",2024-12-31,2024-12-31,6,17707,1825,1021,483,340032,522.95,0.35,18.8
+NY-CMP-1727,"Social Media",Youth,Facebook,Hindi,"Premium Shoppers",2025-03-26,2025-03-26,19,10345,920,521,298,122180,469.99,-0.13,16.81
+NY-CMP-1728,Email,"College Students","WhatsApp, YouTube",Bengali,"Working Women",2024-11-26,2024-11-26,14,94256,12138,5130,2937,878163,29.8,9.03,21.44
+NY-CMP-1729,Influencer,"Tier 2 City Customers","Google, Email, Instagram",Tamil,"Tier 2 City Customers",2025-01-21,2025-01-21,29,34715,2635,793,596,405876,366.46,0.86,11.59
+NY-CMP-1730,"Social Media","Premium Shoppers","YouTube, Instagram, Google",Bengali,"College Students",2024-10-27,2024-10-27,14,22153,3024,799,413,287448,246.42,1.82,19.12
+NY-CMP-1731,Influencer,"Tier 2 City Customers",Facebook,Bengali,Youth,2025-02-01,2025-02-01,8,38083,3562,1932,660,313500,313.56,0.51,16.16
+NY-CMP-1732,SEO,"College Students","Facebook, YouTube",Bengali,Youth,2025-01-29,2025-01-29,6,34959,1479,311,188,128592,1366.88,-0.5,5.66
+NY-CMP-1733,SEO,"Tier 2 City Customers",YouTube,English,Youth,2025-05-12,2025-05-12,8,33656,2212,989,583,290334,217.86,1.29,11.24
+NY-CMP-1734,Influencer,"College Students","Google, WhatsApp",English,"Tier 2 City Customers",2024-10-26,2024-10-26,24,82754,5591,1179,639,307998,106.42,3.53,8.95
+NY-CMP-1735,"Social Media","Working Women","Google, Facebook, Instagram",Hindi,"Premium Shoppers",2024-10-19,2024-10-19,22,13049,1438,572,334,87174,356.54,-0.27,17.96
+NY-CMP-1736,Email,"College Students","Instagram, Facebook, Google",English,"Tier 2 City Customers",2024-12-22,2024-12-22,17,32509,1241,374,294,61152,576.34,-0.64,5.87
+NY-CMP-1737,Influencer,Youth,"Facebook, Instagram, WhatsApp",Hindi,Youth,2025-06-12,2025-06-12,6,91739,5867,3091,1029,680169,205.98,2.21,10.89
+NY-CMP-1738,Influencer,"Working Women","WhatsApp, YouTube, Facebook",Hindi,"College Students",2025-01-08,2025-01-08,15,54922,1692,426,326,223636,917.29,-0.25,4.45
+NY-CMP-1739,Influencer,"College Students","Email, WhatsApp",English,"Premium Shoppers",2025-04-12,2025-04-12,10,15457,1866,584,429,222651,688.85,-0.25,18.63
+NY-CMP-1740,Email,"College Students","WhatsApp, Email",Hindi,"Premium Shoppers",2025-01-04,2025-01-04,22,27263,3222,1477,549,297558,247.3,1.19,19.25
+NY-CMP-1741,"Paid Ads","Premium Shoppers",Google,Hindi,Youth,2024-10-20,2024-10-20,10,51806,1542,327,157,97340,764.99,-0.19,3.91
+NY-CMP-1742,SEO,"Tier 2 City Customers","YouTube, Facebook, Google",English,"Tier 2 City Customers",2025-04-23,2025-04-23,8,68409,3991,798,594,282150,345.6,0.37,7.87
+NY-CMP-1743,"Paid Ads","Tier 2 City Customers","Facebook, YouTube, Email",Tamil,"Tier 2 City Customers",2024-10-28,2024-10-28,9,96668,4849,2337,1776,831168,130.84,2.58,9.27
+NY-CMP-1744,Influencer,"Working Women","Google, Facebook",Bengali,"Tier 2 City Customers",2025-04-04,2025-04-04,17,35851,3305,1075,497,370762,398.97,0.87,13.6
+NY-CMP-1745,Influencer,"College Students","Google, Email",English,"Premium Shoppers",2024-07-22,2024-07-22,29,61374,3268,1307,937,670892,140.42,4.1,8.98
+NY-CMP-1746,"Paid Ads","Premium Shoppers","Facebook, WhatsApp",Hindi,"Tier 2 City Customers",2024-07-20,2024-07-20,20,36685,2018,818,279,87327,973.3,-0.68,8.49
+NY-CMP-1747,"Paid Ads","Working Women","Facebook, YouTube, Instagram",Hindi,Youth,2024-08-29,2024-08-29,20,86637,6577,3489,2728,578336,23.86,7.89,14.77
+NY-CMP-1748,"Paid Ads","Working Women",YouTube,Bengali,Youth,2024-07-28,2024-07-28,18,88623,4732,2222,1100,416900,156.13,1.43,9.09
+NY-CMP-1749,"Paid Ads",Youth,WhatsApp,Hindi,"Premium Shoppers",2024-12-24,2024-12-24,16,85138,3495,1252,431,281012,621.86,0.05,6.08
+NY-CMP-1750,Influencer,"Working Women","Instagram, YouTube",Tamil,"Working Women",2024-07-10,2024-07-10,18,36834,3437,1895,791,337757,197.52,1.16,16.62
+NY-CMP-1751,SEO,"College Students",Facebook,Hindi,"Tier 2 City Customers",2025-03-09,2025-03-09,15,38727,4175,1688,1320,491040,191,0.95,18.55
+NY-CMP-1752,"Social Media","Tier 2 City Customers","Facebook, WhatsApp",Tamil,"Tier 2 City Customers",2025-01-24,2025-01-24,16,18643,772,221,67,14807,3263.19,-0.93,5.69
+NY-CMP-1753,"Social Media",Youth,"Facebook, Google, Instagram",Tamil,"Tier 2 City Customers",2025-02-24,2025-02-24,20,96148,9092,4386,2434,1944766,94.54,7.45,16.55
+NY-CMP-1754,SEO,"Premium Shoppers",Email,Bengali,"Working Women",2024-10-07,2024-10-07,13,53327,2746,1349,956,391004,171.12,1.39,9.47
+NY-CMP-1755,Influencer,Youth,"WhatsApp, Email",Hindi,"College Students",2025-05-05,2025-05-05,21,97185,11138,4000,2421,1396917,111.01,4.2,18.07
+NY-CMP-1756,"Social Media","Working Women","Instagram, WhatsApp",Tamil,"Premium Shoppers",2024-11-25,2024-11-25,17,79863,9112,3909,1717,1033634,73.4,7.2,18.45
+NY-CMP-1757,"Paid Ads","College Students",Google,Tamil,"Premium Shoppers",2024-07-17,2024-07-17,13,20751,1567,635,221,64974,918.19,-0.68,11.68
+NY-CMP-1758,Influencer,"College Students","Facebook, Email, YouTube",Hindi,"College Students",2024-09-30,2024-09-30,30,57300,1272,411,159,70437,767.97,-0.42,3.21
+NY-CMP-1759,"Social Media","Working Women","WhatsApp, YouTube, Facebook",Tamil,Youth,2024-07-09,2024-07-09,25,53555,4471,1902,1088,567936,130.44,3,13.93
+NY-CMP-1760,"Social Media","Premium Shoppers",WhatsApp,Bengali,"Working Women",2025-02-05,2025-02-05,18,62329,7431,1561,896,493696,291.99,0.89,15.86
+NY-CMP-1761,Influencer,"Working Women","YouTube, Facebook, Instagram",Hindi,Youth,2025-04-11,2025-04-11,28,50597,1785,953,596,454152,288.65,1.64,6.59
+NY-CMP-1762,"Social Media","Tier 2 City Customers","WhatsApp, YouTube, Google",Bengali,"College Students",2025-05-11,2025-05-11,11,93411,8512,4422,2724,626520,47.52,3.84,16.76
+NY-CMP-1763,SEO,"Premium Shoppers",Email,Tamil,"Premium Shoppers",2025-04-11,2025-04-11,28,48578,4373,931,349,234179,332.64,1.02,11.64
+NY-CMP-1764,SEO,"Tier 2 City Customers",YouTube,English,"Working Women",2024-12-30,2024-12-30,6,65768,2953,1270,864,342144,75.45,4.25,7.73
+NY-CMP-1765,"Social Media","College Students","Google, Facebook",Tamil,"Working Women",2024-10-30,2024-10-30,21,65851,8522,1797,850,572900,205.24,2.28,16.96
+NY-CMP-1766,SEO,"Premium Shoppers","Email, Instagram",English,"Working Women",2024-11-16,2024-11-16,25,61182,4514,1702,968,517880,228.7,1.34,11.74
+NY-CMP-1767,"Social Media",Youth,"WhatsApp, Facebook, Instagram",English,Youth,2025-01-27,2025-01-27,7,65069,7616,3670,2111,1446035,121.35,4.64,20.59
+NY-CMP-1768,"Social Media","Working Women","WhatsApp, Facebook, YouTube",Bengali,"College Students",2024-07-24,2024-07-24,29,35954,4836,1533,528,392832,168.87,3.41,19.18
+NY-CMP-1769,"Social Media",Youth,Email,English,"Premium Shoppers",2024-12-27,2024-12-27,17,52304,7627,4302,2616,1090872,77.6,4.37,27.81
+NY-CMP-1770,"Social Media",Youth,"YouTube, Google, WhatsApp",English,Youth,2025-02-14,2025-02-14,15,91831,10612,5023,3942,1273266,68.93,3.69,21.32
+NY-CMP-1771,Influencer,"Tier 2 City Customers",Instagram,English,"Premium Shoppers",2025-05-29,2025-05-29,16,19525,2911,1251,886,300354,218.51,0.55,25.85
+NY-CMP-1772,Email,"Tier 2 City Customers","YouTube, WhatsApp, Google",Tamil,"Working Women",2024-11-09,2024-11-09,19,49119,2420,1124,641,295501,253.94,0.82,8.52
+NY-CMP-1773,"Paid Ads","Working Women","WhatsApp, Email",English,"College Students",2024-09-23,2024-09-23,25,74828,9625,3617,1743,829668,75.17,5.33,20.03
+NY-CMP-1774,Influencer,"Working Women","Google, Facebook",Tamil,"College Students",2025-03-12,2025-03-12,7,24792,3148,1647,1112,332488,187.92,0.59,23.83
+NY-CMP-1775,"Paid Ads","Premium Shoppers","WhatsApp, Email",Hindi,"College Students",2024-11-13,2024-11-13,8,38472,3310,1372,964,669980,110.71,5.28,14.68
+NY-CMP-1776,SEO,"College Students","Facebook, Email, WhatsApp",Tamil,Youth,2024-08-28,2024-08-28,14,59214,3617,1557,1038,649788,277.8,1.25,10.49
+NY-CMP-1777,Email,"Tier 2 City Customers","Instagram, Facebook",Bengali,"Working Women",2024-11-20,2024-11-20,13,69788,7754,3949,1587,1060116,169.89,2.93,19.04
+NY-CMP-1778,Email,"Working Women","Facebook, Google, Email",Hindi,"College Students",2024-09-29,2024-09-29,25,64784,3417,873,325,116675,511.17,-0.3,7.12
+NY-CMP-1779,"Paid Ads",Youth,"Facebook, YouTube",Bengali,"College Students",2025-03-04,2025-03-04,17,44992,2520,1363,439,218622,497.45,0,9.61
+NY-CMP-1780,"Paid Ads",Youth,"Email, Instagram",English,"College Students",2024-11-17,2024-11-17,20,64615,7428,1643,547,118699,341.02,-0.36,14.89
+NY-CMP-1781,"Paid Ads","Working Women","Instagram, Google, WhatsApp",Tamil,"College Students",2024-07-04,2024-07-04,19,38593,1993,679,260,98800,481.33,-0.21,7.6
+NY-CMP-1782,"Paid Ads","Premium Shoppers","Email, WhatsApp",Hindi,"Working Women",2025-01-10,2025-01-10,21,31016,2683,634,440,104720,275.68,-0.14,12.11
+NY-CMP-1783,SEO,"Premium Shoppers","Instagram, Google, WhatsApp",Bengali,"Tier 2 City Customers",2025-02-22,2025-02-22,28,64476,5508,1310,1041,517377,272.61,0.82,12.19
+NY-CMP-1784,SEO,Youth,"Google, YouTube",English,"College Students",2025-02-07,2025-02-07,12,68220,5210,1480,683,230171,85.14,2.96,10.81
+NY-CMP-1785,SEO,Youth,"Google, Facebook, WhatsApp",Bengali,Youth,2024-12-01,2024-12-01,15,26153,2774,1265,609,479283,82.67,8.52,17.77
+NY-CMP-1786,"Paid Ads","College Students","Email, Facebook",Tamil,Youth,2024-07-21,2024-07-21,17,19187,920,388,186,80352,1406.39,-0.69,7.79
+NY-CMP-1787,SEO,"Working Women","Facebook, Instagram",Tamil,Youth,2024-11-10,2024-11-10,6,40328,3095,765,321,249096,583.1,0.33,10.37
+NY-CMP-1788,SEO,Youth,"Facebook, Email, YouTube",Bengali,"College Students",2025-01-09,2025-01-09,6,98437,13063,4750,2614,912286,38.65,8.03,20.75
+NY-CMP-1789,"Paid Ads","College Students","Instagram, Email",Bengali,"Tier 2 City Customers",2024-12-06,2024-12-06,9,11231,1189,464,338,155818,396.88,0.16,17.73
+NY-CMP-1790,"Social Media","Tier 2 City Customers","Instagram, YouTube, Facebook",Bengali,Youth,2025-05-22,2025-05-22,7,57776,1529,347,113,47121,2350.3,-0.82,3.44
+NY-CMP-1791,Influencer,Youth,"Google, Email",Bengali,"Tier 2 City Customers",2025-04-07,2025-04-07,13,42522,4227,2132,1101,238917,140.04,0.55,17.54
+NY-CMP-1792,Influencer,"Working Women","Email, Google, WhatsApp",Bengali,"Tier 2 City Customers",2024-11-27,2024-11-27,12,31723,1589,730,537,137472,453.47,-0.44,9
+NY-CMP-1793,Email,"Tier 2 City Customers","WhatsApp, Google, YouTube",Tamil,Youth,2024-10-13,2024-10-13,10,92496,3762,1544,792,588456,211.11,2.52,6.59
+NY-CMP-1794,"Paid Ads","Premium Shoppers","Instagram, Facebook",English,"College Students",2024-08-07,2024-08-07,15,85416,2362,870,261,192879,412.72,0.79,4.09
+NY-CMP-1795,Influencer,"Premium Shoppers",Email,Hindi,"Premium Shoppers",2024-10-10,2024-10-10,18,51904,4532,1465,562,143872,493.28,-0.48,12.64
+NY-CMP-1796,"Social Media","Premium Shoppers","WhatsApp, Facebook, Email",Hindi,Youth,2025-02-22,2025-02-22,23,72141,3595,1530,783,444744,152.39,2.73,8.19
+NY-CMP-1797,Influencer,"Working Women","Instagram, Google",Hindi,"Working Women",2024-08-07,2024-08-07,25,58086,8550,1738,1111,515504,226.48,1.05,19.62
+NY-CMP-1798,Email,"Premium Shoppers",WhatsApp,Hindi,"College Students",2024-07-07,2024-07-07,30,73103,7708,1909,1459,1056316,70.37,9.29,15.15
+NY-CMP-1799,Email,Youth,YouTube,Tamil,"Tier 2 City Customers",2024-12-09,2024-12-09,17,98439,5553,3199,2021,470893,131.92,0.77,10.94
+NY-CMP-1800,Email,"Tier 2 City Customers","WhatsApp, YouTube, Facebook",Bengali,"Working Women",2025-05-21,2025-05-21,16,49826,5988,2259,1123,729950,89.8,6.24,18.81
+NY-CMP-1801,"Paid Ads","Working Women",Google,Hindi,"College Students",2024-09-10,2024-09-10,26,82484,5122,1393,1081,255116,164.93,0.43,9.21
+NY-CMP-1802,"Paid Ads","Premium Shoppers",Email,Hindi,Youth,2024-08-25,2024-08-25,29,45452,2402,792,266,186466,355.17,0.97,7.61
+NY-CMP-1803,Email,"Premium Shoppers",Email,Bengali,"Tier 2 City Customers",2024-10-02,2024-10-02,11,21615,582,306,232,78184,1020.32,-0.67,5.18
+NY-CMP-1804,Influencer,"College Students","Google, WhatsApp, YouTube",English,Youth,2024-09-16,2024-09-16,18,56343,4693,2242,1007,526661,279.32,0.87,14.1
+NY-CMP-1805,SEO,"Premium Shoppers","Google, Instagram",Hindi,Youth,2024-07-25,2024-07-25,15,96602,9617,3372,1871,501428,40.01,5.7,15.38
+NY-CMP-1806,SEO,"College Students","Instagram, Google, YouTube",Bengali,"Working Women",2025-05-17,2025-05-17,20,61721,5986,1715,939,288273,181.85,0.69,14
+NY-CMP-1807,Influencer,"Working Women","YouTube, Email",English,Youth,2024-11-07,2024-11-07,5,83649,5728,1985,1423,570623,125.33,2.2,10.92
+NY-CMP-1808,SEO,"Tier 2 City Customers","Facebook, WhatsApp",Bengali,Youth,2024-12-28,2024-12-28,30,21930,1294,303,189,95823,290.71,0.74,8.14
+NY-CMP-1809,"Social Media","Working Women","Facebook, Email, WhatsApp",Bengali,"College Students",2024-10-03,2024-10-03,25,82238,9376,4003,1851,805185,103.25,3.21,18.52
+NY-CMP-1810,Influencer,Youth,Instagram,English,"Tier 2 City Customers",2024-12-22,2024-12-22,7,71367,8041,4579,3068,2350088,42.3,17.11,21.98
+NY-CMP-1811,"Social Media","College Students",Google,Hindi,"Premium Shoppers",2024-08-25,2024-08-25,29,57762,7992,4372,2684,2098888,28.91,26.05,26.05
+NY-CMP-1812,Email,"College Students","Instagram, WhatsApp",English,"Working Women",2024-10-20,2024-10-20,13,38408,2590,1455,529,121670,368.1,-0.38,11.91
+NY-CMP-1813,"Paid Ads","Tier 2 City Customers","Google, Instagram",Tamil,"Tier 2 City Customers",2024-07-20,2024-07-20,25,76961,10441,3904,1911,473928,137.41,0.8,21.12
+NY-CMP-1814,"Paid Ads",Youth,Instagram,Tamil,"College Students",2024-10-04,2024-10-04,13,66009,6138,3186,1636,472804,113.2,1.55,16.6
+NY-CMP-1815,SEO,"Working Women",Email,English,"College Students",2024-08-21,2024-08-21,11,72399,9726,4877,1838,1380338,155.99,3.81,22.71
+NY-CMP-1816,"Paid Ads",Youth,"Facebook, Email",Bengali,"Premium Shoppers",2025-06-11,2025-06-11,12,76944,4094,1283,453,242355,584.04,-0.08,7.58
+NY-CMP-1817,Influencer,"Tier 2 City Customers",Facebook,Hindi,"Premium Shoppers",2025-05-03,2025-05-03,15,22138,1240,460,352,202048,754.84,-0.24,9.27
+NY-CMP-1818,Email,"Working Women","WhatsApp, Instagram",English,"Tier 2 City Customers",2025-04-09,2025-04-09,14,31685,3640,1833,576,310464,405,0.33,19.09
+NY-CMP-1819,SEO,Youth,"YouTube, WhatsApp, Email",Tamil,"College Students",2024-08-03,2024-08-03,15,13397,1747,380,144,84960,2056.59,-0.71,16.95
+NY-CMP-1820,Email,"Premium Shoppers","YouTube, Facebook",Bengali,"Tier 2 City Customers",2025-05-01,2025-05-01,5,37808,2994,1410,963,249417,276.4,-0.06,14.2
+NY-CMP-1821,"Paid Ads",Youth,Facebook,Tamil,"College Students",2025-02-04,2025-02-04,15,59578,4572,2088,1383,461922,118.23,1.83,13.5
+NY-CMP-1822,SEO,Youth,Email,Tamil,"Premium Shoppers",2024-07-16,2024-07-16,17,17174,1615,529,323,241927,893.27,-0.16,14.36
+NY-CMP-1823,"Paid Ads",Youth,YouTube,English,"Premium Shoppers",2024-10-06,2024-10-06,23,63250,4352,1997,744,397296,316.21,0.69,11.21
+NY-CMP-1824,"Paid Ads","Tier 2 City Customers","Facebook, Instagram, Google",English,Youth,2024-08-13,2024-08-13,7,47599,1787,749,319,66990,261.86,-0.2,6
+NY-CMP-1825,Influencer,Youth,"Instagram, YouTube, Email",Tamil,"Working Women",2024-09-14,2024-09-14,14,46989,4592,1246,941,350052,274.8,0.35,14.43
+NY-CMP-1826,"Social Media","Premium Shoppers","Google, Email, YouTube",Tamil,"College Students",2025-05-08,2025-05-08,6,28791,2887,1363,625,443750,209.76,2.38,16.93
+NY-CMP-1827,Email,"College Students","Email, Facebook",English,"Premium Shoppers",2025-02-09,2025-02-09,17,69302,9786,4376,3335,1904285,66.98,7.52,25.25
+NY-CMP-1828,"Social Media","Premium Shoppers",Email,Tamil,"College Students",2025-05-01,2025-05-01,21,96576,6574,2012,892,506656,272.16,1.09,9.81
+NY-CMP-1829,"Social Media",Youth,"Google, YouTube, Instagram",English,"Premium Shoppers",2024-11-17,2024-11-17,15,95206,9762,4539,2348,749012,118.76,1.69,17.49
+NY-CMP-1830,"Paid Ads","Premium Shoppers","Instagram, WhatsApp",Tamil,"Premium Shoppers",2025-02-04,2025-02-04,25,41667,4151,1665,1220,492880,64.06,5.31,16.89
+NY-CMP-1831,"Paid Ads","Tier 2 City Customers",Email,Bengali,Youth,2025-01-02,2025-01-02,9,75865,6780,3391,1654,342378,73.41,1.82,15.59
+NY-CMP-1832,"Paid Ads",Youth,"Google, Facebook, WhatsApp",Bengali,Youth,2025-02-04,2025-02-04,12,32966,4101,1017,783,496422,326.98,0.94,17.9
+NY-CMP-1833,"Paid Ads","Premium Shoppers","Google, Instagram, WhatsApp",Bengali,"Working Women",2025-01-08,2025-01-08,14,78901,5933,1992,779,467400,347.44,0.73,11.03
+NY-CMP-1834,Influencer,Youth,Instagram,English,"Premium Shoppers",2024-08-16,2024-08-16,28,58625,4691,2002,1247,880382,47.51,13.86,13.54
+NY-CMP-1835,"Paid Ads",Youth,"Facebook, WhatsApp, Google",Tamil,"Working Women",2024-07-04,2024-07-04,18,57039,4384,999,778,408450,333.25,0.58,10.8
+NY-CMP-1836,Influencer,"Tier 2 City Customers","Instagram, Facebook",Hindi,"Tier 2 City Customers",2025-06-03,2025-06-03,7,84987,11904,4413,2412,1109520,68.56,5.71,22.04
+NY-CMP-1837,"Social Media","Working Women","YouTube, Google, Email",English,"Premium Shoppers",2025-02-11,2025-02-11,11,56514,5722,1515,1167,245070,103.99,1.02,14.87
+NY-CMP-1838,"Paid Ads","College Students","Facebook, YouTube, Instagram",English,"Tier 2 City Customers",2024-11-02,2024-11-02,5,67550,7945,2623,1927,1163908,150.65,3.01,18.5
+NY-CMP-1839,SEO,"College Students",WhatsApp,Tamil,"Tier 2 City Customers",2025-06-10,2025-06-10,6,66416,4839,2693,1958,843898,74.54,4.78,14.29
+NY-CMP-1840,"Paid Ads","Working Women",Google,English,"Premium Shoppers",2025-01-20,2025-01-20,11,48259,1088,647,493,143956,436.47,-0.33,4.62
+NY-CMP-1841,Influencer,"Working Women",Email,Bengali,"College Students",2025-03-09,2025-03-09,10,72203,1700,391,126,72450,1962.83,-0.71,3.07
+NY-CMP-1842,Email,Youth,"Facebook, YouTube",Bengali,"Tier 2 City Customers",2025-01-26,2025-01-26,16,13193,1160,427,289,217617,1004.47,-0.25,14.22
+NY-CMP-1843,Influencer,"Working Women","YouTube, Instagram, Email",Bengali,Youth,2024-11-17,2024-11-17,13,17454,1734,890,402,259692,195.12,2.31,17.34
+NY-CMP-1844,"Social Media","Tier 2 City Customers","WhatsApp, Google, Facebook",Bengali,"Premium Shoppers",2025-04-20,2025-04-20,22,43452,6065,1568,903,643839,75.11,8.49,19.64
+NY-CMP-1845,Email,"Tier 2 City Customers",Facebook,English,"College Students",2024-12-10,2024-12-10,25,22413,1675,714,271,71815,220.72,0.2,11.87
+NY-CMP-1846,"Paid Ads","Premium Shoppers","Google, YouTube",English,Youth,2025-01-20,2025-01-20,19,40581,1593,886,451,307131,404.7,0.68,7.22
+NY-CMP-1847,SEO,"College Students","Google, WhatsApp",Tamil,"College Students",2024-10-14,2024-10-14,28,28513,2132,580,419,331429,576.33,0.37,10.98
+NY-CMP-1848,Email,"College Students",Email,Tamil,"Tier 2 City Customers",2024-07-10,2024-07-10,28,14147,1461,837,609,249690,421.8,-0.03,20.55
+NY-CMP-1849,SEO,Youth,"Facebook, Instagram",English,"Premium Shoppers",2025-01-26,2025-01-26,13,38707,1106,319,185,94165,703.51,-0.28,4.16
+NY-CMP-1850,Email,"Premium Shoppers","Email, Google",English,"Working Women",2025-04-22,2025-04-22,11,43540,6497,3227,1575,1234800,178.52,3.39,25.95
+NY-CMP-1851,"Paid Ads","College Students",YouTube,Tamil,Youth,2025-04-19,2025-04-19,28,45468,3810,1031,442,305422,222.74,2.1,11.62
+NY-CMP-1852,Influencer,"College Students","WhatsApp, Email",Hindi,"Premium Shoppers",2025-01-11,2025-01-11,29,41505,6170,3483,2771,961537,52.41,5.62,29.93
+NY-CMP-1853,"Paid Ads","Working Women","WhatsApp, Google, YouTube",Bengali,"Tier 2 City Customers",2024-11-03,2024-11-03,20,96602,6466,1867,1479,961350,41.85,14.53,10.16
+NY-CMP-1854,"Social Media","College Students","WhatsApp, Email",Tamil,"Working Women",2024-11-16,2024-11-16,8,29986,1376,514,325,246350,858.9,-0.12,7.39
+NY-CMP-1855,Influencer,"College Students","Instagram, WhatsApp",Bengali,"Tier 2 City Customers",2025-05-07,2025-05-07,9,52781,6190,3519,1965,1554315,29.22,26.07,22.12
+NY-CMP-1856,SEO,Youth,"WhatsApp, Instagram",Hindi,"College Students",2024-10-26,2024-10-26,25,69299,8802,4029,1594,564276,55.71,5.35,20.82
+NY-CMP-1857,"Paid Ads","Working Women","Email, Google, Instagram",Tamil,Youth,2024-09-12,2024-09-12,6,31670,3702,2008,963,311049,255.91,0.26,21.07
+NY-CMP-1858,"Social Media","College Students",Instagram,Tamil,"Tier 2 City Customers",2024-07-08,2024-07-08,17,48282,4460,1741,1078,271656,267.47,-0.06,15.08
+NY-CMP-1859,"Paid Ads","Tier 2 City Customers","Email, Facebook",English,"College Students",2024-10-27,2024-10-27,18,83849,7862,1985,650,314600,458.64,0.06,12.52
+NY-CMP-1860,"Social Media","Working Women","Google, Facebook, YouTube",English,Youth,2025-01-24,2025-01-24,9,43278,5677,2376,1309,683298,88.83,4.88,21.63
+NY-CMP-1861,SEO,"Working Women",WhatsApp,Tamil,"College Students",2024-12-06,2024-12-06,27,70387,4252,2294,1545,692160,156.49,1.86,11.5
+NY-CMP-1862,"Social Media","College Students","YouTube, Email, Google",Hindi,"Working Women",2024-07-28,2024-07-28,10,62286,4826,2011,1244,291096,108.13,1.16,12.97
+NY-CMP-1863,Influencer,"Premium Shoppers","WhatsApp, Facebook",Hindi,"Tier 2 City Customers",2025-04-06,2025-04-06,30,56101,5619,3054,1902,1202064,49.61,11.74,18.85
+NY-CMP-1864,"Paid Ads","Working Women","Instagram, YouTube, Email",Tamil,"College Students",2024-10-24,2024-10-24,22,61482,2768,1572,518,395752,159.93,3.78,7.9
+NY-CMP-1865,SEO,"College Students","WhatsApp, Facebook, Google",Tamil,"Working Women",2024-08-08,2024-08-08,19,57598,3097,1266,600,310800,279.34,0.85,8.62
+NY-CMP-1866,Influencer,"Working Women",WhatsApp,English,Youth,2025-04-17,2025-04-17,16,67958,7166,2675,1623,373290,107.45,1.14,16.87
+NY-CMP-1867,SEO,"Working Women","Email, YouTube",Bengali,"Tier 2 City Customers",2025-04-19,2025-04-19,16,60914,2936,1483,1013,466993,64.35,6.16,8.92
+NY-CMP-1868,SEO,"Tier 2 City Customers","Email, Instagram",Tamil,"College Students",2025-04-18,2025-04-18,16,73094,10190,3909,1398,673836,104.18,3.63,21.2
+NY-CMP-1869,SEO,"Tier 2 City Customers",YouTube,Hindi,Youth,2024-10-12,2024-10-12,20,89331,3365,1705,1183,330057,253.04,0.1,7
+NY-CMP-1870,Email,"Tier 2 City Customers","WhatsApp, Instagram",English,"Premium Shoppers",2024-12-12,2024-12-12,25,84264,5068,1604,1212,892032,162.05,3.54,9.36
+NY-CMP-1871,SEO,"Tier 2 City Customers","Facebook, Email, Google",Bengali,"Tier 2 City Customers",2024-08-07,2024-08-07,23,57610,8167,2777,1612,1233180,152.81,4.01,21.79
+NY-CMP-1872,Influencer,"Tier 2 City Customers","Instagram, Google, Facebook",English,"Working Women",2025-04-10,2025-04-10,23,39000,2193,1118,685,322635,257.82,0.83,10.25
+NY-CMP-1873,Email,"Premium Shoppers","Facebook, Google, YouTube",English,Youth,2025-05-18,2025-05-18,20,76327,5411,2369,1049,597930,278.22,1.05,11.57
+NY-CMP-1874,SEO,"Tier 2 City Customers","Google, Instagram, Facebook",English,"Tier 2 City Customers",2025-03-27,2025-03-27,19,87903,5932,2736,937,656837,81.49,7.6,10.93
+NY-CMP-1875,SEO,"Premium Shoppers","Instagram, Email",Bengali,Youth,2025-01-01,2025-01-01,24,40499,2290,791,599,174309,88.14,2.3,9.09
+NY-CMP-1876,Influencer,"Tier 2 City Customers","Facebook, YouTube",Tamil,"Premium Shoppers",2024-12-08,2024-12-08,17,32872,1366,290,186,147870,912.82,-0.13,5.6
+NY-CMP-1877,Email,"Tier 2 City Customers","Google, Email, Facebook",Bengali,"Working Women",2025-01-10,2025-01-10,20,11315,411,121,81,52731,704.83,-0.08,5.42
+NY-CMP-1878,"Social Media","College Students","Email, Facebook",English,Youth,2024-07-08,2024-07-08,10,27856,3359,1967,805,264845,77.44,3.25,22.01
+NY-CMP-1879,SEO,"Working Women","WhatsApp, Instagram, Facebook",English,"Working Women",2025-03-14,2025-03-14,23,26461,3588,1198,481,288600,608.81,-0.01,19.9
+NY-CMP-1880,Email,"College Students",Facebook,Bengali,"Premium Shoppers",2024-08-23,2024-08-23,28,75746,7695,2313,1484,1172360,192.17,3.11,15.17
+NY-CMP-1881,"Social Media","Tier 2 City Customers",WhatsApp,Hindi,"Tier 2 City Customers",2024-08-20,2024-08-20,14,52688,3739,1568,537,363549,240.44,1.82,11.09
+NY-CMP-1882,"Paid Ads","College Students","YouTube, WhatsApp, Email",Hindi,"Premium Shoppers",2025-02-14,2025-02-14,23,34731,3641,1486,939,198129,224.22,-0.06,17.47
+NY-CMP-1883,Influencer,"Working Women",Email,Hindi,"Premium Shoppers",2025-03-02,2025-03-02,18,34353,4155,1710,867,681462,152.03,4.17,19.6
+NY-CMP-1884,"Social Media","Working Women","Email, Facebook",Bengali,"College Students",2024-12-04,2024-12-04,25,28523,3786,1044,730,255500,183.91,0.9,19.49
+NY-CMP-1885,"Social Media",Youth,WhatsApp,Bengali,"College Students",2025-02-28,2025-02-28,15,88723,8224,4737,3542,2518362,16.03,43.36,18.6
+NY-CMP-1886,Email,"Working Women",Instagram,Bengali,"Premium Shoppers",2024-12-08,2024-12-08,20,57112,4102,2087,658,493500,221.31,2.39,11.99
+NY-CMP-1887,"Social Media","Premium Shoppers","Email, Google, Facebook",Bengali,"Working Women",2024-07-22,2024-07-22,17,87278,4207,1545,723,336195,125.26,2.71,7.42
+NY-CMP-1888,Email,"Tier 2 City Customers","YouTube, Facebook",Tamil,"Working Women",2024-11-23,2024-11-23,6,97901,14549,7758,4438,1429036,18.48,16.42,27.32
+NY-CMP-1889,SEO,Youth,Email,Hindi,"Working Women",2024-09-18,2024-09-18,6,14787,605,272,174,104748,697.23,-0.14,7.11
+NY-CMP-1890,"Social Media","Premium Shoppers","YouTube, Google",Hindi,"Tier 2 City Customers",2025-05-23,2025-05-23,13,37049,3184,753,484,165044,357.82,-0.05,11.93
+NY-CMP-1891,Influencer,"Working Women","WhatsApp, YouTube",Bengali,Youth,2024-11-29,2024-11-29,12,23023,2290,1257,755,450735,221.42,1.7,18.69
+NY-CMP-1892,"Social Media","Working Women",Instagram,Bengali,"Premium Shoppers",2025-03-23,2025-03-23,28,99435,4162,1180,661,272993,396.02,0.04,6.04
+NY-CMP-1893,Email,Youth,"Email, Facebook",English,"Premium Shoppers",2025-01-24,2025-01-24,22,13497,525,257,188,146264,690.34,0.13,7.19
+NY-CMP-1894,"Paid Ads",Youth,"Email, YouTube, Google",English,Youth,2024-11-29,2024-11-29,30,40195,1952,1168,887,652832,60.95,11.08,9.97
+NY-CMP-1895,"Social Media","Premium Shoppers","Instagram, Google, WhatsApp",English,Youth,2024-11-24,2024-11-24,21,67206,8337,2021,786,608364,213.59,2.62,16.58
+NY-CMP-1896,Influencer,"Premium Shoppers","WhatsApp, Instagram, Email",Bengali,"Working Women",2024-07-10,2024-07-10,17,50767,1160,563,247,64467,601.12,-0.57,3.88
+NY-CMP-1897,SEO,"Tier 2 City Customers","WhatsApp, Instagram, YouTube",Bengali,Youth,2025-01-17,2025-01-17,26,27696,3434,1618,1259,751623,137.07,3.36,22.79
+NY-CMP-1898,Email,Youth,YouTube,Hindi,Youth,2025-05-06,2025-05-06,20,10667,1302,510,302,150094,745.94,-0.33,19.82
+NY-CMP-1899,"Paid Ads","Working Women",Email,English,"Tier 2 City Customers",2025-05-13,2025-05-13,28,97393,3657,820,477,220851,143.25,2.23,5.09
+NY-CMP-1900,Email,"Premium Shoppers","Instagram, Google",Hindi,Youth,2024-10-22,2024-10-22,13,90492,4242,1811,1191,877767,111.9,5.59,8.01
+NY-CMP-1901,"Social Media","Working Women","Email, WhatsApp",Hindi,Youth,2024-12-11,2024-12-11,12,42636,4732,2488,1965,1432485,150.5,3.84,21.54
+NY-CMP-1902,Email,"Tier 2 City Customers","Facebook, Google, YouTube",English,Youth,2024-08-04,2024-08-04,27,25561,2871,1721,1043,515242,142.59,2.46,22.05
+NY-CMP-1903,"Paid Ads","Premium Shoppers","Email, Facebook",English,"Premium Shoppers",2024-09-28,2024-09-28,13,29277,3010,1146,517,379478,571.41,0.28,15.96
+NY-CMP-1904,"Social Media","Tier 2 City Customers","WhatsApp, Email, Facebook",Tamil,"Working Women",2024-12-09,2024-12-09,19,49627,4573,2549,1689,839433,107.88,3.61,17.75
+NY-CMP-1905,Email,Youth,Google,Tamil,"Tier 2 City Customers",2025-04-19,2025-04-19,18,37197,5202,2697,1694,467544,169.33,0.63,25.79
+NY-CMP-1906,"Paid Ads","Tier 2 City Customers","YouTube, Instagram",English,Youth,2024-07-01,2024-07-01,17,62316,6986,2247,1561,393372,54.14,3.65,17.32
+NY-CMP-1907,SEO,"College Students","YouTube, WhatsApp",English,"Tier 2 City Customers",2025-01-11,2025-01-11,14,63088,7658,2266,1286,286778,52.07,3.28,17.77
+NY-CMP-1908,SEO,"College Students","YouTube, Google, WhatsApp",Tamil,"Working Women",2025-01-10,2025-01-10,21,39077,5634,1525,890,663940,115.87,5.44,20.6
+NY-CMP-1909,Email,Youth,"Email, Facebook",Bengali,"Tier 2 City Customers",2024-07-31,2024-07-31,29,72865,6634,3779,2064,1027872,62.99,6.91,17.12
+NY-CMP-1910,"Social Media","Tier 2 City Customers","WhatsApp, Email",Hindi,Youth,2025-01-30,2025-01-30,8,39522,5430,2703,1564,833612,46.62,10.43,24.54
+NY-CMP-1911,SEO,"Working Women","YouTube, Instagram",English,Youth,2024-08-28,2024-08-28,6,14720,1553,851,379,116732,170.63,0.81,18.91
+NY-CMP-1912,Email,"Tier 2 City Customers","YouTube, Google",Bengali,Youth,2024-07-21,2024-07-21,29,79084,3833,1586,1043,624757,109.8,4.46,8.17
+NY-CMP-1913,Email,"Working Women","Instagram, WhatsApp",English,Youth,2025-03-07,2025-03-07,29,40249,2958,993,528,241824,184.68,1.48,11.13
+NY-CMP-1914,Email,Youth,"WhatsApp, Facebook",English,"Premium Shoppers",2024-12-16,2024-12-16,9,96217,5534,1800,854,252784,166.05,0.78,8.51
+NY-CMP-1915,SEO,"Premium Shoppers","Facebook, WhatsApp, YouTube",Tamil,"Working Women",2025-02-19,2025-02-19,26,62399,4425,1158,896,417536,120.98,2.85,10.38
+NY-CMP-1916,Email,"Premium Shoppers","Email, Instagram, YouTube",Hindi,"College Students",2024-07-07,2024-07-07,21,40952,3255,1075,386,193772,669.61,-0.25,11.52
+NY-CMP-1917,Influencer,"Working Women","Facebook, Google, YouTube",Tamil,"Tier 2 City Customers",2025-02-04,2025-02-04,26,38655,5194,2346,1859,667381,39.11,8.18,24.32
+NY-CMP-1918,"Paid Ads","College Students","Google, YouTube",Tamil,"Tier 2 City Customers",2024-08-20,2024-08-20,14,74491,10818,3632,1140,694260,202.09,2.01,20.93
+NY-CMP-1919,Email,Youth,YouTube,Hindi,"Tier 2 City Customers",2024-10-29,2024-10-29,28,22174,2611,1111,410,218530,233.32,1.28,18.63
+NY-CMP-1920,"Social Media","Tier 2 City Customers","Email, Google",Tamil,"Tier 2 City Customers",2024-12-12,2024-12-12,18,73581,3565,1414,639,168057,300.44,-0.12,7.64
+NY-CMP-1921,Influencer,"College Students","WhatsApp, Instagram, Facebook",English,"College Students",2025-06-22,2025-06-22,7,18602,1835,897,297,229284,501.3,0.54,16.28
+NY-CMP-1922,"Paid Ads","Tier 2 City Customers","Facebook, Email",Bengali,"Premium Shoppers",2025-04-05,2025-04-05,14,59636,7610,2133,1704,1242216,50.99,13.3,19.19
+NY-CMP-1923,Email,Youth,Facebook,Bengali,"Tier 2 City Customers",2024-09-17,2024-09-17,27,61206,8034,1641,1255,399090,211.86,0.5,17.86
+NY-CMP-1924,"Paid Ads","College Students",WhatsApp,English,"College Students",2024-09-17,2024-09-17,25,98579,3954,1804,601,439331,88.78,7.23,6.45
+NY-CMP-1925,Email,"Tier 2 City Customers",WhatsApp,Hindi,"College Students",2024-12-16,2024-12-16,24,97620,7794,4672,2548,1709708,62,9.82,15.38
+NY-CMP-1926,Email,"Tier 2 City Customers",WhatsApp,Tamil,"Premium Shoppers",2025-04-06,2025-04-06,9,62654,8560,3298,1735,733905,40.12,9.54,21.7
+NY-CMP-1927,Influencer,"Tier 2 City Customers","Instagram, WhatsApp",Tamil,"Working Women",2025-05-01,2025-05-01,12,28609,1605,719,274,112888,614.39,-0.33,9.08
+NY-CMP-1928,"Social Media","College Students",Email,Tamil,"Premium Shoppers",2024-11-22,2024-11-22,17,30607,3151,1323,761,194816,362.99,-0.29,17.1
+NY-CMP-1929,SEO,"Working Women","Facebook, YouTube",Bengali,"College Students",2025-04-12,2025-04-12,30,96982,6452,2620,1699,399265,61.3,2.83,11.11
+NY-CMP-1930,Email,"College Students","WhatsApp, Google",Tamil,"Working Women",2025-05-16,2025-05-16,21,24722,2665,872,300,158700,805.11,-0.34,15.52
+NY-CMP-1931,Influencer,Youth,Facebook,English,Youth,2024-07-03,2024-07-03,26,39929,3747,1149,401,284710,361.57,0.96,13.27
+NY-CMP-1932,"Paid Ads","Premium Shoppers","WhatsApp, Email, YouTube",Hindi,"Working Women",2025-01-21,2025-01-21,29,27294,654,277,92,72956,867.66,-0.09,3.75
+NY-CMP-1933,"Paid Ads","College Students","Facebook, YouTube, Google",English,"Working Women",2024-11-24,2024-11-24,24,64791,5107,1187,418,221540,162.2,2.27,10.36
+NY-CMP-1934,SEO,"College Students","Facebook, WhatsApp, YouTube",Tamil,"Working Women",2024-10-05,2024-10-05,17,75149,8943,2050,957,695739,175.41,3.14,15.9
+NY-CMP-1935,SEO,"Premium Shoppers","YouTube, WhatsApp, Email",Bengali,"Working Women",2024-12-20,2024-12-20,21,39520,5023,2889,1173,561867,136.76,2.5,22.99
+NY-CMP-1936,"Social Media","Tier 2 City Customers","WhatsApp, Email, Instagram",English,Youth,2025-01-20,2025-01-20,13,19944,2122,747,479,131246,196.96,0.39,16.79
+NY-CMP-1937,Influencer,Youth,"Email, Google",Bengali,"College Students",2025-01-30,2025-01-30,26,34152,2610,733,253,148764,1063.29,-0.45,10.53
+NY-CMP-1938,"Social Media","Premium Shoppers","YouTube, Email, Facebook",Bengali,Youth,2025-03-08,2025-03-08,28,16338,850,410,315,202230,810.49,-0.21,9.64
+NY-CMP-1939,Influencer,"Working Women","Facebook, Email",Bengali,"Premium Shoppers",2024-10-09,2024-10-09,9,30626,3518,1104,838,631014,123.43,5.1,17.83
+NY-CMP-1940,SEO,Youth,Facebook,English,"Working Women",2025-04-12,2025-04-12,23,24784,2134,599,213,158472,1383.91,-0.46,11.89
+NY-CMP-1941,Email,"Working Women","YouTube, Facebook",English,"College Students",2025-03-14,2025-03-14,10,32692,3295,1302,976,425536,281.27,0.55,17.05
+NY-CMP-1942,SEO,"Premium Shoppers","WhatsApp, Google",Hindi,"Premium Shoppers",2025-01-09,2025-01-09,27,53144,3442,807,489,184842,549.02,-0.31,8.92
+NY-CMP-1943,Influencer,"College Students","Google, YouTube, Facebook",Tamil,Youth,2024-12-15,2024-12-15,14,52958,6805,1980,1308,770412,209.8,1.81,19.06
+NY-CMP-1944,SEO,"Working Women",Email,Tamil,"Working Women",2025-04-23,2025-04-23,7,76844,6573,1660,1001,328328,94.72,2.46,12.02
+NY-CMP-1945,"Paid Ads","College Students","Facebook, Google, Instagram",Tamil,"College Students",2025-05-07,2025-05-07,12,58528,3075,1302,747,389187,205.01,1.54,8.75
+NY-CMP-1946,"Paid Ads","Premium Shoppers","WhatsApp, Google, Instagram",English,"Tier 2 City Customers",2025-01-27,2025-01-27,22,63505,9081,4460,2222,1099890,93.97,4.27,24.82
+NY-CMP-1947,SEO,Youth,"Instagram, WhatsApp, Google",Bengali,"Premium Shoppers",2025-05-07,2025-05-07,16,18795,942,543,342,142614,652.27,-0.36,9.72
+NY-CMP-1948,"Paid Ads","Premium Shoppers",YouTube,English,"Premium Shoppers",2025-02-19,2025-02-19,22,68956,5933,3518,2435,1631450,72.01,8.3,17.24
+NY-CMP-1949,SEO,"College Students","Email, YouTube",Bengali,"College Students",2025-03-02,2025-03-02,26,75367,2927,1010,424,203944,379.71,0.27,5.79
+NY-CMP-1950,"Paid Ads",Youth,"YouTube, Google, WhatsApp",English,Youth,2024-10-25,2024-10-25,22,41179,6108,1542,1167,764385,114.26,4.73,21.41
+NY-CMP-1951,Influencer,"Working Women",Email,Bengali,"Working Women",2024-09-04,2024-09-04,21,17823,2183,726,226,70060,1002.76,-0.69,17.59
+NY-CMP-1952,"Social Media","Premium Shoppers","YouTube, WhatsApp",English,"Premium Shoppers",2025-05-04,2025-05-04,5,24724,2255,576,293,126283,721.73,-0.4,12.64
+NY-CMP-1953,Email,"Working Women","Facebook, Google",Hindi,"College Students",2025-04-16,2025-04-16,9,79078,5564,1586,717,382161,272.88,0.95,9.95
+NY-CMP-1954,"Social Media",Youth,"Google, WhatsApp",Bengali,"Working Women",2024-10-24,2024-10-24,26,61722,6584,3476,2535,795990,83.27,2.77,20.41
+NY-CMP-1955,SEO,"College Students","Google, Facebook",Bengali,"Working Women",2025-05-22,2025-05-22,16,77775,2403,536,191,39919,1436.63,-0.85,4.02
+NY-CMP-1956,"Paid Ads","Working Women","YouTube, Instagram",English,"Working Women",2025-02-26,2025-02-26,14,92072,5849,2558,1750,1226750,143.64,3.88,11.03
+NY-CMP-1957,Influencer,Youth,"WhatsApp, Facebook, Instagram",Bengali,"Tier 2 City Customers",2024-12-15,2024-12-15,13,97546,13388,6028,3258,1475874,61.72,6.34,23.24
+NY-CMP-1958,"Paid Ads","College Students",Google,Bengali,"Premium Shoppers",2025-01-25,2025-01-25,17,88472,9910,5890,4696,2127288,20.41,21.19,23.17
+NY-CMP-1959,Influencer,"Working Women","Google, YouTube, Instagram",Tamil,Youth,2024-10-30,2024-10-30,9,46819,6883,2035,1325,364375,174.79,0.57,21.88
+NY-CMP-1960,SEO,Youth,Facebook,Bengali,"Tier 2 City Customers",2025-02-10,2025-02-10,26,77406,4668,2745,1064,228760,255.92,-0.16,10.95
+NY-CMP-1961,SEO,Youth,YouTube,English,"Premium Shoppers",2024-12-31,2024-12-31,26,28339,1610,427,193,88780,987.59,-0.53,7.87
+NY-CMP-1962,Email,"Tier 2 City Customers","Google, Instagram",Bengali,"Premium Shoppers",2024-10-08,2024-10-08,21,88980,8010,2009,1434,727038,154.94,2.27,12.87
+NY-CMP-1963,"Paid Ads","Working Women",WhatsApp,Hindi,"Tier 2 City Customers",2025-02-23,2025-02-23,14,57665,6478,1927,1048,666528,220.74,1.88,16.39
+NY-CMP-1964,"Social Media","Working Women","Facebook, YouTube, Google",Bengali,"College Students",2025-03-11,2025-03-11,14,29230,3723,1897,716,519816,240.83,2.01,21.68
+NY-CMP-1965,"Social Media",Youth,"Instagram, Facebook, Email",English,"Premium Shoppers",2024-09-29,2024-09-29,21,70440,3435,778,381,248031,437.48,0.49,6.52
+NY-CMP-1966,"Social Media","Tier 2 City Customers","Google, Facebook, Instagram",Hindi,"Working Women",2025-02-03,2025-02-03,25,52312,3242,1456,503,385801,439.18,0.75,9.94
+NY-CMP-1967,"Social Media",Youth,Email,Tamil,"Tier 2 City Customers",2024-10-02,2024-10-02,20,87942,6822,2887,2046,619938,77.84,2.89,13.37
+NY-CMP-1968,SEO,"College Students","WhatsApp, Facebook, Instagram",Tamil,"Working Women",2025-01-03,2025-01-03,26,12314,829,410,272,170544,527.19,0.19,12.27
+NY-CMP-1969,SEO,"Premium Shoppers","YouTube, Google",English,"Premium Shoppers",2025-01-10,2025-01-10,17,35038,4485,1278,748,319396,360.6,0.18,18.58
+NY-CMP-1970,SEO,"Tier 2 City Customers","Facebook, Email",English,Youth,2024-07-07,2024-07-07,10,74506,9361,1913,1455,391395,88.43,2.04,17.08
+NY-CMP-1971,SEO,"College Students",YouTube,Hindi,"College Students",2024-10-17,2024-10-17,8,68209,7861,3664,1404,1076868,110.59,5.94,18.95
+NY-CMP-1972,"Paid Ads","Premium Shoppers","YouTube, Instagram, Facebook",English,"Working Women",2025-04-02,2025-04-02,17,78113,9327,3710,2657,587197,87.37,1.53,20.09
+NY-CMP-1973,"Social Media","Tier 2 City Customers",Email,Bengali,Youth,2024-07-13,2024-07-13,5,10061,1252,565,205,126895,885.31,-0.3,20.1
+NY-CMP-1974,"Social Media","Premium Shoppers","Instagram, YouTube",Hindi,Youth,2025-05-12,2025-05-12,14,72592,3842,1967,657,323244,141.15,2.49,8.91
+NY-CMP-1975,Influencer,Youth,"Facebook, Instagram, YouTube",Hindi,"Premium Shoppers",2024-12-31,2024-12-31,21,43830,4103,2331,1461,619464,132.41,2.2,18.01
+NY-CMP-1976,"Paid Ads",Youth,"WhatsApp, Email",English,Youth,2024-09-30,2024-09-30,5,49293,3665,2163,1069,738679,220.92,2.13,13.99
+NY-CMP-1977,SEO,Youth,YouTube,Tamil,"College Students",2024-09-24,2024-09-24,17,13025,900,351,138,56718,857.82,-0.52,10.66
+NY-CMP-1978,Email,"Tier 2 City Customers","YouTube, Facebook",Tamil,"College Students",2024-10-02,2024-10-02,19,94688,13340,3749,2973,2033532,83.05,7.24,21.19
+NY-CMP-1979,Influencer,Youth,"Google, Facebook",English,"Working Women",2025-02-09,2025-02-09,25,22043,1522,904,297,187407,625.02,0.01,12.35
+NY-CMP-1980,SEO,"Tier 2 City Customers","Instagram, Google, Facebook",Tamil,"College Students",2025-03-17,2025-03-17,27,96662,8998,4724,3719,2372722,31.91,18.99,18.04
+NY-CMP-1981,"Paid Ads","Premium Shoppers","Facebook, Email",English,Youth,2025-03-01,2025-03-01,21,33154,4100,1888,1307,589457,181.94,1.48,22
+NY-CMP-1982,"Social Media","College Students","Google, Facebook",Tamil,Youth,2025-05-25,2025-05-25,22,65521,2666,997,719,433557,411.58,0.47,6.69
+NY-CMP-1983,SEO,"Working Women","YouTube, Email",Tamil,Youth,2024-12-08,2024-12-08,23,16264,1635,615,222,116994,1094.59,-0.52,15.2
+NY-CMP-1984,"Paid Ads","College Students","Facebook, Email",Hindi,"Premium Shoppers",2024-10-16,2024-10-16,21,24261,579,334,170,62050,1324.75,-0.72,4.46
+NY-CMP-1985,Email,Youth,Facebook,Tamil,"College Students",2025-05-09,2025-05-09,9,45617,4028,1498,477,321021,118.3,4.69,13.16
+NY-CMP-1986,Influencer,"Tier 2 City Customers","YouTube, Instagram, WhatsApp",English,"Working Women",2024-11-23,2024-11-23,26,30425,4406,1040,639,288189,208.03,1.17,20
+NY-CMP-1987,SEO,Youth,Google,Hindi,"Premium Shoppers",2024-09-06,2024-09-06,10,81259,5620,1166,704,506880,180.35,2.99,9.22
+NY-CMP-1988,Influencer,"Tier 2 City Customers","WhatsApp, Google",Tamil,"Tier 2 City Customers",2024-12-28,2024-12-28,16,58571,3711,1363,439,206769,126.54,2.72,9.41
+NY-CMP-1989,Influencer,"Tier 2 City Customers","Instagram, Facebook",English,"Tier 2 City Customers",2025-03-02,2025-03-02,29,15354,2092,1088,688,491232,126.52,4.64,25.19
+NY-CMP-1990,Influencer,"Working Women","Email, Facebook, YouTube",Tamil,Youth,2024-12-01,2024-12-01,13,56784,1296,521,230,114080,885.5,-0.44,3.6
+NY-CMP-1991,SEO,"College Students","Email, Instagram, WhatsApp",Hindi,"Tier 2 City Customers",2025-03-20,2025-03-20,16,12008,1668,403,297,144342,349.52,0.39,19.72
+NY-CMP-1992,"Paid Ads","Premium Shoppers","Google, YouTube",Bengali,"Tier 2 City Customers",2024-11-08,2024-11-08,5,64806,8899,5044,3191,1975229,56.06,10.04,26.44
+NY-CMP-1993,"Social Media","Working Women","YouTube, Facebook, Instagram",Tamil,"Tier 2 City Customers",2024-11-28,2024-11-28,13,50726,2395,540,295,71685,601.55,-0.6,6.37
+NY-CMP-1994,Influencer,"College Students",WhatsApp,Bengali,"Working Women",2025-01-01,2025-01-01,27,81475,7438,2328,708,238596,337.43,0,12.86
+NY-CMP-1995,Influencer,"Tier 2 City Customers",Google,Bengali,"Working Women",2024-07-01,2024-07-01,12,19354,2690,712,234,149994,1192.35,-0.46,18.79
+NY-CMP-1996,Email,"Working Women",YouTube,English,"Premium Shoppers",2024-10-14,2024-10-14,18,64477,3116,1368,532,143640,112.62,1.4,7.78
+NY-CMP-1997,SEO,"Working Women","Facebook, WhatsApp, Instagram",Hindi,Youth,2025-05-14,2025-05-14,30,28155,1350,601,453,310758,362.55,0.89,8.54
+NY-CMP-1998,Email,"Working Women",Facebook,English,"College Students",2025-05-17,2025-05-17,8,52054,3203,696,228,100320,843.92,-0.48,7.93
+NY-CMP-1999,Email,"Premium Shoppers",WhatsApp,Hindi,"College Students",2025-03-26,2025-03-26,15,23635,1692,457,153,81090,1390.76,-0.62,9.74
