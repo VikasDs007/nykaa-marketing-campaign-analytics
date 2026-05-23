@@ -1,4 +1,3 @@
----
 # 📊 Nykaa Marketing Campaign Performance Analytics
 
 > **An end-to-end SQL + Power BI analytics 
